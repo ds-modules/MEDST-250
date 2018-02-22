@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="F"><teiHeader><fileDesc><titleStmt><title> The Piers Plowman Electronic Archive, Vol. 1: Oxford, Corpus Christi College, MS 201 (F) â Passus 20</title><author>William  Langland</author><editor>Edited by Robert Adams, Hoyt N. Duggan, Eric Eliason, Ralph Hanna, John Price-Wilkin, and Thorlac Turville-Petre </editor><editor>Associate Editors:  M. Gail Duggan and Catherine A. Farley</editor><respStmt><resp> <hi rend="bold">Graduate Research Assistants</hi></resp><name> William O. Albertini, Patricia Bart, Michael Blum, Cristina
+Maria Cervone, John H. Chaffin, Nancy L. Renwick Clendenon, Christopher J. Copeland, David Cox, Stephen C. Martin, Stephen J. Ramsay, and Dominique Woodall.</name></respStmt><respStmt><resp> <hi rend="bold">Computer Consultants and Programmers</hi></resp><name> Oludotun Akinola, Robert W. Bingler, David Cosca, Karen Dietz,
+Susan Gants, Nigel Kerr, Susan Munson, Daniel Pitti, David Seaman, Thornton Staples, John Unsworth, and Peter Yadlowsky.</name></respStmt></titleStmt><!-- <editionStmt>Revised edition</editionStmt>   --><publicationStmt><publisher>Medieval Academy of America
+     </publisher><pubPlace>Cambridge, MA
+     </pubPlace><idno type="ETC">ISBN: 0-472-002???</idno><availability><p>Beta Version of 2nd edition: NOT FOR DISTRIBUTION</p><p>copyright 2002, by SEENET     </p></availability><date>2002     </date></publicationStmt><seriesStmt><p>SEENET A.1
+     </p></seriesStmt><sourceDesc><biblFull><titleStmt><title>Oxford, Corpus Christi College, Oxford, MS 201</title></titleStmt><editionStmt><p>
+     </p></editionStmt><extent>      </extent><publicationStmt><publisher>
+     </publisher><pubPlace>
+     </pubPlace><date>late 14th or early 15th century     </date><idno type="callNo">Source copy consulted: Oxford, Corpus Christi College, Oxford, MS 201</idno></publicationStmt></biblFull></sourceDesc></fileDesc><encodingDesc><editorialDecl><p>
+<list><head>Attribute Values</head><item>
+<label>br</label>
+<term>brown ink</term></item><item>
+<label>ab</label>
+<term>anglicana bastarda</term></item><item>
+<label>it</label>
+<term>italic</term></item><item>
+<label>lc</label>
+<term>Lombard Cap</term></item><item>
+<label>o[number]</label>
+<term>ornamented capital, N lines high</term></item><item>
+<label>rb</label>
+<term>rubricated</term></item><item>
+<label>tr</label>
+<term>touched in red</term></item><item>
+<label>tx</label>
+<term>textura</term></item><item>
+<label>ul</label>
+<term>underlined</term></item><item>
+<label>ur</label>
+<term>underlined in red</term></item><item>
+<label>gr</label>
+<term>green ink</term></item><item>
+<label>bl</label>
+<term>blue ink</term></item></list></p></editorialDecl></encodingDesc><profileDesc><langUsage><language id="lat">Latin</language><language id="fre">French</language><language id="ger">German</language></langUsage><handList><hand id="hand1"/><hand id="hand2"/><hand id="handx"/></handList><textClass><keywords><term>poetry
+     </term><term>masculine 
+     </term></keywords><!--
+     <keywords scheme="LCSH">
+     <term type="Field600">Langland, William,|d1330?-1400?|tPiers the
+Plowman|xCriticism, Textual.
+     </term>
+     <term type="Field650">Christian poetry, English (Middle)|xCriticism,
+Textual.
+     </term>
+     <term type="Field650">Manuscripts, English (Middle)
+     </term>
+     <term type="Field650">Manuscripts, Medieval|zEngland,
+     </term>
+     </keywords>
+--></textClass></profileDesc><revisionDesc><change><date>199901
+     </date><respStmt><resp>cataloger
+     </resp><name>Jackie Shieh
+     </name></respStmt><item>New header created
+     </item></change></revisionDesc></teiHeader><text><front/><body/></text></TEI.2>

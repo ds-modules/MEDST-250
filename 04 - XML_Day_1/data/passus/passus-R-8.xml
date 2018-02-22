@@ -1,0 +1,719 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="R"><teiHeader><fileDesc><titleStmt><title> The Piers Plowman Electronic Archive, Vol. 7: <list><item>London, British Library, MS Lansdowne 398 </item><item>Oxford, Bodleian Library, MS Rawlinson Poetry 38</item></list>
+				 â Passus 8</title><author>William Langland</author><editor>Edited by Robert Adams</editor><editor>Associate Editors: Patricia R. Bart, M. Gail Duggan and Catherine A.
+					Farley</editor><editor>Technical Editor: Daniel Pitti</editor><respStmt><resp>
+						<hi rend="bold">Graduate Research Assistant</hi></resp><name>Michael Blum, John Ivor Carlson, Carrie Lindley, Janice McCoy, Ashley Opps, Timothy L.
+						Stinson, and Jordan Taylor.</name></respStmt><respStmt><resp>
+						<hi rend="bold">Computer Consultants and Programmers</hi></resp><name>Robert Bingler, Shayne Brandon, Cynthia Girard, Chris Jessee, Daniel Pitti, David Seaman,
+						and John Unsworth.</name></respStmt></titleStmt><publicationStmt><publisher>The Medieval Academy of America and <hi rend="bold">SEENET</hi> by Boydell and
+					Brewer, LTD</publisher><pubPlace>Woodbridge, Suffolk</pubPlace><idno type="ETC">ISBN: (Individual) 9781843840947 (Institutional): 9781843840930</idno><availability><p>Commercially available: </p><p>copyright 2011, by SEENET</p></availability><date>2006 </date></publicationStmt><sourceDesc><biblFull><titleStmt><title/></titleStmt><editionStmt><edition>Combined facsimile &amp; documentary edition.</edition><respStmt><resp>Identification of hands</resp><name>IRA = Robert Adams</name></respStmt></editionStmt><extent>1 computer optical disk : col. ; 4 3/4 in.</extent><publicationStmt><publisher>The Medieval Academy of America and <hi rend="bold">SEENET</hi>, by Boydell and
+							Brewer, LTD.</publisher><pubPlace>Woodbridge, Suffolk</pubPlace><date> </date><idno type="callNo">Source copy consulted: London, British Library, MS Lansdowne 398 and
+							Oxford, Bodleian Library, MS Rawlinson Poetry 38</idno></publicationStmt><seriesStmt><p>SEENET, A.9 </p></seriesStmt></biblFull></sourceDesc></fileDesc><encodingDesc><editorialDecl><p>
+					<list><head>Attribute Values</head><item>
+							<label>br</label>
+							<term>brown ink</term></item><item>
+							<label>ab</label>
+							<term>anglicana bastarda</term></item><item>
+							<label>it</label>
+							<term>italic</term></item><item>
+							<label>lc</label>
+							<term>Lombard Cap</term></item><item>
+							<label>o[number]</label>
+							<term>ornamented capital, N lines high</term></item><item>
+							<label>rb</label>
+							<term>rubricated</term></item><item>
+							<label>tr</label>
+							<term>touched in red</term></item><item>
+							<label>tx</label>
+							<term>textura</term></item><item>
+							<label>ul</label>
+							<term>underlined</term></item><item>
+							<label>ur</label>
+							<term>underlined in red</term></item><item>
+							<label>gr</label>
+							<term>green ink</term></item><item>
+							<label>bl</label>
+							<term>blue ink</term></item></list></p></editorialDecl></encodingDesc><profileDesc><langUsage><language id="lat">Latin</language><language id="fre">French</language><language id="ger">German</language></langUsage><handList><hand id="hand1"/><hand id="hand2"/><hand id="handsecx"/><hand id="handx"/><hand id="hand15x"/><hand id="handrub2"/><hand id="handrub3"/><hand id="handitalx"/><hand id="hand16x"/><hand id="handmodx"/></handList></profileDesc><revisionDesc><change><date>November 2005 </date><respStmt><resp>revise header, update DTD and ent files </resp><name>Hoyt N. Duggan </name></respStmt><item>New header created </item></change></revisionDesc></teiHeader><!-- 2012/12/04 PAB converted line numbers and ids to new format. Source text was SVN; COR uncertain. Will need to be rechecked. --><text><body><!--
+	Transcribed Sean Taylor, 1996
+	Proofed against MS:  IRA  1998
+
+	Notes completely revised:  IRA  2004- Feb2005
+	COR transferred to Janice McCoy to have notes inserted  24 March 2005 
+	Revised notes from IRA inserted: JM April 5, 2005
+	Revised notes based on "More Corrections to R Notes.doc" from IRA: JM June 14, 2005
+	Changed marginal adds to marginalia: June 17 2005 JM
+Partial proof entry 1 March 2006 EKK MGD
+
+20060306 HND MGD PRB proof entry finished.
+
+20060405 alpha vs. beta app tagging completed EKK MGD
+
+20060417 app tags proofed except omitted lines HND MGD PRB EKK
+
+20060622 notes checked and corrected for spelling of L EKK
+
+20060626 final app proof MGD PRB EKK
+
+20101012 All shadow hyphen markup entered and proofed.  HND
+--><!--
+	Transcribed Sean Taylor, 1996
+	Proofed against MS:  IRA  1998?
+	Notes supplied by IRA entered by HND   15, 17 Dec 03
+
+	Notes completely revised:  IRA  2004- Feb2005
+	COR transferred to Janice McCoy to have notes inserted  24 March 2005 
+	Revised notes from IRA inserted: JM April 5, 2005
+	Changed marginal adds to marginalia: June 17 2005 JM
+Partial proof entry 1 March 2006 EKK MGD
+
+20060306  HND MGD PRB proof entry finished.
+
+App tagged 15 March 2006 EKK MGD
+
+20060405 alpha vs. beta app tagging completed EKK MGD
+
+20060417 app proofing completed except line omissions HND MGD PRB EKK
+
+20060622 notes checked and corrected for spelling of L EKK
+
+20060626 final app proof MGD PRB EKK
+
+
+
+--><!--
+	Transcribed Sean Taylor, 1996
+	Proofed against MS:  IRA  1998?
+	Notes supplied by IRA entered by HND   15, 17 Dec 03
+
+	Notes completely revised:  IRA  2004- Feb2005
+	COR transferred to Janice McCoy to have notes inserted  24 March 2005 
+	Revised notes from IRA inserted: JM April 12, 2005
+	Revised notes based on "More Corrections to R Notes.doc" from IRA: JM June 14, 2005
+	Changed marginal adds to marginalia: June 17 2005 JM
+Partial proof entry 1 March 2006 EKK MGD
+
+20060306 HND MGD PRB finished proof entry.
+
+RESUME APP TAG AT R3.221
+
+App tagging complete 03202006 EKK MGD
+
+20060405 alpha vs. beta app tagging completed EKK MGD
+
+200604018 HND MGD PRB app poroofed to KD3.203.
+
+20060419 app proofing finished HND MGD EKK
+
+20060622 notes checked and corrected for spelling of L EKK
+
+20060626 final app proof completed EKK MGD PRB
+
+--><!--
+	Transcribed Sean Taylor, 1996
+	Proofed against MS:  IRA  1998?
+	Notes supplied by IRA entered by HND   15, 17 Dec 03
+
+	Notes completely revised:  IRA  2004- Feb2005
+	COR transferred to Janice McCoy to have notes inserted  24 March 2005 
+	Revised notes from IRA inserted: JM April 14, 2005
+	Changed marginal adds to marginalia: June 17 2005 JM
+
+20060307 HND MGD PRB Proof entry finished.
+
+App tags entered 03202006 EKK MGD
+
+20060405 alpha vs. beta app tagging completed EKK MGD
+
+20060622 notes checked and corrected for spelling of L EKK
+
+20060626 final app proof completed EKK PRB Resume at passus 5
+
+
+--><!--
+	Transcribed Sean Taylor, 1996
+	Proofed against MS:  IRA  1998?
+	Notes supplied by IRA entered by HND   15, 17 Dec 03
+
+	Notes completely revised:  IRA  2004-Feb2005
+	COR transferred to Janice McCoy to have notes inserted  24 March 2005 
+	Revised notes from IRA inserted: JM April 19, 2005
+	Revised notes based on "More Corrections to R Notes.doc" from IRA: JM June 14, 2005
+	Changed marginal adds to marginalia: June 17 2005 JM
+
+20060307 HND MGD PRB Proof entry finished.
+
+App tags partially completed 03202006 EKK MGD PRB
+
+20060321 App tagging completed MGD PRB
+
+20060405 alpha vs. beta app tagging completed EKK MGD
+
+20060419 app proofing to R5.33 EKK MGD
+
+20060424 HND MGD PRB EKK app tagging completed.
+
+20060622 notes checked and corrected for spelling of L
+
+20060628 final app proof PRB MGD EKK completed.
+
+--><!--
+	Transcribed Sean Taylor, 1996
+	Proofed against MS:  IRA  1998?
+	Notes supplied by IRA entered by HND   15, 17 Dec 03
+
+	Notes completely revised:  IRA  2004- Feb2005
+	COR transferred to Janice McCoy to have notes inserted  24 March 2005 
+	Revised notes from IRA inserted: JM April 19, 2005
+	Revised notes based on "More Corrections to R Notes.doc" from IRA: JM June 14, 2005
+	Changed marginal adds to marginalia: June 17 2005 JM
+
+20060313 HND MGD PRB Proof entry finished.
+
+20060321 MGD PRB finished app tagging.
+
+20060405 alpha vs. beta app tagging completed EKK MGD
+
+20060425 MGD PRB preliminary app tag proof completed.  HND needs to review pink items on Rob's lists.
+
+20060425 HND MGD PRB app proof finished.
+
+20060627 notes checked and corrected for spelling of L EKK
+
+20060703 MGD PRB final app proof completed.
+
+--><!--
+	Transcribed Sean Taylor, 1996
+	Proofed against MS:  IRA  1998?
+	Notes supplied by IRA entered by HND   15, 17 Dec 03
+
+	Notes completely revised:  IRA  2004- Feb2005
+	COR transferred to Janice McCoy to have notes inserted  24 March 2005 
+	Revised notes from IRA inserted: JM April 22, 2005
+	Revised notes based on "More Corrections to R Notes.doc" from IRA: JM June 14, 2005
+	Changed marginal adds to marginalia: June 17 2005 JM
+
+20060313 HND MGD PRB Proof entry finished.
+
+20060321 MGD PRB app tagging finished.
+
+20060410 MGD EKK alpha vs. beta app tagging completed
+
+20060425 MGD PRB partially proofed app tagging, to R7.69
+
+20060426 HND MGD PRB finished app tag proof.
+
+20060627 notes checked and corrected for spelling of L EKK
+
+20060703 MGD PRB final app proof completed.
+
+--><!--
+	Transcribed Sean Taylor, 1996
+	Proofed against MS:  IRA  1998?
+	Notes supplied by IRA entered by HND   15, 17 Dec 03
+
+	Notes completely revised:  IRA  2004- Feb2005
+	COR transferred to Janice McCoy to have notes inserted  24 March 2005 
+	Revised notes from IRA inserted: JM April 22, 2005
+	Revised notes based on "More Corrections to R Notes.doc" from IRA: JM June 14, 2005
+	Changed marginal adds to marginalia: June 17 2005 JM
+
+20060313 HND MGD PRB Proof entry finished.
+
+20060321 MGD PRB app tagging finished.
+
+20060410 MGD EKK alpha vs. beta app tagging finished.
+
+20060426 HND MGD PRB app proofed to R8.51.
+
+20060501 MGD PRB preliminary app proof finished.  Awaits HND session.
+
+20060502 MGD PRB HND finished app proofing session with HND.
+
+20060627 notes checked and corrected for spelling of L EKK
+
+20060703 MGD PRB begun; MGD PRB EKK finished final app proof 20060705
+
+--><div1 n="R.8" type="passus"><fw type="guideWords" place="marginLeft" id="R.8.0.f.1">ss<expan>us</expan><lb/>j<expan>us</expan><lb/>vis</fw><head id="R.8.0.h.1"><foreign lang="lat"><hi rend="rb">Passus octauus</hi>
+						<del rend="erasure" status="unremarkable">...?...?...</del><add hand="handrub2"><hi rend="rb">de visione
+									pet<expan>ri</expan> plowhman .</hi></add></foreign>
+					<lb/><foreign lang="lat"><add hand="handrub3"><hi rend="bl">I</hi><hi rend="rb">ncipit</hi></add></foreign>
+					<add hand="handrub2"><hi rend="rb">Dowel . Dobet . &amp; Dobest .</hi></add><note type="codicological" id="R.8.0.h.1.n.1"><ref>R.8.0:</ref> A second rubricating
+						hand, resembling that of the scribe of Corpus Christi 201 (F), adds, in a slightly different
+						shade of red, the words, <foreign lang="lat">de visione pet<expan>ri</expan></foreign>
+						<hi rend="it">plowhman</hi>. These words are written over an erasure. The same hand adds to
+						the passus heading, in the space that the original scribe always left blank before his first
+						line of text, a second line: <hi rend="it">Dowel . Dobet . &amp; Dobest .</hi> Apparently
+						somewhat later, a third hand, or the second hand using a third shade of red ink, added
+							<foreign lang="lat">Incipit</foreign> at the left margin of the second line. The person
+						responsible for this addition tried to incorporate this new word into the already altered
+						rubric by executing the initial in blue so as to tie it to the passus initial (perhaps wetting
+						and smudging the blue of the initial &lt;Ã&gt; to its left to make the blue &lt;I&gt; of
+							<foreign lang="lat">Incipit</foreign>). At the extreme left margin of the same line as the
+						passus heading, there is the cropped fragment of a guide, apparently three lines long, with
+						single characters in each line detectable but illegible.</note></head><lb/><lg type="strophe"><l id="R.8.1" n="KD.8.1">
+						<hi rend="o9"><hi rend="bl">Ã</hi></hi>us I<seg type="shadowHyphen">-</seg>robed in russet
+						ï¡ I romed aboute .</l><l id="R.8.2" n="KD.8.2"> Al a somer sesoun ï¡ for to seke dowel .</l><l id="R.8.3" n="KD.8.3"> And frayned ful ofte ï¡ of folke Ã¾at I mette .</l><milestone n="34r" unit="fol." entity="B.R34r"/><l id="R.8.4" n="KD.8.4"> If any wiÈt wiste ï¡ where dowel <app loc="R.8.4"><lem wit="R F">were</lem><rdg wit="All beta mss">was</rdg></app><note type="textual" id="R.8.4.n.1"><ref>R.8.4:</ref>
+							Beta reads <hi rend="it">was</hi>, which agrees with the reading of both <hi rend="bold">Ax</hi> and <hi rend="bold">Cx</hi>.</note> at Inne ï¡</l><l id="R.8.5" n="KD.8.5"> And what man he miÈt be ï¡ of many man I asked .</l><l id="R.8.6" n="KD.8.6">
+						<app loc="R.8.6"><lem wit="R">And</lem><rdg wit="All beta mss">nil</rdg></app><note type="textual" id="R.8.6.n.1"><ref>R.8.6:</ref>
+							R's <hi rend="it">And</hi> is unique. F begins the line with <hi rend="it">But Ã¾ere was</hi>,
+							while beta simply begins with <hi rend="it">Was</hi>. Both <hi rend="bold">Ax</hi> and <hi rend="bold">Cx</hi> agree with beta.</note> was neu<expan>er</expan>e <app loc="R.8.6"><lem wit="R">in Ã¾is worlde</lem><rdg wit="All other mss">wiÈte as I went</rdg></app><note type="textual" id="R.8.6.n.2"><ref>R.8.6:</ref> R
+							uniquely omits <hi rend="it">wiÈt</hi> immediately after <hi rend="it">neuere</hi>. R's
+								<hi rend="it">in Ã¾is worlde</hi>, though supported by <hi rend="bold">Cx</hi>, is also
+							unique among the <hi rend="bold">B</hi> copies; beta and F agree instead on <hi rend="it">as
+								I went</hi>, which is also the reading of many <hi rend="bold">A</hi> copies (others have
+								<hi rend="it">wene</hi> rather than <hi rend="it">wente</hi>).</note> ï¡ Ã¾at me wisse
+						couthe .</l><l id="R.8.7" n="KD.8.7"> Where Ã¾is lede lengede ï¡ lasse ne more .</l></lg><lb/><lg type="strophe"><l id="R.8.8" n="KD.8.8"> Â¶ Til it by<seg type="shadowHyphen">-</seg>fel on a friday ï¡ to
+						freres I mette .</l><l id="R.8.9" n="KD.8.9">
+						<app loc="R.8.9"><lem wit="R F">And</lem><rdg wit="All beta mss">nil</rdg></app><note type="textual" id="R.8.9.n.1"><ref>R.8.9:</ref>
+							Beta omits <hi rend="it">And</hi>. <hi rend="bold">Ax</hi> and <hi rend="bold">Cx</hi> agree
+							with beta.</note> maistres of Ã¾e menoures ï¡ men of grete witte .</l><l id="R.8.10" n="KD.8.10"> I haylsed hem hendely ï¡ as I had lerned .</l><l id="R.8.11" n="KD.8.11"> And preyed hem for charite<note type="textual" id="R.8.11.n.1"><ref>R.8.11:</ref> Though Cr and C support R's reading, F agrees
+							with the beta majority in construing this phrase as French, either <hi rend="it"><foreign lang="fre">pur charitee</foreign></hi> or <hi rend="it"><foreign lang="fre">par
+									charitee</foreign></hi>. Though three <hi rend="bold">A</hi> manuscripts and one <hi rend="bold">C</hi> manuscript agree with R, both <hi rend="bold">Ax</hi> and <hi rend="bold">Cx</hi> agree with the F/beta form.</note> ï¡ ar thei passed forther</l><l id="R.8.12" n="KD.8.12"> If Ã¾ei knewe any <app loc="R.8.12"><lem wit="R Cr2 Cr3 F">courte</lem><rdg wit="Most beta mss">contre</rdg></app><note type="textual" id="R.8.12.n.1"><ref>R.8.12:</ref>
+							R's <hi rend="it">courte</hi> is an alpha variant. Beta has <hi rend="it">contre</hi>. Both
+								<hi rend="bold">Ax</hi> and <hi rend="bold">Cx</hi> agree with beta.</note> ï¡ or
+						costes <app loc="R.8.12"><lem wit="R F">Ã¾er</lem><rdg wit="All beta mss">as</rdg></app><note type="textual" id="R.8.12.n.2"><ref>R.8.12:</ref>
+							Beta reads <hi rend="it">as</hi>.</note> Ã¾ei wente .</l><l id="R.8.13" n="KD.8.13"> Where Ã¾at dowel dwelleth ï¡ doth me to wytene .<note type="textual" id="R.8.13.n.1"><ref>R.8.13:</ref> Hereafter,
+							alpha omits four lines present in beta (and in slightly revised form in the <hi rend="bold">C</hi> version):<lb/>
+							<hi rend="it">For Ã¾ei ben men on Ã¾is molde Ã¾at moste wyde walken <lb/> And knowen contrees
+								and courtes and many kynnes places <lb/> Bothe prynces paleyses and pore mennes cotes <lb/>
+								And dowel and doyuel where Ã¾ei dwelle bothe.</hi></note></l></lg><lb/><lg type="strophe"><l id="R.8.14" n="KD.8.18"> Â¶ Amonges vs q<expan>uo</expan>d <app loc="R.8.14"><lem wit="R"><sic>a</sic><corr>[Ã¾e]</corr></lem><rdg wit="All beta mss">Ã¾e</rdg></app> menoures ï¡ Ã¾<expan>a</expan>t man is dwellyng .</l><l id="R.8.15" n="KD.8.19"> And euer hath as I hope ï¡ and euer schal here<seg type="shadowHyphen">-</seg>after .</l></lg><lb/><lg type="strophe"><l id="R.8.16" n="KD.8.20"> Â¶ <foreign lang="lat">Contra</foreign> quod I as clerke ï¡ and
+						comsed to dispute .</l><l id="R.8.17" n="KD.8.20Î±"> And <app loc="R.8.17"><lem wit="R">seyde</lem><rdg wit="Beta (L M)">seide sothli</rdg></app><note type="textual" id="R.8.17.n.1"><ref>R.8.17:</ref>
+							Alpha has apparently lost a phrase: LM read <hi rend="it">And seide sothli</hi>; other beta
+							copies read <hi rend="it">hem soÃ¾ly</hi> at this point. <hi rend="bold">Cx</hi> agrees with
+							LM.</note>
+						<foreign lang="lat">sepcies in die cadit iustus</foreign> .</l><l id="R.8.18" n="KD.8.21"> Seuen sithes seith Ã¾e book ï¡ synneth Ã¾e riÈtful .</l><l id="R.8.19" n="KD.8.22"> And ho<seg type="shadowHyphen">-</seg>so synneth I sayde ï¡
+						doth euele as me thinketh .</l><l id="R.8.20" n="KD.8.23"> And do<seg type="shadowHyphen">-</seg>wel and do<seg type="shadowHyphen">-</seg>euele ï¡ mowe nauÈt dwelle to<seg type="shadowHyphen">-</seg>gyderes .</l><l id="R.8.21" n="KD.8.24">
+						<foreign lang="lat">Ergo</foreign> he is nauÈt alwey ï¡ amonges Èow freres
+						.</l><l id="R.8.22" n="KD.8.25"> He is other<seg type="shadowHyphen">-</seg>while elles<seg type="shadowHyphen">-</seg>where ï¡ to wisse Ã¾e poeple .</l></lg><lb/><lg type="strophe"><l id="R.8.23" n="KD.8.26"> Â¶ I schal sey Ã¾e my sone ï¡ seyde Ã¾e frere Ã¾anne .</l><l id="R.8.24" n="KD.8.27"> How seuen sithes Ã¾e sadde man ï¡ on Ã¾e<note type="textual" id="R.8.24.n.1"><ref>R.8.24:</ref> A majority of beta copies
+							reads <hi rend="it">a</hi> where alpha has <hi rend="it">Ã¾e</hi>, but LM agree with alpha.
+							Both <hi rend="bold">Ax</hi> and <hi rend="bold">Cx</hi> agree with LM / alpha.</note> day
+						synneth .</l><l id="R.8.25" n="KD.8.28"> By a for<seg type="shadowHyphen">-</seg>bisen quod Ã¾e frere ï¡
+						I schal Ã¾e faire schewe .</l></lg><lb/><lg type="strophe"><l id="R.8.26" n="KD.8.29"> Â¶ Lat bringe a man in a bot ï¡ a<seg type="shadowHyphen">-</seg>midde a<note type="textual" id="R.8.26.n.1"><ref>R.8.26:</ref>Although F agrees with most beta copies in reading <hi rend="it">Ã¾e</hi>, L
+							concurs with R's <hi rend="it">a</hi> here. Both <hi rend="bold">Ax</hi> and <hi rend="bold">Cx</hi> agree with LR.</note> brode water .</l><l id="R.8.27" n="KD.8.30"> Ãe winde and Ã¾e wat<expan>er</expan> ï¡ and Ã¾e bot waggynge
+						.</l><l id="R.8.28" n="KD.8.31"> Maketh Ã¾e man many time ï¡ to falle and to stonde .</l><l id="R.8.29" n="KD.8.32"> For stonde he neu<expan>er</expan>e so stif ï¡ he stumbleth if
+						he meue .</l><l id="R.8.30" n="KD.8.33"> Ac Èet is he saf and sounde ï¡ and so hym byhoueth .</l><l id="R.8.31" n="KD.8.34"> For if he ne arise Ã¾e rathere ï¡ and rauÈte to Ã¾e <app loc="R.8.31"><lem wit="R Hm C2 F">sterne</lem><rdg wit="Most beta mss">stiere</rdg></app><note type="textual" id="R.8.31.n.1"><ref>R.8.31:</ref>
+							Hm and C<hi rend="sup">2</hi> agree with alpha's <hi rend="it">sterne</hi>, but beta reads
+								<hi rend="it">stiere</hi>. Various <hi rend="bold">A</hi> manuscripts attest one or the
+							other of these two readings.</note></l><l id="R.8.32" n="KD.8.35"> Ãe wynd wald <app loc="R.8.32"><lem wit="R">and</lem><rdg wit="All beta mss">wyth</rdg></app><note type="textual" id="R.8.32.n.1"><ref>R.8.32:</ref>
+							Cf. F's <hi rend="it">on</hi> and beta's <hi rend="it">wyth</hi>. <hi rend="bold">Ax</hi>
+							agrees with beta.</note> Ã¾e wat<expan>er</expan> ï¡ Ã¾e bot ouer<seg type="shadowHyphen">-</seg>throwe .</l><l id="R.8.33" n="KD.8.36"> And Ã¾anne were his lif loste ï¡ thoruÈ lacches of hym<seg type="shadowHyphen">-</seg>selue .<note type="codicological" id="R.8.33.n.1"><ref>R.8.33:</ref> Here the R scribe omits his usual blank line
+							between verse strophes, presumably because the next line is the last ruled one for this
+							side.</note></l></lg><lg type="strophe"><l id="R.8.34" n="KD.8.37"> Â¶ And Ã¾us it falleth q<expan>uo</expan>d Ã¾e frere ï¡ by folke
+						here on erthe .</l><fw type="sig" place="bottomRight" id="R.8.34.f.1">f ij<expan>us</expan></fw><milestone n="34v" unit="fol." entity="B.R34v"/><l id="R.8.35" n="KD.8.38"> Ãe water is likned to Ã¾e world ï¡ Ã¾at wanyeth and wexeth .</l><l id="R.8.36" n="KD.8.39"> Ãe godes of Ã¾is grounde ï¡ aren like to Ã¾e grete wawes .</l><l id="R.8.37" n="KD.8.40"> Ãat as wyndes and wederes ï¡ walketh abouthe .</l><l id="R.8.38" n="KD.8.41"> Ãe bot is likned to oure body ï¡ Ã¾at brutel is of kende .</l><l id="R.8.39" n="KD.8.42"> Ãat Ã¾oruÈ Ã¾e fende and Ã¾i<note type="textual" id="R.8.39.n.1"><ref>R.8.39:</ref> L agrees with R here, but
+							all other beta copies attest <hi rend="it">Ã¾e</hi> in place of R's <hi rend="it">Ã¾i</hi> or
+							F's <hi rend="it">oure</hi>. <hi rend="bold">Ax</hi> agrees with the common beta variant, but
+								<hi rend="bold">Cx</hi> agrees with F, reading <hi rend="it">oure</hi> at this point.</note>
+						flesch ï¡ and <app loc="R.8.39"><lem wit="R">Ã¾is</lem><rdg wit="All other mss">Ã¾e</rdg></app><note type="textual" id="R.8.39.n.2"><ref>R.8.39:</ref>
+							R's <hi rend="it">Ã¾is</hi> is a unique reading among the <hi rend="bold">B</hi> witnesses.
+							The others all agree on <hi rend="it">Ã¾e</hi> (which is also the reading of <hi rend="bold">Ax</hi>). But <hi rend="bold">Cx</hi> agrees with R.</note> frele worlde .</l><l id="R.8.40" n="KD.8.43"> Synneth Ã¾e sadman ï¡ a day seuene sithes .</l></lg><lb/><lg type="strophe"><l id="R.8.41" n="KD.8.44"> Â¶ Ac dedly synne doth he nauÈt ï¡ for dowel hym kepeth
+						.</l><l id="R.8.42" n="KD.8.45"> And Ã¾at is charite Ã¾e chaumpion ï¡ chief helpe aÈeynes
+						synne .<note type="codicological" id="R.8.42.n.1"><ref>R.8.42:</ref> The punctus at line end is nearly invisible from rubbing.</note></l><l id="R.8.43" n="KD.8.46"> For he strengtheth man to stonde ï¡ and stereth mannes
+						soule</l><l id="R.8.44" n="KD.8.47">
+						<app loc="R.8.44"><lem wit="R F">Ãat</lem><rdg wit="Most beta mss">And</rdg></app><note type="textual" id="R.8.44.n.1"><ref>R.8.44:</ref>
+							Beta reads <hi rend="it">And</hi>. But <hi rend="bold">Ax</hi> agrees with alpha.</note>
+						Ã¾ouÈ Ã¾i body bowe ï¡ as bot doth in Ã¾e water .</l><l id="R.8.45" n="KD.8.48"> Ay is Ã¾i soule safe ï¡ but Ã¾i<seg type="shadowHyphen">-</seg>selue wolle .</l><l id="R.8.46" n="KD.8.50"> Do a <orig>dedlysynne</orig><reg>dedly synne</reg> ï¡ and
+						drenche so <app loc="R.8.46"><lem wit="R">Ã¾i<seg type="shadowHyphen">-</seg>selue</lem><rdg wit="All other mss">Ã¾i soule</rdg></app><note type="textual" id="R.8.46.n.1"><ref>R.8.46:</ref>
+							Beta and F read <hi rend="it">Ã¾i soule</hi>, but <hi rend="bold">Ax</hi> agrees with R
+							(though three <hi rend="bold">A</hi> copies support the beta/F reading).</note> .</l><l id="R.8.47" n="KD.8.51"> God wil suffre wel Ã¾i <app loc="R.8.47"><lem wit="R Hm F">soule</lem><rdg wit="Most beta mss">sleuthe</rdg></app> ï¡ Èif Ã¾i<seg type="shadowHyphen">-</seg>selue liketh .</l><l id="R.8.48" n="KD.8.52"> For he Èaf Ã¾e to ÈeresÈiue ï¡ to Èeme wel
+							Ã¾i<seg type="shadowHyphen">-</seg>selue .</l><l id="R.8.49" n="KD.8.53"> And Ã¾at is wit and fre wille ï¡ to euery wiÈte a porcion
+						.</l><l id="R.8.50" n="KD.8.54"> To <app loc="R.8.50"><lem wit="R"><sic>fleyge</sic><corr>fley[n]ge</corr></lem><rdg wit="All beta mss">fleghyng</rdg></app> foules ï¡ to fisches and to bestes .</l><l id="R.8.51" n="KD.8.55"> Ac <app loc="R.8.51"><lem wit="R"><del rend="erasure" hand="hand1" status="unremarkable">Ã¾a</del><del rend="alteration" status="unremarkable">nn</del><add place="inline" hand="hand1">m</add>e</lem><rdg wit="All other mss">man</rdg></app><note type="textual" id="R.8.51.n.1"><ref>R.8.51:</ref>
+							Originally R read <hi rend="it">Ã¾anne</hi>; the erasure of <hi rend="it">Ã¾a</hi> + minim
+							leaves <hi rend="it">me</hi>, the unstressed form of <hi rend="it">men</hi>, "one," (both F
+							and beta have <hi rend="it">man</hi>).</note> hath moste Ã¾er<expan>e</expan><seg type="shadowHyphen">-</seg>of ï¡ and moste is to blame .</l><l id="R.8.52" n="KD.8.56"> But if he werche wel Ã¾erewith ï¡ as dowel hym techeth .</l></lg><lb/><lg type="strophe"><l id="R.8.53" n="KD.8.57"> Â¶ I haue no kende knowynge q<expan>uo</expan>d I ï¡ to conseyue
+						alle <app loc="R.8.53"><lem wit="R F">Ã¾i</lem><rdg wit="All beta mss">Èowre</rdg></app><note type="textual" id="R.8.53.n.1"><ref>R.8.53:</ref>
+							Beta reads <hi rend="it">Èowre</hi>, but <hi rend="bold">Ax</hi> agrees with
+							alpha.</note> wordes .</l><l id="R.8.54" n="KD.8.58"> Ac if I may <app loc="R.8.54"><lem wit="R">leue</lem><rdg wit="All other mss">lyue</rdg></app><note type="lexical" id="R.8.54.n.1"><ref>R.8.54:</ref>
+							<hi rend="it">leue</hi>, "live."</note> and loke ï¡ I schal go lerne bettre .</l></lg><lb/><lg type="strophe"><l id="R.8.55" n="KD.8.59"> Â¶ I be<seg type="shadowHyphen">-</seg>kenne Ã¾e crist
+							q<expan>uo</expan>d <app loc="R.8.55"><lem wit="R">Ã¾ei</lem><rdg wit="Most other mss">he</rdg></app><note type="textual" id="R.8.55.n.1"><ref>R.8.55:</ref>
+							R's <hi rend="it">quod Ã¾ei</hi> is unique and presumably erroneous; W and F both read <hi rend="it">quod he</hi>, Hm simply has <hi rend="it">quod</hi>, and most <hi rend="bold">B</hi> witnesses agree with <hi rend="bold">Ax</hi> in omitting the entire phrase. <hi rend="bold">Cx</hi>, however, agrees with the F/W reading.</note> ï¡ Ã¾at on Ã¾e croyce
+						deyede .</l><l id="R.8.56" n="KD.8.60"> And I seyde Ã¾e same ï¡ saue Èow fro mischaunce .</l><l id="R.8.57" n="KD.8.61"> And Èif Èow grace on Ã¾is grounde ï¡ gode men to
+						worthe .</l></lg><lb/><lg type="strophe"><l id="R.8.58" n="KD.8.62"> Â¶ And Ã¾us I wente wide<seg type="shadowHyphen">-</seg>wher<expan>e</expan> ï¡ walkynge myn one .</l><l id="R.8.59" n="KD.8.63"> By a wild wildernesse ï¡ and by a wode side .</l><l id="R.8.60" n="KD.8.64"> Blisse of Ã¾o<note type="textual" id="R.8.60.n.1"><ref>R.8.60:</ref> R's <hi rend="it">Ã¾o</hi> is supported by Hm and L, but F
+							and most beta copies agree on <hi rend="it">Ã¾e</hi>. The <hi rend="bold">A</hi> version has
+							an identical a-verse (attesting the same variant as F and the beta majority), but of more
+							consequence is the agreement of <hi rend="bold">Cx</hi> with F since the <hi rend="bold">C</hi> version witnesses the same complete line.</note> briddes ï¡ <app loc="R.8.60"><lem wit="R F">abyde me made</lem><rdg wit="All beta mss">brouÈte me aslepe</rdg></app> .<note type="textual" id="R.8.60.n.2"><ref>R.8.60:</ref> In place of alpha's <hi rend="it">abyde me made</hi>, beta's b-verse reads <hi rend="it">brouÈte me aslepe</hi>. At first glance, this phrasal difference appears to
+							be one of the many simple instances where beta agrees with <hi rend="bold">Ax</hi> against a
+							reading shared by alpha and <hi rend="bold">Cx</hi>, both readings being viable. In reality,
+							what seems to have occurred is somewhat less common: the copy of <hi rend="bold">A</hi> that
+							Langland was using as the basis of the <hi rend="bold">B</hi> revision contained a reversed
+							half-line (<hi rend="it">made me abide</hi>
+							<hi rend="bold">A</hi>9.55b) and an ensuing dittography (<hi rend="it">Blisse of Ã¾e
+								briddis</hi>
+							<hi rend="bold">A</hi>9.58a). In fact, both errors, unrelated to each other, were the fault
+							of the archetypal <hi rend="bold">A</hi> scribe â or of the author. Having noticed them
+							while composing <hi rend="bold">B</hi>, Langland presumably marked the <hi rend="bold">A</hi>9.55b phrase for reversal and then created a correction for the dittography of <hi rend="bold">A</hi>9.58a (in the form of a marginal or interlinear): he varied this second
+							occurrence of the repeated phrase to <hi rend="it">MurÃ¾e of hire mouÃ¾es</hi> and then had to
+							revise the b-verse of the same line (perhaps in the opposite margin) to fit the new
+							alliterative pattern, so we get <hi rend="it">made me Ã¾er to slepe</hi> instead of the <hi rend="bold">A</hi>-version's <hi rend="it">brouÈte me a slepe</hi>.<p>Confronted with
+									<hi rend="bold">Bx</hi>'s devotedly passive reproduction of this patchwork revision, the
+								beta scribe seems to have garbled matters in his own unique way, assuming that he was to
+								replace the b-verse of 55 â as it appeared in the underlying <hi rend="bold">A</hi>-version text â with the unrevised <hi rend="bold">A</hi>-version b-verse of
+								58, when all that was asked of him was to flip the staves of extant 55b and heed all of the
+								marginal information at line 58. What beta has created, then, is not likely to reflect any
+								authorial state of the text.</p></note></l><l id="R.8.61" n="KD.8.65"> And vnder lynde<note type="textual" id="R.8.61.n.1"><ref>R.8.61:</ref> Though BoCot also omit a determiner before <hi rend="it">lynde</hi>, F and beta agree in reading the phrase as <hi rend="it"><hi rend="bold">a</hi> lynde</hi>. The reading of F/beta agrees with that of <hi rend="bold">Ax</hi> while the R reading agrees with the phrasing found in <hi rend="bold">Cx</hi>.</note>
+						<app loc="R.8.61"><lem wit="R">vppo</lem><rdg wit="Most other mss">vppon</rdg></app> a launde ï¡ lened I a stounde .</l><l id="R.8.62" n="KD.8.66"> To lythe Ã¾e layes ï¡ Ã¾at <app loc="R.8.62"><lem wit="R F">Ã¾e</lem><rdg wit="Most beta mss">Ã¾o louely</rdg></app> foules<note type="textual" id="R.8.62.n.1"><ref>R.8.62:</ref> Beta reads <hi rend="it">Ã¾o louely foules</hi>; F has <hi rend="it">Ã¾e
+								Nytyngalis</hi>. <hi rend="bold">Ax</hi> reads <hi rend="it">Ã¾at (Ã¾e) louely
+							foulis</hi>.</note> made .</l><l id="R.8.63" n="KD.8.67"> Murthe of here mouthes ï¡ made me Ã¾er<expan>e</expan> to slepe
+						.</l><l id="R.8.64" n="KD.8.68">
+						<app loc="R.8.64"><lem wit="R">Merueylokest</lem><rdg wit="Most beta mss">Ãe merueillousest</rdg></app><note type="textual" id="R.8.64.n.1"><ref>R.8.64:</ref>
+							R uniquely omits <hi rend="it">Ãe</hi> at the head of this line.</note> meteles ï¡
+						mette me Ã¾anne .</l><l id="R.8.65" n="KD.8.69"> Ãat euer dremed wiÈte ï¡ in world as I wene .<note type="codicological" id="R.8.65.n.1"><ref>R.8.65:</ref> Here
+							the R scribe omits his usual blank line between verse strophes, presumably because the next
+							line is the last ruled one for this side.</note></l></lg><lg type="strophe"><l id="R.8.66" n="KD.8.70"> Â¶ A muche man as <app loc="R.8.66"><lem wit="R"><sic>thouÈte</sic><corr>[me] thouÈte</corr></lem><rdg wit="Most beta mss">me Ã¾ouÈte</rdg></app> ï¡ and like to my<seg type="shadowHyphen">-</seg>selue .</l><milestone n="35r" unit="fol." entity="B.R35r"/><l id="R.8.67" n="KD.8.71"> Come and called me ï¡ by my kende name .</l></lg><lb/><lg type="strophe"><l id="R.8.68" n="KD.8.72"> Â¶ What art Ã¾ow q<expan>uo</expan>d <app loc="R.8.68"><lem wit="R">I</lem><rdg wit="All other mss">I Ã¾o</rdg></app><note type="textual" id="R.8.68.n.1"><ref>R.8.68:</ref>
+							R uniquely omits <hi rend="it">Ã¾o</hi> after <hi rend="it">quod I</hi>. However, this adverb
+							in the other <hi rend="bold">B</hi> copies may well be a scribal addition since the same
+							omission as found in R characterizes <hi rend="bold">Cx</hi> and half of the <hi rend="bold">A</hi> witnesses.</note> ï¡ Ã¾at Ã¾ow my name knowest<expan>e</expan> .</l></lg><lb/><lg type="strophe"><l id="R.8.69" n="KD.8.73"> Â¶ Ãat Ã¾ow wost wel q<expan>uo</expan>d he ï¡ and no wiÈth
+							better<expan>e</expan> .</l></lg><lb/><lg type="strophe"><l id="R.8.70" n="KD.8.74"> Â¶ Wot I what Ã¾ow arte ï¡ thouÈte seyde he Ã¾anne .</l><l id="R.8.71" n="KD.8.75"> I haue sewed Ã¾e this seuen Èere ï¡ sey Ã¾ow me no
+							rather<expan>e</expan> .</l></lg><lb/><lg type="strophe"><l id="R.8.72" n="KD.8.76"> Â¶ Art Ã¾ow thouÈt q<expan>uo</expan>d I Ã¾o ï¡ Ã¾ow coudest
+						me wisse where .<note type="textual" id="R.8.72.n.1"><ref>R.8.72:</ref> R uniquely divides this line after <hi rend="it">where</hi>; the other <hi rend="bold">B</hi> witnesses divide the line after <hi rend="it">wisse</hi>, beginning the
+							next line with <hi rend="it">Where</hi>.</note></l><l id="R.8.73" n="KD.8.77"> Ãat dowel dwelleth ï¡ and do me <app loc="R.8.73"><lem wit="R F">hym</lem><rdg wit="All beta mss">Ã¾at</rdg></app><note type="textual" id="R.8.73.n.1"><ref>R.8.73:</ref>
+							In place of alpha's <hi rend="it">hym</hi>, beta reads <hi rend="it">Ã¾at</hi>. <hi rend="bold">Cx</hi> renders this line without including either word.</note> to knowe .</l></lg><lb/><lg type="strophe"><l id="R.8.74" n="KD.8.78"> Â¶ Dowel and do<seg type="shadowHyphen">-</seg>bett ï¡ and
+							do<seg type="shadowHyphen">-</seg>best Ã¾e thridde q<expan>uo</expan>d he .</l><l id="R.8.75" n="KD.8.79"> Aren thre faire vertues ï¡ and beth nauÈt fere to fynde
+						.</l><l id="R.8.76" n="KD.8.80-KD.8.81"> Ho<seg type="shadowHyphen">-</seg>so is trewe of his tonge
+						ï¡ and of his to hondes .</l><l id="R.8.77" n="KD.8.82"> And Ã¾oruÈ his laboure or Ã¾oruÈ his land ï¡ his
+						liflode wynneth .</l><l id="R.8.78" n="KD.8.83"> And is tristi of his ta<del rend="erasure" status="unremarkable">.</del><add place="inline" hand="hand1">y</add>lende ï¡ taketh but his owene .</l><l id="R.8.79" n="KD.8.84"> And is noÈt dronkelew ne <app loc="R.8.79"><lem wit="R C B F"><del rend="subpunction" hand="handx" status="unremarkable">de</del>deynnous</lem><rdg wit="Most beta mss">dedeignous</rdg></app> ï¡ dowel hym folweth .</l></lg><lb/><lg type="strophe"><l id="R.8.80" n="KD.8.85"> Â¶ Dobet doth riÈt Ã¾us ï¡ ac he doth muche more .</l><l id="R.8.81" n="KD.8.86"> He is as lowe as a lombe ï¡ and loueliche of speche .</l><l id="R.8.82" n="KD.8.87"> And helpeth al men ï¡ after Ã¾at hem nedeth .</l><l id="R.8.83" n="KD.8.88"> Ãe baggus and Ã¾e bygurdles ï¡ he hath to<seg type="shadowHyphen">-</seg>broken hem alle .</l><l id="R.8.84" n="KD.8.89"> Ãat Ã¾e erl auerous ï¡ held and his heyres .</l><l id="R.8.85" n="KD.8.90">
+						<app loc="R.8.85"><lem wit="R F">And</lem><rdg wit="All beta mss">And Ã¾us</rdg></app> with<note type="textual" id="R.8.85.n.1"><ref>R.8.85:</ref> Beta reads <hi rend="it">Ã¾us with</hi> here. <hi rend="bold">Ax</hi> agrees
+							with alpha.</note> mammonas mone ï¡ he <app loc="R.8.85"><lem wit="R">hatz ymade</lem><rdg wit="Most beta mss">hath made</rdg></app> hym frendes .</l><l id="R.8.86" n="KD.8.91"> And is ronne <app loc="R.8.86"><lem wit="R L M F">in<seg type="shadowHyphen">-</seg>to</lem><rdg wit="Most beta mss">to</rdg></app><note type="textual" id="R.8.86.n.1"><ref>R.8.86:</ref>
+							Although most other beta witnesses have <hi rend="it">to</hi>, LM support alpha's <hi rend="it">in<seg type="shadowHyphen">-</seg>to</hi>. The LMRF reading is also that of <hi rend="bold">Ax</hi> and <hi rend="bold">Cx</hi>.</note> religion ï¡ and hath rendred
+						Ã¾e <app loc="R.8.86"><lem wit="R"><sic>bille</sic><corr>bi[b]le</corr></lem><rdg wit="All other mss">bible</rdg></app> .</l><l id="R.8.87" n="KD.8.92"> And preched<note type="textual" id="R.8.87.n.1"><ref>R.8.87:</ref> Though G and O join R in attesting a preterite form for
+							this verb, F and most beta copies read <hi rend="it">precheth</hi>, which is also the reading
+							of the archetypes of the other two versions.</note> to Ã¾e poeple ï¡ seynt poules wordes
+						.</l><l id="R.8.88" n="KD.8.93">
+						<hi rend="BinR"><foreign lang="lat">Libent<expan>er</expan> suffertis <app loc="R.8.88"><lem wit="R F">incipientes</lem><rdg wit="All beta mss">insipientes</rdg></app> ï¡ cu<expan>m</expan>
+								<app loc="R.8.88"><lem wit="R">ip<expan>s</expan>i sitis</lem><rdg wit="Most beta mss">sitis ipsi</rdg></app><note type="textual" id="R.8.88.n.1"><ref>R.8.88:</ref> With regard to alpha's word order here, it should be noted that F confuses
+									the verb, using <foreign lang="lat">scitis</foreign>), while beta transposes this phrase as
+										<foreign lang="lat">sitis ipsi</foreign>. Those <hi rend="bold">C</hi> manuscripts that
+									cite this text in full follow the same phrase order as beta.</note>
+								<del rend="erasure" status="unremarkable">in</del>sapientes .</foreign></hi></l><l id="R.8.89" n="KD.8.94"> And suffreth Ã¾e vnwyse ï¡ with Èow for to libbe .</l><l id="R.8.90" n="KD.8.95"> And with glade wille doth he<expan>m</expan> goed ï¡ for so god
+						Èow hoteth .</l></lg><lb/><lg type="strophe"><l id="R.8.91" n="KD.8.96"> Â¶ Dobest is aboue bothe ï¡ and bereth a bischopes croce .</l><l id="R.8.92" n="KD.8.97"> Is <app loc="R.8.92"><lem wit="R">an hoke</lem><rdg wit="All other mss">hoked</rdg></app><note type="textual" id="R.8.92.n.1"><ref>R.8.92:</ref>
+							In place of R's unique <hi rend="it">an hoke</hi>, both beta and F read <hi rend="it">hoked</hi>.</note> on Ã¾at on ende ï¡ to halye men fro helle .</l><l id="R.8.93" n="KD.8.98"> A pyke <app loc="R.8.93"><lem wit="R">on</lem><rdg wit="Most beta mss">is on</rdg></app><note type="textual" id="R.8.93.n.1"><ref>R.8.93:</ref>
+							R parallels beta exactly but uniquely omits <hi rend="it">is</hi> before <hi rend="it">on</hi>; F includes the verb but rearranges the half-line. <hi rend="bold">Ax</hi> agrees
+							with beta.</note> Ã¾at potente ï¡ to pelte adoun Ã¾e wikkede .</l><l id="R.8.94" n="KD.8.99"> Ãat wayten any wikkednesse ï¡ dowel to tene .<note type="codicological" id="R.8.94.n.1"><ref>R.8.94:</ref> Here
+							the R scribe omits his usual blank line between verse strophes, presumably because the next
+							line is the last ruled one for this side.</note></l></lg><lg type="strophe"><l id="R.8.95" n="KD.8.100"> Â¶ And dowel and do<seg type="shadowHyphen">-</seg>bett ï¡ <app loc="R.8.95"><lem wit="R"><sic>amoges</sic><corr>amo[n]ges</corr></lem><rdg wit="All beta mss">amonges</rdg></app> hem ordeyned .</l><fw type="sig" place="bottomRight" id="R.8.95.f.1">fiij</fw><milestone n="35v" unit="fol." entity="B.R35v"/><l id="R.8.96" n="KD.8.101"> To croune <app loc="R.8.96"><lem wit="R">and</lem><rdg wit="Most beta mss">one</rdg></app><note type="textual" id="R.8.96.n.1"><ref>R.8.96:</ref>
+							R's <hi rend="it">and</hi> is a unique reading. F omits the entire line, and beta reads <hi rend="it">one</hi></note> to be kynge ï¡ to kepen hem alle .<note type="textual" id="R.8.96.n.2"><ref/> For R's <hi rend="it">kepen hem alle</hi>, beta reads <hi rend="it">rulen hem bothe</hi>. F omits the whole line.
+							The alliteration in R is clearly preferable to that in beta, and <hi rend="bold">Cx</hi>
+							agrees at least with R's verb. But R's b-verse seems conflated with a similar b-verse
+							properly belonging several lines below this point in <hi rend="bold">Bx</hi> (= <hi rend="it">Crouned one to be kynge to kepin hem alle</hi> [KD8.108]). To judge from the evidence of
+							both R and F (each shows corruptions and omissions for several lines in a row), alpha was
+							significantly deficient in this passage. Alpha probably omitted all five of the lines in this
+							passage which are present in beta but missing from R (presumably by eyeskip induced from
+							similar a-verses). The two sub-archtypes rejoin each other at KD8.109, but part of the
+							problem continues beyond that point. <lb/> When Kane and Donaldson examined this garbled
+							passage, they hypothesized that alpha's text for this passage was accurately reflected in F
+							(R being solely responsible for the omission in question); they further postulated that <hi rend="bold">Bx</hi> itself had lost two lines (i.e., KD8.103 and KD8.105), lines which are
+							now available only in F and in the <hi rend="bold">A</hi>-version. Of course it must be
+							recalled that their hypothetical narrative of F's production included the supposition that F
+							had access, for proofing purposes, to a copy of <hi rend="bold">B</hi> whose text was
+							superior to that of the common archetype of all extant <hi rend="bold">B</hi> manuscripts.
+							However, it must be recalled that F not only reproduces, in this passage, three <hi rend="bold">A</hi> lines unattested in any other <hi rend="bold">B</hi> manuscript (KD8.113
+							as well as the two mentioned above). In addition, F puts forward three distinctive <hi rend="bold">A</hi>-version variants in lines that do survive in beta (<hi rend="it">presoun</hi> for beta's <hi rend="it">in yrens</hi> [KD8.104]; <hi rend="it">&amp; be here
+								conseyl wirche</hi> for beta's <hi rend="it">to kepin hem alle</hi> [KD8.108]; and <hi rend="it">so me crist helpe</hi> for the R/beta <hi rend="it">I coueite to lerne</hi>)
+							Collectively, this evidence suggests a different, simpler explanation of F's text: having
+							found his alpha copytext deficient in this verse paragraph, the F-scribe (or his predecessor)
+							borrowed all of the missing text from an <hi rend="bold">A</hi> manuscript usually available
+							to him.</note></l><l id="R.8.97" n="KD.8.109"> And to rewle Ã¾e rewme ï¡ by here thre wittes .</l><l id="R.8.98" n="KD.8.110"> And none otherwise ï¡ but as Ã¾ei thre assented .</l></lg><lb/><lg type="strophe"><l id="R.8.99" n="KD.8.111"> Â¶ I thonked thouÈt Ã¾o ï¡ Ã¾at he me Ã¾us tauÈte .</l><l id="R.8.100" n="KD.8.112-KD.8.113">
+						<app loc="R.8.100"><lem wit="R">Ac</lem><rdg wit="Most beta mss">Ac Èete</rdg></app><note type="textual" id="R.8.100.n.1"><ref>R.8.100:</ref>
+							Beta reads <hi rend="it">Ac <hi rend="bold">Èete</hi> sauoureth</hi>. F rephrases the
+							entire line but includes <hi rend="it">Èyt</hi> in its a-verse. Although various beta
+							copies substitute other variants for <hi rend="it">Èete</hi>, only R completely omits a
+							word here.</note> sauoureth me nauÈt ï¡ Ã¾i seggyng I coueit to lerne .</l><l id="R.8.101" n="KD.8.114"> How dowel dobet and dobest ï¡ don amonges Ã¾e poeple .</l></lg><lb/><lg type="strophe"><l id="R.8.102" n="KD.8.115"> Â¶ But wit conne wisse Ã¾e q<expan>uo</expan>d thouÈt ï¡
+						where Ã¾o thre dwelle .</l><l id="R.8.103" n="KD.8.116"> Elles wot I none Ã¾at can ï¡ Ã¾at now is a<seg type="shadowHyphen">-</seg>lyue .</l></lg><lb/><lg type="strophe"><l id="R.8.104" n="KD.8.117"> Â¶ ÃouÈt and I Ã¾us ï¡ thre dayes we Èeden .</l><l id="R.8.105" n="KD.8.118"> Disputyng vppon dowel ï¡ day after other .</l><l id="R.8.106" n="KD.8.119"> And ar we <app loc="R.8.106"><lem wit="R">war were</lem><rdg wit="All other mss">were(n) (y)war</rdg></app><note type="textual" id="R.8.106.n.1"><ref>R.8.106:</ref>
+							Both beta and F transpose this phrase to <hi rend="it">were(n) (y)war</hi>. R's phrasing
+							agrees with <hi rend="bold">Ax</hi> and with the X family of <hi rend="bold">C</hi>. The word
+							order of F/beta agrees with that of the P family of <hi rend="bold">C</hi>.</note> ï¡
+						with witt gonne we mete .</l><l id="R.8.107" n="KD.8.120"> He was longe and lene ï¡ liche to non other .</l><l id="R.8.108" n="KD.8.121"> Was no pruyd on his apparail ï¡ ne pouerte nother .</l><l id="R.8.109" n="KD.8.122"> Sad of his semblant ï¡ and of softe chere .</l><l id="R.8.110" n="KD.8.123"> I dorste meue no mat<expan>er</expan>e ï¡ to make hym to
+						iangle .</l><l id="R.8.111" n="KD.8.124"> But as I bad Ã¾ouÈt Ã¾oo ï¡ to be mene by<seg type="shadowHyphen">-</seg>twene .</l><l id="R.8.112" n="KD.8.125"> And put forthe <app loc="R.8.112"><lem wit="R">his</lem><rdg wit="All other mss">somme</rdg></app><note type="textual" id="R.8.112.n.1"><ref>R.8.112:</ref>
+							R's <hi rend="it">his</hi> is a unique reading; the other <hi rend="bold">B</hi> manuscripts
+							agree with <hi rend="bold">Ax</hi> and <hi rend="bold">Cx</hi> in reading <hi rend="it">somme</hi>.</note> porpose ï¡ to prouen his wittes .</l><l id="R.8.113" n="KD.8.126"> What was dowel fro dobet ï¡ and dobest fram hem bothe .</l></lg><lb/><lg type="strophe"><l id="R.8.114" n="KD.8.127"> Â¶ Ãan thowÈt in Ã¾at tyme ï¡ seyde Ã¾es wordes .</l><l id="R.8.115" n="KD.8.128"> Whether dowel dobet ï¡ and dobest <app loc="R.8.115"><lem wit="R">in londe</lem><rdg wit="Most beta mss">ben in londe</rdg></app> .<note type="textual" id="R.8.115.n.1"><ref>R.8.115:</ref> The loss of the verb here presumably occurred in alpha since F also shows
+							this omission; however, the point of its loss must remain speculative since F has recast the
+							entire line by adding a verb to the a-verse. <hi rend="bold">Bx</hi> = <hi rend="it"><hi rend="bold">ben</hi> in londe</hi>âthe same reading found in <hi rend="bold">Ax</hi>
+							(= <hi rend="it">beÃ¾</hi> or <hi rend="it">ben</hi>) and <hi rend="bold">Cx</hi>. The fact
+							that M inserts <hi rend="it">ben</hi> as a correction suggests that the word had been omitted
+							in <hi rend="bold">Bx</hi> itself and then supplied by the <hi rend="bold">Bx</hi> scribe as
+							an interlinear or marginal."</note></l><l id="R.8.116" n="KD.8.129">
+						<app loc="R.8.116"><lem wit="R">Here</lem><rdg wit="All beta mss">Here is</rdg></app><note type="textual" id="R.8.116.n.1"><ref>R.8.116:</ref>
+							Beta reads <hi rend="it">Here <hi rend="bold">is</hi> wille</hi>. F rewrites the line. <hi rend="bold">Ax</hi> agrees completely with beta. The <hi rend="bold">C</hi> version of the
+							line is slightly revised, but the syntax is the same as beta's and includes <hi rend="it">is</hi>.</note> wille wolde I<seg type="shadowHyphen">-</seg>witt ï¡ if wit coude
+						teche hym .</l><l id="R.8.117" n="KD.8.130"> And whether he be man or noman<note type="textual" id="R.8.117.n.1"><ref>R.8.117:</ref> In place of R's <hi rend="it">noman</hi> (which probably reflects alpha's reading â F reads <hi rend="it">noon</hi>), beta had either <hi rend="it">womman</hi> (the reading of the majority) or <hi rend="it">man</hi> (the reading of L). If L's reading is correct (which seems likelier),
+							then beta also had an interlinear correction, <hi rend="it">no</hi>, which was overlooked by
+							L, transmitted in the same form â as an interlinear â through beta prime, and
+							then deciphered correctly by C as well as the B group (which agree with R) while being
+							garbled to <hi rend="it">wo</hi> by most later witnesses.</note> ï¡ Ã¾is man fayn wold
+						aspie .</l><l id="R.8.118" n="KD.8.131"> And werchen as Ã¾ei thre wolde ï¡ Ã¾is is his entente .</l></lg></div1><!--
+	Transcribed Sean Taylor, 1996
+	Proofed against MS:  IRA  1998?
+	Notes supplied by IRA entered by HND   15, 17 Dec 03
+
+	Notes completely revised:  IRA  2004- Feb2005
+	COR transferred to Janice McCoy to have notes inserted  24 March 2005 
+	Revised notes from IRA inserted: JM April 28, 2005
+	Revised notes based on "More Corrections to R Notes.doc" from IRA: JM June 14, 2005
+	Changed marginal adds to marginalia: June 17 2005 JM
+	Changed note to 8.186 added for ROB:  Nov 25 2005  HND
+
+20060313 HND MGD PRB Proof entry finished.
+
+03272006 App tagging completed EKK MGD PRB
+
+20060410	alpha vs. beta app tagging finished MGD EKK
+
+20060501 HND MGD PRB app proofing finished.
+
+20060627 notes checked and corrected for spelling of L EKK
+
+20060705 final app proof MGD PRB EKK
+
+--><!--
+	Transcribed Sean Taylor, 1996
+	Proofed against MS:  IRA  1998?
+	Notes supplied by IRA entered by HND   15, 17 Dec 03
+
+	Notes completely revised:  IRA  2004- Feb2005
+	COR transferred to Janice McCoy to have notes inserted  24 March 2005 
+	Revised notes from IRA inserted: JM April 28, 2005
+	Revised notes based on "More Corrections to R Notes.doc" from IRA: JM June 14, 2005
+	Changed marginal adds to marginalia: June 17 2005 JM
+
+20060313 HND MGD PRB Proof entry finished.
+
+03272006 App tagged EKK MGD (see section from KD297-308 for line omission issue)
+
+20060410 alpha vs. beta app tagging finished MGD EKK
+
+20060502 MGD PRB app proof through to R10.328, resume at R10.329
+
+20060502 HND MGD PRB finished app proofing.
+
+20060621 PRB started corrected to spelling of L in notes here at passus 10.  EKK started at Prologue.
+
+20060629 notes checked and corrected for spelling of L EKK
+
+20060705 final app proof completed MGD PRB EKK
+
+--><!--
+	Transcribed Sean Taylor, 1996
+	Proofed against MS:  IRA  1998?
+	Notes supplied by IRA entered by HND   15, 17 Dec 03
+
+	Notes completely revised:  IRA  2004- Feb2005
+	COR transferred to Janice McCoy to have notes inserted  24 March 2005 
+	Revised notes from IRA inserted: JM June 1, 2005
+	Revised notes based on "More Corrections to R Notes.doc" from IRA: JM June 14, 2005
+	Changed marginal adds to marginalia: June 17 2005 JM
+
+03273006 partial app tagging EKK MGD PRB
+
+20060328 app tagging completed, some not entered (such as omitted lines and questionable lemmata), none proofed, MGD, EKK, PRB.
+
+	20060410 alpha vs. beta app tagging finished MGD EKK
+
+20060503 partial app proofing completed MGD HND EKK
+
+20060510 app proofing completed MGD EKK
+
+20060516 final app proofing HND MGD PRB finished.
+
+20060629 notes checked and corrected for spelling of L EKK
+
+20060705 final app proof completed MGD PRB EKK
+
+--><!--
+	Transcribed Sean Taylor, 1996
+	Proofed against MS:  IRA  1998?
+	Notes supplied by IRA entered by HND   15, 17 Dec 03
+
+	Notes completely revised:  IRA  2004- Feb2005
+	COR transferred to Janice McCoy to have notes inserted  24 March 2005 
+	Revisions entered May 23, 2005 JM
+	Revised notes based on "More Corrections to R Notes.doc" from IRA: JM June 14, 2005
+	Changed marginal adds to marginalia: June 17 2005 JM
+
+20060328 App tagging begun MGD, PRB
+
+20060328 MGD PRB app tagging completed, but ommitted lines and some odd or questionable instances not tagged, and none proofed.
+
+20060410 alpha vs. beta app tagging finished MGD EKK
+
+20060511 partial app proofing MGD HND EKK
+
+20060516 MGD PRB finished app proof, and HND proof entry finished
+
+20060629 notes checked and corrected for spelling of L EKK
+
+20060705 final app proof completed MGD PRB EKK
+
+--><!--
+	Transcribed Sean Taylor, 1996
+	Proofed against MS:  IRA  1998?
+	Notes supplied by IRA entered by HND   15, 17 Dec 03
+
+	Notes completely revised:  IRA  2004- Feb2005
+	COR transferred to Janice McCoy to have notes inserted  24 March 2005 
+	Revised notes from IRA inserted: JM June 1, 2005
+	Changed marginal adds to marginalia: June 17 2005 JM
+
+20060328 MGD PRB to resume app tagging at R13.443
+
+
+03392006 EKK MGD completed app tagging except for line omissions which will be tagged later.
+
+20060410 alpha vs. beta app tagging finished MGD EKK
+
+20060516 MGD PRB app proof begun.
+
+20060525 MGD PRB finished app proof, pending HND entry (resume at KD13.200).
+
+20060531 HND MGD PRB finished app proof entry.
+
+20060705 final app proof started
+
+20060710 final app proof completed PRB EKK
+
+20060706 notes checked and corrected for spelling of L EKK
+
+--><!--
+	Transcribed Sean Taylor, 1996
+	Proofed against MS:  IRA  1998?
+	Notes supplied by IRA entered by HND   15, 17 Dec 03
+
+	Notes completely revised:  IRA  2004- Feb2005
+	COR transferred to Janice McCoy to have notes inserted  24 March 2005 
+	Revised notes from IRA inserted: JM June 3, 2005
+	Revised notes based on "More Corrections to R Notes.doc" from IRA: JM June 15, 2005
+	Changed marginal adds to marginalia: June 17 2005 JM
+
+03292006 EKK MGD app tagging completed except tags where lines are deleted in beta.
+
+20060410 alpha vs. beta app tagging finished MGD EKK
+
+20060531 MGD PRB app proof begun.
+
+20060605 MGD PDG PRB finished app proof, pending HND proof entry.
+
+20060621 MGD HND PRB EKK finished pinks proof entry.
+
+20060705 notes checked and corrected for spelling of L EKK
+
+20060710 final app proof completed PRB EKK
+
+--><!--
+
+	Transcribed Sean Taylor, 1996
+	Proofed against MS:  IRA  1998?
+	Notes supplied by IRA entered by HND   15, 17 Dec 03
+
+	Notes completely revised:  IRA  2004- Feb2005
+	COR transferred to Janice McCoy to have notes inserted  24 March 2005 
+	Revised notes from IRA inserted: JM April 28, 2005
+	Revised notes based on "More Corrections to R Notes.doc" from IRA: JM June 15, 2005
+	Changed marginal adds to marginalia: June 17 2005 JM
+
+04032006 EKK MGD partial app tagging complete (not lines omitted in beta)
+
+20060410 alpha vs. beta app tagging finished MGD EKK
+
+20060605 PDG PRB app proof.
+20060606 PDG PRB app proof complete pending HND proof entry.
+
+20060621 MGD, HND, PRB, EKK pinks proof entry finished.
+
+20060706 notes checked and corrected for spelling of L EKK
+
+20060710 final app proof started  PRB EKK
+
+20060711 final app proof finished MGD PRB
+
+--><!--
+	
+
+Transcribed Sean Taylor, 1996
+	Proofed against MS:  IRA  1998?
+	Notes supplied by IRA entered by HND   15, 17 Dec 03
+
+	Notes completely revised:  IRA  2004- Feb2005
+	COR transferred to Janice McCoy to have notes inserted  24 March 2005 
+	Corrected notes from IRA inserted: JM 07 June 2005
+	Revised notes based on "More Corrections to R Notes.doc" from IRA: JM June 15, 2005
+	Changed marginal adds to marginalia: June 17 2005 JM
+
+04032006 Partial app tagging EKK MGD PRB (except lines omitted in beta)
+
+20060410 alpha vs. beta app tagging finished MGD EKK
+
+20060612 PDG PRB app proof complete pending HND proof entry.
+
+20060707 notes checked and corrected for spelling of L EKK
+
+20060711 final app proof completed MGD PRB
+
+--><!--
+	Transcribed Sean Taylor, 1996
+	Proofed against MS:  IRA  1998?
+	Notes supplied by IRA entered by HND   15, 17 Dec 03
+
+	Notes completely revised:  IRA  2004- Feb2005
+	COR transferred to Janice McCoy to have notes inserted  24 March 2005 
+	Notes inserted: JM 07 June 2005
+	Revised notes based on "More Corrections to R Notes.doc" from IRA: JM June 15, 2005
+	Changed marginal adds to marginalia: June 17 2005 JM
+
+04032006 EKK PRB partial app tagging RESUME at R17.179
+
+20060404 MGD PRB finished app tagging, but line omissions and other large lacunae not tagged, and proofing is yet to come.  Especially important to proof is Rob's "beta manuscripts," which can mean "All beta," "Most beta," "Some beta," etc.  We caught most of these, but probably not all. (PRB)
+
+20060410 alpha vs. beta app tagging finished MGD EKK
+
+20060613 PDG PRB app proof complete pending HND proof entry.
+
+20060707 notes checked and corrected for spelling of L EKK
+
+20060711 final app proof begun MGD PRB
+
+20060711 final app proof finished MGD PRB
+
+--><!--
+	Transcribed Sean Taylor, 1996
+	Proofed against MS:  IRA  1998?
+	Notes supplied by IRA entered by HND   15, 17 Dec 03
+
+	Notes completely revised:  IRA  2004- Feb2005
+	COR transferred to Janice McCoy to have notes inserted  24 March 2005 
+	Notes from IRA inserted: JM 14 June 2005
+	Revised notes based on "More Corrections to R Notes.doc" from IRA: JM June 15, 2005
+	Changed marginal adds to marginalia: June 17 2005 JM
+
+20060410 alpha vs. beta app tagging finished MGD EKK
+
+20060613 PDG PRB partial app proof to KD 18.256
+
+20060619 MGD PRB EKK finished app proof pending pinks check by HND.
+
+20060619 MGD PRB EKK HND pinks check finnished.
+
+20060707 notes checked and corrected for spelling of L EKK
+
+20060711 final app proof begun MGD PRB RESUME AT 18.155.
+
+20060717 final app proof completed EKK PRB
+
+--><!--
+	Transcribed Sean Taylor, 1996
+	Proofed against MS:  IRA  1998?
+	Notes supplied by IRA entered by HND   15, 17 Dec 03
+
+	Notes completely revised:  IRA  2004- Feb2005
+	COR transferred to Janice McCoy to have notes inserted  24 March 2005 
+	Notes inserted: JM 14 June 2005
+	Revised notes based on "More Corrections to R Notes.doc" from IRA: JM June 15, 2005
+
+20060410 alpha vs. beta app tagging finished MGD EKK
+
+20060619 MGD PRB EKK app proofs begun.
+
+20060621 MGD PRB EKK finished app prppf pending proof entry with HND.
+
+20060621 MGD HND PRB EKK finished pinks proof entry.
+
+20060710 notes checked and corrected for spelling of L EKK
+
+
+--></body></text></TEI.2>

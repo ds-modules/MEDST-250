@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="Hm"><teiHeader><fileDesc><titleStmt><title> The Piers Plowman Electronic Archive, Vol. 6: San Marino, Huntington Library,  MS Hm 128 (Hm) â Passus 4</title><author>William  Langland</author><editor>Edited by Michael Calabrese, Hoyt N. Duggan, and Thorlac Turville-Petre</editor><editor>Associate Editors:  M. Gail Duggan and Patricia R. Bart</editor><editor>Technical Editor:  Daniel Pitti</editor><respStmt><resp> <hi rend="bold">Graduate Research Assistants</hi></resp><name>Michael Blum, John Ivor Carlson, Peter J. Eubanks, Carrie Lindley, Timothy L. Stinson, and Jordan Taylor.</name></respStmt><respStmt><resp> <hi rend="bold">Computer Consultants and Programmers</hi></resp><name>Robert Bingler, Chris Jessee, Daniel Pitti, and John Unsworth.</name></respStmt></titleStmt><publicationStmt><publisher>The Medieval Academy of America and the Society for Early English and Norse Electronic Texts (SEENET) by Boydell and Brewer, Ltd.</publisher><pubPlace>Woodbridge, Suffolk</pubPlace><idno type="ETC">ISBN:  9781843840923</idno><date>2008</date><availability><p>copyright 2008, by SEENET</p><p>Published in the United Kingdom by Boydell and Brewer, Ltd.</p><p>Manufactured in the United States of America</p><p>No part of this publication may be reproduced, stored in a retrieval system, or transmitted in any form or by any means, electronic, mechanical, or otherwise, without the written permission of the publisher.</p></availability></publicationStmt><seriesStmt><title>Society for Early English and Norse Electronic Texts, Series Series A.9</title></seriesStmt><sourceDesc><biblFull><titleStmt><title>San Marino, Huntington Library,  MS Hm 128</title></titleStmt><editionStmt><edition>Combined facsimile &amp; documentary edition.</edition><respStmt><resp>Identification of hands</resp><name>PMB and PRB = Patricia Bart</name><name>HND</name><name>MC = Michael Calabrese</name><name>IRA = Robert Adams</name><name>TTP = Thorlac Turville-Petre</name></respStmt></editionStmt><extent>1 computer optical disk : col. ; 4 3/4 in.</extent><publicationStmt><publisher>The University of Michigan Press and SEENET</publisher><pubPlace>Ann Arbor</pubPlace><date> </date><idno type="callNo">Source copy consulted: San Marino, Huntington Library,  MS Hm 128</idno></publicationStmt><seriesStmt><p>
+  </p></seriesStmt></biblFull></sourceDesc></fileDesc><encodingDesc><editorialDecl><p>
+		<list><head>Attribute Values</head><item>
+<label>br</label>
+<term>brown ink</term></item><item>
+<label>ab</label>
+<term>anglicana bastarda</term></item><item>
+<label>it</label>
+<term>italic</term></item><item>
+<label>lc</label>
+<term>Lombard Cap</term></item><item>
+<label>o[number]</label>
+<term>ornamented capital, N lines high</term></item><item>
+<label>rb</label>
+<term>rubricated</term></item><item>
+<label>tr</label>
+<term>touched in red</term></item><item>
+<label>tx</label>
+<term>textura</term></item><item>
+<label>ul</label>
+<term>underlined</term></item><item>
+<label>ur</label>
+<term>underlined in red</term></item><item>
+<label>gr</label>
+<term>green ink</term></item><item>
+<label>bl</label>
+<term>blue ink</term></item></list></p></editorialDecl></encodingDesc><profileDesc><langUsage><language id="lat">Latin</language><language id="fre">French</language><language id="ger">German</language></langUsage><handList><hand id="hand1"/><!--the main text hand from 113r-120v. --><hand id="hand2"/><!--the main text hand from 121r-end. --><hand id="hand3"/><!--the rubricator and occasional correcting hand for sections, sometimes of a dozen or more lines --><hand id="handx"/><!--HandX is a catchall category for the (usually short) corrections in a contemporary but not distinctive hand.
+--><hand id="modern"/><!--Entries by modern librarian. --></handList></profileDesc><revisionDesc><change><date>18 Nov 2000
+  </date><respStmt><resp>revise header
+  </resp><name>Hoyt N. Duggan
+  </name></respStmt><item>New header created
+  </item></change></revisionDesc></teiHeader><text><!-- front>
+
+
+	
+
+		&Hmfront;
+		&preface;
+		&Hmabbrev;
+		&ReadMe;
+
+		
+	</front --><body><!-- pab8d 2013/02/23 used XSLT to process line numbers, references, etc. into new numbering format.
+  	 pab8d 2013/08/30 additional corections of line numbers to the new format. 
+  	 PAB 2016/08/25 Added missing superscript in reference to Hm2 in note to Hm.2.208. --><!-- 
+20080115 HND checked for queries, asterisks, and curly brackets.
+20051129 MGD HND PRB proof entered.
+20050912 MGD PRB and EKK text proofed finished.
+
+20050830 MGD/PRB APP tags added and notes modified.  Queries still pending.
+
+17 July 2003 - Notes proofed by KT.  Parsed 05 Sept 03 JM 
+Notes checked GYD  Nov 2004
+Corrections and checking HND & GYD Nov 8, 2004
+dO A PASS FOR HAPLOGRAPHY LATER
+20060718 notes checked and corrected for spelling of L EKK
+20061229 Enter MC's comments on app tagging.  HND
+20060228 Proof entry of hand identifications on adds in Hm completed.  HND/PRB
+
+--><!-- 
+20060228 Proof entry of hand identifications on adds in Hm completed.  HND/PRB
+Boswell's coorections to app tags entered:  HND 21 April 06
+20051206 HND/MGD/PRB proof entry finished.
+20050919 MGD PRB and EKK text proof finished.
+
+20050830 MGD/PRB app tagging begins.
+Notes proofed by PDG and KT 15 July 2003
+Parsed 05 Sept 03 JM
+Notes checked GYD  Nov 2004
+Corrections and checking HND & GYD Nov 15 2004
+
+20060718 notes checked and corrected for spelling of L EKK
+
+20061229 Enter MC's comments on app tagging.  HND
+
+
+--><!-- 
+20060228 Proof entry of hand identifications on adds in Hm completed.  HND/PRB
+Boswell's corrections to app tags entered:  HND 21 April 06
+20051206 HND/MGD/PRB proof entry finished.
+20050921 MGD PRB and EKK text proof finished.
+MDG and PRB began work changing unique readings and some ms groups to app tags.  20050929 Queries still pending input.
+Corrections entered, HND 11 November 2002
+Parsed 05 Sept 03 JM
+Notes checked GYD  Nov 2004
+Corrections and checking HND & GYD Nov 15 2004
+20060718 notes checked and corrected for spelling of L EKK
+20061229 Enter MC's comments on app tagging.  HND
+
+--><!-- 
+20060228 Proof entry of hand identifications on adds in Hm completed.  HND/PRB
+Parsed  HND 20 Dec 05
+20051206 HND/MGD/PRB proof entry finished.
+20050926 MGD PRB and EKK text proof finished.
+20060718 notes checked and corrected for spelling of L EKK
+20061229 Enter MC's comments on app tagging.  HND
+
+MDG and PRB began work changing unique readings and some ms groups to app tags.  20050929 Queries still pending input.
+Notes entered from Hmpass4notes_JULY2003.txt - 7 July 2003, Keicy T.
+Parsed 05 Sept 03 JM
+
+--><div1 n="Hm.4" type="passus"><head id="Hm.4.0.h.1"><handShift old="hand2" new="hand3"/><foreign lang="lat"><hi rend="rb"><hi rend="display">Passus quartus de visione Â· </hi></hi></foreign></head><lg type="strophe"><fw id="Hm.4.1.f.1" type="guideLetters" place="inline">c</fw><l id="Hm.4.1" n="KD.4.1">  <handShift old="hand3" new="hand2"/><hi rend="o4"><hi rend="bl">C</hi></hi>Ece seyde the kyng<del rend="erasure" status="unremarkable">e</del> y suffre Èowe no lenger</l><l id="Hm.4.2" n="KD.4.2">  Èe schulle sauÈtle forsothe Â· and serue me bothe</l><l id="Hm.4.3" n="KD.4.3">  kysse here quod the kyng<del rend="erasure" status="unremarkable">e</del> conscyence y hote</l><l id="Hm.4.4" n="KD.4.4">  Nay by cryste quod conscyence Â· <app loc="Hm.4.4"><lem wit="Hm">ere congeye</lem><rdg wit="Most other mss">congeye</rdg></app> me for euere</l><l id="Hm.4.5" n="KD.4.5">  but resoun rede me therto Â· rather <app loc="Hm.4.5"><lem wit="Hm">wolde y</lem><rdg wit="Most other mss">wil I</rdg></app> deyÈe</l><l id="Hm.4.6" n="KD.4.6">  <hi rend="bl">Â¶</hi>  And y comaunde the quod the kyng<del rend="erasure" status="unremarkable">e</del> to conscyence thanne</l><l id="Hm.4.7" n="KD.4.7">  rape the to ryde Â· and resoun thu fecche</l><l id="Hm.4.8" n="KD.4.8">  comaunde hym <app loc="Hm.4.8"><lem wit="Hm">to</lem><rdg wit="All other mss">Ã¾at he</rdg></app> come Â· my counseyl to here</l><l id="Hm.4.9" n="KD.4.9">  for he schal rewle my rewme Â· and rede me the beste<note type="textual" id="Hm.4.9.n.1"><ref>Hm.4.9:</ref> Kane-Donaldson supply the following line from Cr<hi rend="sup">2-3</hi>OC<hi rend="sup">2</hi>Y: <hi rend="it">Of Mede and of mo oÃ¾ere, what man shal hire wedde</hi>.</note></l><l id="Hm.4.10" n="KD.4.11">  and acounte wyth the conscyence Â· so me cryste helpe Â· </l><milestone n="126r" unit="fol." entity="B.Hm126r"/><l id="Hm.4.11" n="KD.4.12">  how<del rend="erasure" status="unremarkable">e</del> thu lerneste the peple Â·  the lered and the lewed Â· </l></lg><lg type="strophe"><l id="Hm.4.12" n="KD.4.13">  <hi rend="bl">Â¶</hi>  Y am fayn of Ã¾at forowarde Â· seyde the freke thanne<note type="textual" id="Hm.4.12.n.1"><ref>Hm.4.12:</ref> At this point, all other manuscripts contain three lines not found in Hm, here given in the spelling of L: <hi rend="it"><lb/>And ritte riÈte to resoun and rowneth in his ere<lb/> And seide as Ã¾e kynge badde and sithen toke his leue<lb/> I shal arraye me to ride quod resoun reste Ã¾e a while<lb/></hi>. The omission was probably caused by eye-skip because both KD.4.14 and KD.4.17 begin with <hi rend="it">and</hi>. The mistake may have been easy to miss since the line still makes sense syntactically.</note></l><l id="Hm.4.13" n="KD.4.17">  and called Catou<expan>n</expan> his knaue Â· curteys of speche</l><l id="Hm.4.14" n="KD.4.18">  and also To<expan>m</expan>me trewe tunge Â· telle me no <app loc="Hm.4.14"><lem wit="Hm">tale</lem><rdg wit="All other mss">tales</rdg></app></l><l id="Hm.4.15" n="KD.4.19">  <app loc="Hm.4.15"><lem wit="Hm G">no</lem><rdg wit="All other mss">Ne</rdg></app> lesynge to laugh of Â· for y loued hem neuere</l><l id="Hm.4.16" n="KD.4.20">  and sette my sadull vpon Suffre Â· tyl y se my tyme</l><l id="Hm.4.17" n="KD.4.21">  and late warrokke hym well Â· wyth wytty woordes <app loc="Hm.4.17"><lem wit="Hm Bm">gerte</lem><rdg wit="Most other mss">gerthes</rdg></app></l><l id="Hm.4.18" n="KD.4.22">  and hange on hym <app loc="Hm.4.18"><lem wit="Hm H">an</lem><rdg wit="All other mss">Ã¾e</rdg></app> heuy brydel Â· to holde his heed lowe</l><l id="Hm.4.19" n="KD.4.23">  <app loc="Hm.4.19"><lem wit="Hm">or</lem><rdg wit="Most other mss">For</rdg></app> he woll make we<seg type="shadowHyphen">-</seg>he Â· twyes or<note type="lexical" id="Hm.4.19.n.1"><ref>Hm.4.19:</ref> <hi rend="it">Or</hi>, "ere."</note> he be there</l></lg><lg type="strophe"><l id="Hm.4.20" n="KD.4.24">  <hi rend="rb">Â¶</hi>  Thanne conscyence vpon his capull Â· caryeth foorth faste</l><l id="Hm.4.21" n="KD.4.25">  and resoun wyth hym rygth Â· rownynge togydres</l><l id="Hm.4.22" n="KD.4.26">  whiche maystryes mede Â· maketh on this erthe</l></lg><lg type="strophe"><marginalia id="Hm.4.23.m.1" place="marginLeft" hand="handx">#</marginalia><l id="Hm.4.23" n="KD.4.27">  <hi rend="bl">Â¶</hi>  On waryn wysdom Â· and wytty his fere</l><l id="Hm.4.24" n="KD.4.28">  folowed hym faste Â· for they hadde to done</l><l id="Hm.4.25" n="KD.4.29">  yn the <app loc="Hm.4.25"><lem wit="Hm Cr">Eschequer</lem><rdg wit="Most other mss">cheker</rdg></app> and <app loc="Hm.4.25"><lem wit="Hm">yn</lem><rdg wit="Most other mss">in Ã¾e</rdg></app> chauncerye Â· to be descharged of thynges Â· </l><l id="Hm.4.26" n="KD.4.30">  and ryde faste for resoun schulde Â· rede hem the beste</l><l id="Hm.4.27" n="KD.4.31">  forto saue hem for seluer Â· fro schame and fram harmes</l></lg><lg type="strophe"><l id="Hm.4.28" n="KD.4.32">  <hi rend="rb">Â¶</hi>  And conscience knew<del rend="erasure" status="unremarkable">e</del> hem well Â· they loueden couetyse</l><l id="Hm.4.29" n="KD.4.33">  and badde resoun ryde faste Â· and recche of here neythur</l><l id="Hm.4.30" n="KD.4.34">  there are wyles in h<del rend="erasure" status="unremarkable">.</del><add place="inline" hand="hand3">ere</add> woordes Â· and wyth mede they dwellen Â·<note type="codicological" id="Hm.4.30.n.1"><ref>Hm.4.30-38:</ref> A drypoint shield is inscribed in the right margin.</note></l><l id="Hm.4.31" n="KD.4.35">  there<seg type="shadowHyphen">-</seg>as wraÃ¾Ã¾e and wranglynge is Â· there wynne Ã¾ey seluer Â· </l><l id="Hm.4.32" n="KD.4.36">  ac where is loue and leaute Â· they woll nougth come there</l><l id="Hm.4.33" n="KD.4.36Î±">  <foreign lang="lat"><hi rend="display">Contricio &amp; infelicitas in vijs eorum Â· &amp; c<expan>etera</expan></hi></foreign></l></lg><lg type="strophe"><l id="Hm.4.34" n="KD.4.37">  <hi rend="bl">Â¶</hi>  They ne <app loc="Hm.4.34"><lem wit="Hm W">Èyuen</lem><rdg wit="Most other mss">gyueth</rdg></app> nougth of god Â· oo gose wenge</l><l id="Hm.4.35" n="KD.4.37Î±">  <foreign lang="lat"><hi rend="display">Non est timor dei ante oculos eor<expan>um</expan> Â· &amp; c<expan>etera</expan></hi></foreign></l></lg><lg type="strophe"><l id="Hm.4.36" n="KD.4.38">  <hi rend="rb">Â¶</hi>  For god woote they woll do more Â· for a dozeyn chyknes</l><l id="Hm.4.37" n="KD.4.38.1">  or as many capou<expan>n</expan>s Â· or for a seme of otes Â· </l><l id="Hm.4.38" n="KD.4.39">  than for the loue of oure lord<del rend="erasure" status="unremarkable">e</del> or alle his leue seyntys</l><l id="Hm.4.39" n="KD.4.40">  for<seg type="shadowHyphen">-</seg><del rend="erasure" status="unremarkable">...</del><add place="inline" hand="handx">thi</add> resoun late hem ryde Â· tho ryche by hem<seg type="shadowHyphen">-</seg>selue</l><l id="Hm.4.40" n="KD.4.41">  for conscyence knoweth hem nougth Â· ne cryst<del rend="erasure" status="unremarkable">e</del> as y trowe</l><l id="Hm.4.41" n="KD.4.42">  and thanne resoun rode faste Â· the rygth hie gate</l><l id="Hm.4.42" n="KD.4.43">  <app loc="Hm.4.42"><lem wit="Hm Cr G">and</lem><rdg wit="All other mss">As</rdg></app> conscyence hym kennyde Â· tyl they come to the kyng<del rend="erasure" status="unremarkable">e</del></l></lg><lg type="strophe"><l id="Hm.4.43" n="KD.4.44">  <hi rend="bl">Â¶</hi>  Curteysly the kynge thenne Â· cam<del rend="erasure" status="unremarkable">.</del> aÈenste resoun</l><l id="Hm.4.44" n="KD.4.45">  and bytwene hym<seg type="shadowHyphen">-</seg>selue Â· and his sone Â· sette <app loc="Hm.4.44"><lem wit="Hm">hem</lem><rdg wit="All other mss">hym</rdg></app> on benche</l><l id="Hm.4.45" n="KD.4.46">  and woordedyn <app loc="Hm.4.45"><lem wit="Hm"><orig>fulwysly</orig><reg>ful wysly</reg></lem><rdg wit="Most other mss">wel wyseli</rdg></app> Â· a grete while togydres</l></lg><lg type="strophe"><l id="Hm.4.46" n="KD.4.47">  <hi rend="rb">Â¶</hi>  And thanne cam<del rend="erasure" status="unremarkable">e</del> pes into p<expan>ar</expan>lement<del rend="erasure" status="unremarkable">e</del> and putte foorth a bylle</l><l id="Hm.4.47" n="KD.4.48">  how<del rend="erasure" status="unremarkable">e</del> wrong<del rend="erasure" status="unremarkable">e</del> aÈenst<del rend="erasure" status="unremarkable">e</del> his wylle Â· hadde hijs wyf<del rend="erasure" status="unremarkable">e</del> taken</l><l id="Hm.4.48" n="KD.4.49">  and how<del rend="erasure" status="unremarkable">e</del> he rauasched rose Â· reynaldes loue</l><l id="Hm.4.49" n="KD.4.50">  and Margarete of here maydenhode Â· mawgre here chekes</l><l id="Hm.4.50" n="KD.4.51">  bothe my gees and my gry<del rend="erasure" status="unremarkable">.e</del><add place="inline" hand="handx">s</add> Â· his gadlynges feccheth Â· </l><milestone n="126v" unit="fol." entity="B.Hm126v"/><l id="Hm.4.51" n="KD.4.52">  y dare nougth for <app loc="Hm.4.51"><lem wit="Hm">drede</lem><rdg wit="All other mss">fere</rdg></app> of <app loc="Hm.4.51"><lem wit="Hm W G">hem</lem><rdg wit="Most other mss">hym</rdg></app> Â· fygth ne chyde</l><l id="Hm.4.52" n="KD.4.53">  he borowed of me baÈard<del rend="erasure" status="unremarkable">e</del> and brougth hym <app loc="Hm.4.52"><lem wit="Hm H">neu<expan>er</expan>e aÈen</lem><rdg wit="Most other mss">home neure</rdg></app></l><l id="Hm.4.53" n="KD.4.54">  ne no ferÃ¾ynge therfore Â· for ougth y couthe plede</l><l id="Hm.4.54" n="KD.4.55">  he manteneth his men Â· to morthre myn hewen</l><l id="Hm.4.55" n="KD.4.56">  forstalleth my <app loc="Hm.4.55"><lem wit="Hm">markett<expan>es</expan></lem><rdg wit="All other mss">feyres</rdg></app> Â· and fyÈteth in my chepynge</l><l id="Hm.4.56" n="KD.4.57">  and breketh vp my <app loc="Hm.4.56"><lem wit="Hm L W R">bernys</lem><rdg wit="Most other mss">berne</rdg></app> doore Â· and bereth a<seg type="shadowHyphen">-</seg>wey my whete</l><l id="Hm.4.57" n="KD.4.58">  and taketh me but a tayle for ten quarters otys Â· </l><l id="Hm.4.58" n="KD.4.59">  <app loc="Hm.4.58"><lem wit="Hm Cr G">Èett<del rend="erasure" status="unremarkable">e</del></lem><rdg wit="All other mss">And Èet</rdg></app> he beteth me therto Â· and lyggeth by my mayde</l><l id="Hm.4.59" n="KD.4.60">  y am nougth <app loc="Hm.4.59"><lem wit="Hm">so hardy</lem><rdg wit="All other mss">hardy</rdg></app> Â· for hym Â· vnnethe <app loc="Hm.4.59"><lem wit="Hm F">forto</lem><rdg wit="All other mss">to</rdg></app> loke</l></lg><lg type="strophe"><l id="Hm.4.60" n="KD.4.61">  <hi rend="rb">Â¶</hi>  The kynge knewe he seyde soth Â· for conscyence hym tolde</l><l id="Hm.4.61" n="KD.4.62">  that wrong<del rend="erasure" status="unremarkable">e</del> was a wykked lyfte Â· and wrougth moche sorowe</l><l id="Hm.4.62" n="KD.4.63">  wrong<del rend="erasure" status="unremarkable">e</del> was affered thanne Â· and wysdome he sougth<add place="inline" hand="hand3">e</add></l><l id="Hm.4.63" n="KD.4.64">  to make pes wyth his pans Â· and p<expan>ro</expan>fred hym manye</l><l id="Hm.4.64" n="KD.4.65">  and seyde hadde y loue of my lorde Â· the kynge Â· lytyl wolde y recche</l><l id="Hm.4.65" n="KD.4.66">  thouh<del rend="erasure" status="unremarkable">e</del> Pes and his power Â· pleyned<add place="inline" hand="hand3">e</add> hem <del rend="erasure" status="unremarkable">.</del>euere</l></lg><lg type="strophe"><l id="Hm.4.66" n="KD.4.67">  <hi rend="bl">Â¶</hi>  Tho wente wysdome Â· and sere wareyne the wytty Â· </l><l id="Hm.4.67" n="KD.4.68">  for that wrong<del rend="erasure" status="unremarkable">e</del> hadde <app loc="Hm.4.67"><lem wit="Hm Hm Cr G">wrougth</lem><rdg wit="Most other mss">ywroÈt</rdg></app> Â· so wykked a dede</l><l id="Hm.4.68" n="KD.4.69">  and warnyd <app loc="Hm.4.68"><lem wit="Hm">wrong<del rend="erasure" status="unremarkable">e</del></lem><rdg wit="All other mss">wronge Ã¾o</rdg></app> wyth suche a wys tale</l><l id="Hm.4.69" n="KD.4.70">  who<seg type="shadowHyphen">-</seg>so werketh by wylle Â· wratthe maketh ofte</l><l id="Hm.4.70" n="KD.4.71">  y seye it by my<seg type="shadowHyphen">-</seg>selfe Â· thu schalt<del rend="erasure" status="unremarkable">e</del> yt wel fynde</l><l id="Hm.4.71" n="KD.4.72">  but Èif mede it make Â· thy myscheefe ys vppe</l><l id="Hm.4.72" n="KD.4.73">  for bothe thy lyf<del rend="erasure" status="unremarkable">e</del> and thy londe lyeth in his grace</l></lg><lg type="strophe"><l id="Hm.4.73" n="KD.4.74">  <hi rend="rb">Â¶</hi>  Thanne wowed wrong<del rend="erasure" status="unremarkable">e</del> wysdome ful Èerne</l><l id="Hm.4.74" n="KD.4.75">  to make his pes wyth his pans Â· handydandy payed</l></lg><lg type="strophe"><l id="Hm.4.75" n="KD.4.76">  <hi rend="bl">Â¶</hi>  wysdome and wytte thanne Â· wenten to<seg type="shadowHyphen">-</seg>gydres</l><l id="Hm.4.76" n="KD.4.77">  and tooken meede wyth hem Â· mercy to wynne</l></lg><lg type="strophe"><l id="Hm.4.77" n="KD.4.78">  <hi rend="rb">Â¶</hi>  Pes putte foorth his hed<del rend="erasure" status="unremarkable">e</del> Â· and his panne blody</l><l id="Hm.4.78" n="KD.4.79">  wyth<seg type="shadowHyphen">-</seg>outen gult<del rend="erasure" status="unremarkable">e</del> Â· god ytte wot<del rend="erasure" status="unremarkable">e</del> gat<del rend="erasure" status="unremarkable">e</del> y this scathe</l><l id="Hm.4.79" n="KD.4.80">  conscyence and the comune Â· <app loc="Hm.4.79"><lem wit="Hm B H">knewen</lem><rdg wit="Most other mss">knowen</rdg></app> the sothe</l><l id="Hm.4.80" n="KD.4.81">  ac wysdome and wyt<del rend="erasure" status="unremarkable">te</del> Â· weren abowte faste</l><l id="Hm.4.81" n="KD.4.82">  to ou<expan>er</expan>come the kyng<del rend="erasure" status="unremarkable">e</del> Â· wyth catel Èif they mygth<add place="inline" hand="hand3">e</add></l></lg><lg type="strophe"><l id="Hm.4.82" n="KD.4.83">  <hi rend="bl">Â¶</hi>  The kyng<del rend="erasure" status="unremarkable">e</del> swoor<del rend="erasure" status="unremarkable">e</del> by cryst<del rend="erasure" status="unremarkable">e</del> Â· and by his crowne bothe</l><l id="Hm.4.83" n="KD.4.84">  that wrong<del rend="erasure" status="unremarkable">e</del> for his werkes Â· schulde wo tholye</l><l id="Hm.4.84" n="KD.4.85">  and comawnndede a cunstable Â· to caste hym in yrens</l><l id="Hm.4.85" n="KD.4.86">  and late hym nougth this seuene Â· Èere Â· sene his feet ones</l></lg><lg type="strophe"><l id="Hm.4.86" n="KD.4.87">  <hi rend="rb">Â¶</hi>  God wote quod wysdome Â· that were nougth the beste</l><l id="Hm.4.87" n="KD.4.88">  and he amendes mowe make Â· <app loc="Hm.4.87"><lem wit="Hm">leteth</lem><rdg wit="All other mss">late</rdg></app> <app loc="Hm.4.87"><lem wit="Hm H"><del rend="erasure" status="unremarkable">...?...</del><add place="inline" hand="hand3">hym meynpris</add></lem><rdg wit="All other mss">meynprise hym</rdg></app> haue</l><l id="Hm.4.88" n="KD.4.89">  and be borow<del rend="erasure" status="unremarkable">e</del> for his bale Â· and beggen hym boote</l><l id="Hm.4.89" n="KD.4.90">  and so amende that is mysdo Â· and euermore the bettre</l></lg><lg type="strophe"><l id="Hm.4.90" n="KD.4.91">  <hi rend="bl">Â¶</hi>  wytt<del rend="erasure" status="unremarkable">e</del> accorded therwyth Â· and seyde the same Â· </l><milestone n="127r" unit="fol." entity="B.Hm127r"/><l id="Hm.4.91" n="KD.4.92">  bettre is that bote Â· bale adowne brynge Â· </l><l id="Hm.4.92" n="KD.4.93">  thanne bale be ybet<del rend="erasure" status="unremarkable">.e</del><add place="inline" hand="hand3">e</add> Â· and bote neuere the bettre</l></lg><lg type="strophe"><l id="Hm.4.93" n="KD.4.94">  <hi rend="bl">Â¶</hi>  And thanne gan mede to mengyn here Â· and mercy besougth<add place="inline" hand="hand3">e</add></l><l id="Hm.4.94" n="KD.4.95">  and p<expan>ro</expan>fred pes a p<expan>re</expan>sente Â· all of pure golde</l><l id="Hm.4.95" n="KD.4.96">  haue this Â· man of me quod sche Â· to amende <del rend="erasure" status="unremarkable">...</del><add place="inline" hand="handx">thi</add> scathe</l><l id="Hm.4.96" n="KD.4.97">  for y woll wagen for wrong<del rend="erasure" status="unremarkable">e</del><note type="paleographic" id="Hm.4.96.n.1"><ref>Hm.4.96:</ref> A raised point is added over the erased &lt;e&gt;.</note> Â· he woll do so nomore</l></lg><lg type="strophe"><l id="Hm.4.97" n="KD.4.98">  <hi rend="rb">Â¶</hi>  Pytously pes thanne Â· prayede to the kynge</l><l id="Hm.4.98" n="KD.4.99">  to haue mercy Â· on that man Â· that mysdede hym so ofte</l><l id="Hm.4.99" n="KD.4.100">  for he hath waged me well Â· as wysdome hym taugth<add place="inline" hand="hand3">e</add></l><l id="Hm.4.100" n="KD.4.101">  and y furÈiue hym that gult<del rend="erasure" status="unremarkable">e</del> wyth a good wylle</l><l id="Hm.4.101" n="KD.4.102">  so that the kyng<del rend="erasure" status="unremarkable">e</del> assente Â· y can seye no bettre</l><l id="Hm.4.102" n="KD.4.103">  for mede <app loc="Hm.4.102"><lem wit="Hm">me hath</lem><rdg wit="All other mss">hath</rdg></app> <app loc="Hm.4.102"><lem wit="Hm">amendes maad</lem><rdg wit="Other mss">made me amendes</rdg></app> Â· y may namore aske Â· </l></lg><lg type="strophe"><l id="Hm.4.103" n="KD.4.104">  <hi rend="bl">Â¶</hi>  Nay quod the kyng<del rend="erasure" status="unremarkable">e</del> Â· <app loc="Hm.4.103"><lem wit="Hm">so</lem><rdg wit="All other mss">Ã¾o so</rdg></app> me cryste <del rend="linedThrough" status="unremarkable">me</del> helpe</l><l id="Hm.4.104" n="KD.4.105">  wrong<del rend="erasure" status="unremarkable">e</del> wendeth nougth <orig>so<add place="inline" hand="handx">a</add>way</orig><reg>so away</reg> Â· <app loc="Hm.4.104"><lem wit="Hm">furst<del rend="erasure" status="unremarkable">e</del> y woll</lem><rdg wit="Most other mss">arst wil I</rdg></app> wyte more</l><l id="Hm.4.105" n="KD.4.106">  for lepte he <orig>solygthly</orig><reg>so lygthly</reg> Â· laughen he wolde</l><l id="Hm.4.106" n="KD.4.107">  and eft<del rend="erasure" status="unremarkable">e</del> <app loc="Hm.4.106"><lem wit="Hm G">baldere</lem><rdg wit="Most other mss">Ã¾e balder</rdg></app> be Â· to bete myn hewen Â· </l><l id="Hm.4.107" n="KD.4.108">  but resoun haue rewthe on hym Â· he schall reste in my stokkes Â· </l><l id="Hm.4.108" n="KD.4.109">  and that <app loc="Hm.4.108"><lem wit="Hm">also</lem><rdg wit="Most other mss">as</rdg></app> longe as he lyueth Â· but lownesse hym borowe Â· </l></lg><lg type="strophe"><l id="Hm.4.109" n="KD.4.110">  <hi rend="rb">Â¶</hi>  <app loc="Hm.4.109"><lem wit="Hm H">Summe</lem><rdg wit="Most other mss">Somme men</rdg></app> radde resoun tho to haue rewthe on that schrewe Â· </l><l id="Hm.4.110" n="KD.4.111">  and forto conseyle the kyng<del rend="erasure" status="unremarkable">e</del> and conscyence after Â· </l><l id="Hm.4.111" n="KD.4.112">  that mede muste be maynp<expan>er</expan>nour Â· resoun they besougth<add place="inline" hand="hand3">e</add> Â· </l></lg><lg type="strophe"><l id="Hm.4.112" n="KD.4.113">  <hi rend="bl">Â¶</hi>  Rede me nougth q<expan>uo</expan>d resoun Â· no rewÃ¾e to haue</l><l id="Hm.4.113" n="KD.4.114">  tyl lordes and ladyes Â· louen alle trewthe Â· </l><l id="Hm.4.114" n="KD.4.115">  and hatyn alle harlotrye Â· to here or to mowthe yt Â· </l><l id="Hm.4.115" n="KD.4.116">  tyl p<expan>er</expan>nell purfyl Â· be putte in here hucche</l><l id="Hm.4.116" n="KD.4.117">  and chyldren cheryschynge Â· be <app loc="Hm.4.116"><lem wit="Hm H F">chastysed</lem><rdg wit="Most other mss">chastyng</rdg></app> <app loc="Hm.4.116"><lem wit="Hm">by</lem><rdg wit="All other mss">with</rdg></app> Èerdes Â· </l><l id="Hm.4.117" n="KD.4.118">  and harlotes holynes Â· be holdyn for an hyne</l><l id="Hm.4.118" n="KD.4.119">  tyl clerkyn couetyse Â· be Â· to cloÃ¾e <app loc="Hm.4.118"><lem wit="Hm M">poore</lem><rdg wit="All other mss">Ã¾e pore</rdg></app> and fede</l><l id="Hm.4.119" n="KD.4.120">  and relygyous romers Â· <foreign lang="lat">recordare Â·</foreign> in her cloystres Â· </l><l id="Hm.4.120" n="KD.4.121">  a<del rend="erasure" status="unremarkable">.</del><add place="inline" hand="hand3">s</add> seynte benet hem bad<del rend="erasure" status="unremarkable">..</del><add place="inline" hand="handx">.</add> bernarde and Fraunces</l><l id="Hm.4.121" n="KD.4.122">  and tyl p<expan>re</expan>chours p<expan>re</expan>chynge Â· be p<expan>re</expan>uyd on hem<seg type="shadowHyphen">-</seg>selue</l><l id="Hm.4.122" n="KD.4.123">  tyl the kynges counseyl Â· <app loc="Hm.4.122"><lem wit="Hm">by</lem><rdg wit="All other mss">be</rdg></app> the comune p<expan>ro</expan>fyte</l><l id="Hm.4.123" n="KD.4.124">  tyl Buschopes bayardes Â· ben beggers chambres Â· </l><l id="Hm.4.124" n="KD.4.125">  here haukes and here houndes Â· helpe to poore relygyous</l><l id="Hm.4.125" n="KD.4.126">  and tyl seynte Iames be sougth Â· there y schall assygne</l><l id="Hm.4.126" n="KD.4.127">  that noman go to Galyce Â· but Èif he go for euere</l><l id="Hm.4.127" n="KD.4.128">  and alle rome<seg type="shadowHyphen">-</seg>renners Â· for robbers byÈonde</l><l id="Hm.4.128" n="KD.4.129">  bere no seluer ouer <app loc="Hm.4.128"><lem wit="Hm H F">the see</lem><rdg wit="Most other mss">see</rdg></app> Â· that sygne of kynge scheweÃ¾</l><l id="Hm.4.129" n="KD.4.130">  neyther graue <app loc="Hm.4.129"><lem wit="Hm Cr">nor</lem><rdg wit="All other mss">ne</rdg></app> vngraue Â· golde neyÃ¾er syluer Â· </l><l id="Hm.4.130" n="KD.4.131">  vpon forfeture of that fee Â· who<seg type="shadowHyphen">-</seg>so fynte <app loc="Hm.4.130"><lem wit="Hm Cr W">yt</lem><rdg wit="All other mss">hym</rdg></app> atte douer Â· </l><milestone n="127v" unit="fol." entity="B.Hm127v"/><l id="Hm.4.131" n="KD.4.132">  but ytte be Marchaunt<del rend="erasure" status="unremarkable">e</del> or his man Â· or messager<del rend="erasure" status="unremarkable">e</del> wyÃ¾ lettris</l><l id="Hm.4.132" n="KD.4.133">  p<expan>ro</expan>uysour or preste Â· or penaunte for his synnes Â· </l></lg><lg type="strophe"><l id="Hm.4.133" n="KD.4.134">  <hi rend="bl">Â¶</hi>  And Èet<del rend="erasure" status="unremarkable">te</del><note type="paleographic" id="Hm.4.133.n.1"><ref>Hm.4.133:</ref> The original scribe wrote <hi rend="it">Èette</hi>.  A corrector erased the final &lt;te&gt; and restroked the first &lt;t&gt;.</note> q<expan>uo</expan>d resoun by the rode Â· y schall no rewthe haue</l><l id="Hm.4.134" n="KD.4.135">  while mede haÃ¾ the maystrye Â· in this mote<seg type="shadowHyphen">-</seg>halle</l><l id="Hm.4.135" n="KD.4.136">  ac y may schewe ensamples Â· as y see otherwhyle</l><l id="Hm.4.136" n="KD.4.137">  y seye yt by my<seg type="shadowHyphen">-</seg>selfe quod he Â· and yt so were</l><l id="Hm.4.137" n="KD.4.138">  that y were kyng<del rend="erasure" status="unremarkable">e</del> wyth corowne to kepe Ã¾e rewme</l><l id="Hm.4.138" n="KD.4.139">  schulde neuere wrong<del rend="erasure" status="unremarkable">e</del> in this world<del rend="erasure" status="unremarkable">e</del> that y <app loc="Hm.4.138"><lem wit="Hm">mygth wyte</lem><rdg wit="Most other mss">wite myÈte</rdg></app></l><l id="Hm.4.139" n="KD.4.140">  ben vnpunsched in my power Â· for p<expan>er</expan>yl of my soule</l><l id="Hm.4.140" n="KD.4.141">  ne gete my grace for Èiftes Â· so <app loc="Hm.4.140"><lem wit="Hm">god me</lem><rdg wit="All other mss">me god</rdg></app> saue</l><l id="Hm.4.141" n="KD.4.142">  ne for no mede haue mercy Â· but mekenesse yt made</l><l id="Hm.4.142" n="KD.4.143">  for <foreign lang="lat"><hi rend="display">nullum malum</hi></foreign> the man Â· mette wyth <foreign lang="lat"><hi rend="display"><app loc="Hm.4.142"><lem wit="Hm"><sic>inpugnitu<expan>m</expan></sic><corr>inp[u]nitum</corr></lem><rdg wit="All other mss">inpunitum</rdg></app> Â· </hi></foreign></l><l id="Hm.4.143" n="KD.4.144">  and bad<del rend="erasure" status="unremarkable">de</del> <foreign lang="lat"><hi rend="display">nullum bonum</hi></foreign> be <foreign lang="lat"><hi rend="display">irremuneratum</hi></foreign></l></lg><lg type="strophe"><l id="Hm.4.144" n="KD.4.145">  <hi rend="rb">Â¶</hi>  Late Èoure confessour syre kyng<del rend="erasure" status="unremarkable">e</del> Â· construe this vnglosed</l><l id="Hm.4.145" n="KD.4.146">  and Èif Èe wurchyn <app loc="Hm.4.145"><lem wit="Hm H">this</lem><rdg wit="Most other mss">it</rdg></app> <app loc="Hm.4.145"><lem wit="Hm G">werke</lem><rdg wit="All other mss">in werke</rdg></app> Â· y wedde myn eres</l><l id="Hm.4.146" n="KD.4.147">  that lawe schall ben a laborer Â· and lede afelde dungge</l><l id="Hm.4.147" n="KD.4.148">  and loue schall lede Ã¾y lond<del rend="erasure" status="unremarkable">e</del> Â· as the leef lyketh</l></lg><lg type="strophe"><l id="Hm.4.148" n="KD.4.149">  <hi rend="bl">Â¶</hi>  Clerkes that weren confessours Â· coupled hem to<seg type="shadowHyphen">-</seg>gydres</l><l id="Hm.4.149" n="KD.4.150">  alle to construe Ã¾is clause Â· and for Ã¾e kynges p<expan>ro</expan>fyte</l><l id="Hm.4.150" n="KD.4.151">  ac nougth for <app loc="Hm.4.150"><lem wit="Hm">p<expan>ro</expan>fyte</lem><rdg wit="Most other mss">conforte</rdg></app> Â· of Ã¾e comune Â· ne for the kynges soule</l><l id="Hm.4.151" n="KD.4.152">  for y say mede yn Ã¾e Mothalle Â· on men of lawe wynke</l><l id="Hm.4.152" n="KD.4.153">  and Ã¾ey lawynge loopen to here Â· and lefte resoun manye</l></lg><lg type="strophe"><l id="Hm.4.153" n="KD.4.154">  <hi rend="rb">Â¶</hi>  wareyne wysdome Â· wynked vppon mede Â· </l><l id="Hm.4.154" n="KD.4.155">  and seyde Madame y am Èoure man Â· what<seg type="shadowHyphen">-</seg>so my mowth<del rend="erasure" status="unremarkable">e</del> iangle</l><l id="Hm.4.155" n="KD.4.156">  y <app loc="Hm.4.155"><lem wit="Hm M Cr">fa<del rend="erasure" status="unremarkable">lle yn</del><add place="inline" hand="hand3">yle</add></lem><rdg wit="Most other mss">falle in</rdg></app> floreyns q<expan>uo</expan>d that freke Â· and fayle speche ofte</l></lg><lg type="strophe"><l id="Hm.4.156" n="KD.4.157">  <hi rend="bl">Â¶</hi>  All rygthfull recordede Â· that resoun trewÃ¾e tolde</l><l id="Hm.4.157" n="KD.4.158">  and wytt<del rend="erasure" status="unremarkable">e</del> accordede Ã¾erwyth Â· and comended his woordes</l><l id="Hm.4.158" n="KD.4.159">  and Ã¾e moste peple in Ã¾e halle Â· and many of Ã¾e grete</l><l id="Hm.4.159" n="KD.4.160">  and leten mekenesse <orig>amayst<expan>er</expan></orig><reg>a mayst<expan>er</expan></reg> Â· and mede <app loc="Hm.4.159"><lem wit="Hm">mansed</lem><rdg wit="All other mss">a mansed</rdg></app> schrewe</l></lg><lg type="strophe"><l id="Hm.4.160" n="KD.4.161">  <hi rend="rb">Â¶</hi>  Loue leet of here lygth Â· and leaute <app loc="Hm.4.160"><lem wit="Hm R F">well</lem><rdg wit="Most other mss">Èit</rdg></app> lasse</l><l id="Hm.4.161" n="KD.4.162">  and seyde it so hye Â· that all the halle yt herde</l><l id="Hm.4.162" n="KD.4.163">  who<seg type="shadowHyphen">-</seg>so wylneÃ¾ here to wyue Â· for welÃ¾e of here goodes</l><l id="Hm.4.163" n="KD.4.164">  but he be knowe for a cokewold<del rend="erasure" status="unremarkable">e</del> Â· kutte of myn nose</l></lg><lg type="strophe"><l id="Hm.4.164" n="KD.4.165">  <hi rend="bl">Â¶</hi>  Mede mornyd tho Â· and made heuy chere</l><l id="Hm.4.165" n="KD.4.166">  for Ã¾e moste comune of Ã¾at court<del rend="erasure" status="unremarkable">e</del> called here an hore</l><l id="Hm.4.166" n="KD.4.167">  and a sysoure and a sumnoure Â· seweden here faste</l><l id="Hm.4.167" n="KD.4.168">  and a scherreues clerk<del rend="erasure" status="unremarkable">e</del> bysch<del rend="erasure" status="unremarkable">.....</del><add place="inline" hand="hand3">rewyd</add> <app loc="Hm.4.167"><lem wit="Hm">was all</lem><rdg wit="All other mss">al</rdg></app> Ã¾e route</l><l id="Hm.4.168" n="KD.4.169">  for ofte haue y quod <del rend="erasure" status="unremarkable">...</del><add place="inline" hand="hand3">she</add><note type="linguistic" id="Hm.4.168.n.1"><ref>Hm.4.168:</ref>  The spelling, inserted over an erasure probably by hand3, is unique in this manuscript for <hi rend="it">she</hi>.  Hand1's and hand2's normal spelling is <hi rend="it">sche</hi>.</note>  Â· holpen Èowe atte barre</l><l id="Hm.4.169" n="KD.4.170">  and Èet Èoue Èe me neuere Â· Ã¾e worÃ¾ of a rusche</l></lg><lg type="strophe"><l id="Hm.4.170" n="KD.4.171">  <hi rend="rb">Â¶</hi>  The kynge called conscyence Â· and aftyrward resoun Â· </l><milestone n="128r" unit="fol." entity="B.Hm128r"/><l id="Hm.4.171" n="KD.4.172">  and recordede that resoun Â· hadde ryghtfully schewed</l><l id="Hm.4.172" n="KD.4.173">  and modyly vpon mede Â· wyth mygth the kynge loked Â· </l><l id="Hm.4.173" n="KD.4.174">  and gan wexe wroth wyÃ¾ lawe Â· for mede <app loc="Hm.4.173"><lem wit="Hm">hadde yt schent<del rend="erasure" status="unremarkable">e</del></lem><rdg wit="Most other mss">almoste had shent it</rdg></app></l><l id="Hm.4.174" n="KD.4.175">  and seyde thorow<del rend="erasure" status="unremarkable">e</del> Èoure <app loc="Hm.4.174"><lem wit="Hm">lawe</lem><rdg wit="Most other mss">lawe as I leue</rdg></app> Â· y lese many <app loc="Hm.4.174"><lem wit="Hm">enchetes</lem><rdg wit="Most other mss">chetes</rdg></app></l><l id="Hm.4.175" n="KD.4.176">  Mede ouermaystreth lawe Â· and moche trewÃ¾e letteth Â· </l><l id="Hm.4.176" n="KD.4.177">  ac reson schall rykene wyth Èow<del rend="erasure" status="unremarkable">e</del> Â· yf <app loc="Hm.4.176"><lem wit="Hm">eny while y reygne</lem><rdg wit="Most other mss">I regne any while</rdg></app></l><l id="Hm.4.177" n="KD.4.178">  and deme Èow<del rend="erasure" status="unremarkable">e</del> by this day Â· as Èe haue deseruyd Â· </l><l id="Hm.4.178" n="KD.4.179">  mede schall nougth maynp<expan>ri</expan>se Èow<del rend="erasure" status="unremarkable">e</del> by the marye of heuene</l><l id="Hm.4.179" n="KD.4.180">  y woll haue leaute in lawe Â· and <app loc="Hm.4.179"><lem wit="Hm F">leue</lem><rdg wit="All other mss">lete</rdg></app> <app loc="Hm.4.179"><lem wit="Hm M F">all</lem><rdg wit="Most other mss">be al</rdg></app> Èoure ianglynge</l><l id="Hm.4.180" n="KD.4.181">  and as moste <del rend="linedThrough" status="unremarkable">moste</del> folke wytnesseÃ¾ well Â· wronge schal be demyd</l></lg><lg type="strophe"><l id="Hm.4.181" n="KD.4.182">  <hi rend="bl">Â¶</hi>  Quod conscyence to the kyng<del rend="erasure" status="unremarkable">e</del> Â· but the comune woll assente</l><l id="Hm.4.182" n="KD.4.183">  yt is full harde by myn hede Â· here to brynge yt</l><l id="Hm.4.183" n="KD.4.184">  Alle Èoure <app loc="Hm.4.183"><lem wit="Hm H">lyche</lem><rdg wit="Most other mss">lige</rdg></app> ledes Â· to lede thus euene Â· </l><l id="Hm.4.184" n="KD.4.185">  by hym that <app loc="Hm.4.184"><lem wit="Hm">reste</lem><rdg wit="Most other mss">rauÈte</rdg></app> on the rode Â· q<expan>uo</expan>d resoun to the kynge</l><l id="Hm.4.185" n="KD.4.186">  <app loc="Hm.4.185"><lem wit="Hm B H">but</lem><rdg wit="Most other mss">But if</rdg></app> y rewle thus Èowre rewme Â· <app loc="Hm.4.185"><lem wit="Hm">lete rende</lem><rdg wit="All other mss">rende</rdg></app> out <del rend="erasure" status="unremarkable">...</del><add place="inline" hand="hand3">my</add> guttes</l><l id="Hm.4.186" n="KD.4.187">  Èif Èe bydden buxumnesse Â· be of myn assente</l></lg><lg type="strophe"><l id="Hm.4.187" n="KD.4.188">  <hi rend="rb">Â¶</hi>  And y assente q<expan>uo</expan>d the kyng<del rend="erasure" status="unremarkable">e</del> by seynt Marye my lady</l><l id="Hm.4.188" n="KD.4.189">  by my <app loc="Hm.4.188"><lem wit="Hm">comen conseyl</lem><rdg wit="All other mss">conseille comen</rdg></app> Â· of clerkes and of erles</l><l id="Hm.4.189" n="KD.4.190">  ac redyly resoun thu schalt<del rend="erasure" status="unremarkable">e</del> nougth ryde fram me</l><l id="Hm.4.190" n="KD.4.191">  for <app loc="Hm.4.190"><lem wit="Hm">also</lem><rdg wit="All other mss">as</rdg></app> longe as y leue Â· lete the y nylle Â· </l><l id="Hm.4.191" n="KD.4.192">  y am all redy q<expan>uo</expan>d resoun Â· to reste wyth Èow<del rend="erasure" status="unremarkable">e</del> euere</l><l id="Hm.4.192" n="KD.4.193">  so conscyence be of oure conseyl Â· y kepe no bettre<note type="textual" id="Hm.4.192.n.1"><ref>Hm.4.192:</ref> After this line, all other manuscripts contain a line not found in Hm, here given in the spelling of L: <hi rend="it">And I graunt quod the kynge goddes forbode it faile</hi>. Perhaps the omission is due to an eye-skip, for both the omitted line and the next begin (in most manuscripts) with the letter <hi rend="it">A</hi>. Despite the omission, the lines make perfect syntactic sense, though now the final line would have to be spoken by Reason rather than the King, whose words begin the omitted line.</note> Â· </l><l id="Hm.4.193" n="KD.4.195">  also longe as oure lyfe lasteth Â· lyue we to<seg type="shadowHyphen">-</seg>gydres Â· </l></lg></div1><!--  
+20060228 Proof entry of hand identifications on adds in Hm completed.  HND/PRB
+20061229 Enter MC's comments on app tagging.  HND
+20060718 notes checked and corrected for spelling of L EKK
+20051219 HND MGD PRB proof entry finished.
+20051214 HND MGD PRB proof entry.
+20051003 MGD PRB and EKK text proof finished.
+20050829 APP tag queries still pending input. MDG and PRB began work changing unique readings and some ms groups to app tags.
+Transcribed by IRA 1994
+Records of proofings were not made.
+Proofed and errors corrected:  May 2002  Paul Gaffney
+Image entities added:  HND 29 June 02
+Notes proofed by PDG and KT 7-9 July 2003
+Parsed 05 Sept 03 JM
+
+--><!-- 
+20060228 Proof entry of hand identifications on adds in Hm completed.  HND/PRB
+20061229 Enter MC's comments on app tagging.  HND
+20060718 notes checked and corrected for spelling of L EKK
+22 Jan 06  Finish inserting app tags  HND
+20051219 HND MGD PRB proof entry finished.
+20051219 HND MGD PRB proof entry begun.
+20051010 MGD PRB and EKK text proof finished.
+MGD/PRB finished app tagging this passus 20051004.  Queries pending.
+MGD/PRB began ap tagging of manuscript groups 20051004.  Queries pending.
+corrections HND  29 Apr 02 
+Proofing by KT and PG on 9 July 2003
+Parsed 05 Sept 03 JM
+--><!--
+<!
+20060228 Proof entry of hand identifications on adds in Hm completed.  HND/PRB
+20061229 Enter MC's comments on app tagging.  HND
+20060718 notes checked and corrected for spelling of L EKK
+20060102 HND MGD PRB Proof entry finished
+22 Jan 06	Complete app tags   HND
+20060102 PASSUS 7-9 NEED TO BE APP TAGGED.
+20051017 MGD PRB and EKK text proof finished.
+
+DOCTYPE DIV1 PUBLIC "-//SEENET//DTD Piers DIV1//EN"
+[
+Transcribed:  IRA 20 April 94
+Proofed:  MC   7/99
+Entered:  HND  24 Aug 00
+]>
+
+Marginalia query:  id="Hm.7.191"-not sure how to code.  prb 20040830
+--><!--
+20060228 Proof entry of hand identifications on adds in Hm completed.  HND/PRB
+20061229 Enter MC's comments on app tagging.  HND
+20060718 notes checked and corrected for spelling of L EKK
+20060123 MGD PRB app tagging completed but not proofed.
+20060102 HND MGD PRB proof entry finished.
+20051017 MGD PRB and EKK text proof finished.
+
+Notes proofed through by PDG and KT 9 July 2003
+Parsed 05 Sept 03 JM
+--><!-- 
+20060228 Proof entry of hand identifications on adds in Hm completed.  HND/PRB
+20061229 Enter MC's comments on app tagging.  HND
+20060718 notes checked and corrected for spelling of L EKK
+20060124 HND MGD PRB app tagging entered.
+20060102 HND MGD PRB Proof entry finished.
+20051018 MGD PRB and EKK text proof finished.
+
+16 July 2003 notes proofed by P.G. and K.T., entered into text by K.T.
+Parsed 05 Sept 03 JM
+--><!--
+20060228 Proof entry of hand identifications on adds in Hm completed.  HND/PRB
+20061229 Enter MC's comments on app tagging.  HND
+20060718 notes checked and corrected for spelling of L EKK
+20060103 HND MGD PRB Proof entry finished.
+20060101  HND entered app tags.
+20051024 MGD PRB and EKK text proof finished.
+
+Proofread against KD and errors corrected July 2003 by Heather Blatt and Janice McCoy.
+Spellings in notes converted to L base in July 2003 by Heather Blatt
+Parsed 05 Sept 03 JM
+Thorlac's corrections added partially  7 Nov 04  HND. See e-mail to TP, Bos, Pat on that date.
+--><!--
+20060228 Proof entry of hand identifications on adds in Hm completed.  HND/PRB
+20061229 Enter MC's comments on app tagging.  HND
+20060718 notes checked and corrected for spelling of L EKK
+20060103 HND MGD PRB Proof entry finished.
+20060101  app tags supplied   HND after initial effort in August 05
+20051024 MGD PRB and EKK text proof finished.
+Transcribed by IRA 1994
+Records of proofings were not made.
+Image entities added:  HND 29 June 02
+Proofed and errors corrected:  May 2002  Paul Gaffney
+Proofed against KD and errors corrected: July 2003 Heather Blatt and Janice McCoy
+Spellings in notes converted to L base: July 2003 by Heather Blatt
+Parsed 05 Sept 03 JM
+--><!--
+20060228 Proof entry of hand identifications on adds in Hm completed.  HND/PRB
+20061229 Enter MC's comments on app tagging.  HND
+20060718 notes checked and corrected for spelling of L EKK
+20060109 HND MGD PRB finished proof entry.
+20060101 HND to finish app tagging.
+20051031 MGD PRB and EKK text proof finished.
+
+Transcribed by IRA 1994
+Records of proofings were not made.
+Proofed and errors corrected:  May 2002  Paul Gaffney
+Image entities added:  HND 29 June 02
+Proofed against KD and errors corrected: July 2003 Heather Blatt and Janice McCoy
+Parsed 05 Sept 03 JM
+Bos corrections entered, HND 10 Aug 05
+--><!--
+20060228 Proof entry of hand identifications on adds in Hm completed.  HND/PRB
+20060718 notes checked and corrected for spelling of L EKK
+20060109 HND MGD PRB proof entry finished.
+20051102 MGD PRB and EKK text proof finished.
+
+Transcribed by IRA 1994
+Records of proofings were not made.
+Proofed and errors corrected:  May 2002  Paul Gaffney
+Image entities added:  HND 29 June 02
+Proofed against KD and errors corrected: June 2003 Janice McCoy and Heather Blatt
+Parsed 05 Sept 03 JM
+Boswell's corrections entered and unique app tags added. 14-16 August 05   HND
+--><!--
+20060228 Proof entry of hand identifications on adds in Hm completed.  HND/PRB
+20060718 notes checked and corrected for spelling of L EKK
+21 April 2006  HND  Enter Boswell's proofing of app tags results.
+20060111/12 HND   revise app tags
+20060110 HND MGD PRB proof entry has been finished.
+20051107 MGD PRB and EKK text proof finished.
+Unique and small set tags added  16 August 05 & Boswell's corrections to the notes.  hnd
+Transcribed by IRA 1994
+Records of proofings were not made.
+Proofed and errors corrected:  May 2002  Paul Gaffney
+Image entities added:  HND 29 June 02
+Proofed against KD and errors corrected: July 2003 Heather Blatt and Janice McCoy
+Note spellings converted to L: July 2003 by Heather Blatt
+Parsed 05 Sept 03 JM
+
+--><!--
+20060228 Proof entry of hand identifications on adds in Hm completed.  HND/PRB
+20060718 notes checked and corrected for spelling of L EKK
+21April06  HND entered Boswell's proofing of app tags
+20060117 HND MGD PRG proof entry finished.
+20060112 HND   revise app tags
+20051108 MGD PRB and EKK text proof finished.
+
+Notes proofed against KD, corrected, and entered July 2003 by Janice McCoy and Heather Blatt.
+Note spellings converted to L base: August 2003 by Heather Blatt
+Parsed 05 Sept 03 JM
+--><!--
+20060228 Proof entry of hand identifications on adds in Hm completed.  HND/PRB
+20061229 Enter MC's comments on app tagging.  HND
+20060718 notes checked and corrected for spelling of L EKK
+20060116 HND MGD PRB finished proof entry.
+12Jan06  HND  finished app tagging
+20051110 MGD PRB and EKK text proof finished.
+
+Transcribed by GYD 2000
+Records of proofings were not made.
+Proofed and errors corrected:  May 2002  Paul Gaffney
+Image entities added:  HND 29 June 02
+Notes proofed against KD for substance, and against various note files for completeness. One note added (263): JM and HB 10 July 03.
+All generic B text citations changed from W to L spelling: JM 4 Aug 03
+Parsed 05 Sept 03 JM
+--><!--
+20060228 Proof entry of hand identifications on adds in Hm completed.  HND/PRB
+20061229 Enter MC's comments on app tagging.  HND
+20060718 notes checked and corrected for spelling of L EKK
+20060117 HND MGD PRB finished proof entry.
+14Jan06   HND	   checked app tags
+20051110 MGD PRB and EKK text proof finished.
+
+Notes checked and edited for style and content: JM and HB 14 July 03
+(also, note added at Hm17.126)
+All generic B text citations changed from W to L spelling: JM 4 Aug 03
+Parsed 05 Sept 03 JM
+Corrections added HND 8 June 05
+Bos's corrections added and unique tags converted from notes:  13-14 Aug 05,  hnd
+--><!--
+20060228 Proof entry of hand identifications on adds in Hm completed.  HND/PRB
+20061229 Enter MC's comments on app tagging.  HND
+20060718 notes checked and corrected for spelling of L EKK
+20060117 HND MGD PRB proof entry finished.
+14 Jan 06  HND app tags checked
+20051115 MGD PRB and EKK text proof finished.
+
+Notes checked and edited for style and content: 17 July 03 JM and HB
+Textual notes were missing beginning around Hm18.148, now entered: 17 July 03 JM
+All generic B text citations changed from W to L spelling: JM 4 Aug 03
+Parsed 05 Sept 03 JM
+Corrections entered:  HND  8- June 05  -changed notes to app tags. Bos's notes on passus 18 were not available.
+parsed  hnd 8-8-05
+--><!--
+20060228 Proof entry of hand identifications on adds in Hm completed.  HND/PRB
+20061229 Enter MC's comments on app tagging.  HND
+20060719 notes checked and corrected for spelling of L EKK
+20060123 HND MGD PRG proof entry finished.
+15-15 Jan 06    HND    finish app tags
+20051122 MGD PRB and EKK text proof finished.
+
+Notes checked for content and style: 21 July 03 JM and HB
+Notes incomplete; additions made: 21 July 03 JM and HB
+Image references added: 22 July 03 JM
+All generic B text citations changed from W to L spelling: JM 5 Aug 03
+Parsed 05 Sept 03 JM
+Boswell's corrections entered:  4-7 June 05   HND
+--><!--
+20060228 Proof entry of hand identifications on adds in Hm completed.  HND/PRB
+20061229 Enter MC's comments on app tagging.  HND
+20060719 notes checked and corrected for spelling of L EKK
+20060123 HND MGD PRB proof entry finished.
+20051128 MGD PRB and EKK text proof finished.
+
+Notes entered and corrected: 21 July 03 JM and HB
+All generic B text citations changed from W to L spelling: JM 5 Aug 03
+Parsed 05 Sept 03 JM
+Some note and text revisions entered HND 1 April 05
+Unique readings tagged HND 28 May 05
+Bos's corrections entered HND 28-29 May 05
+--></body></text></TEI.2>

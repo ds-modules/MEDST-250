@@ -1,0 +1,1011 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="R"><teiHeader><fileDesc><titleStmt><title> The Piers Plowman Electronic Archive, Vol. 7: <list><item>London, British Library, MS Lansdowne 398 </item><item>Oxford, Bodleian Library, MS Rawlinson Poetry 38</item></list>
+				 â Passus 12</title><author>William Langland</author><editor>Edited by Robert Adams</editor><editor>Associate Editors: Patricia R. Bart, M. Gail Duggan and Catherine A.
+					Farley</editor><editor>Technical Editor: Daniel Pitti</editor><respStmt><resp>
+						<hi rend="bold">Graduate Research Assistant</hi></resp><name>Michael Blum, John Ivor Carlson, Carrie Lindley, Janice McCoy, Ashley Opps, Timothy L.
+						Stinson, and Jordan Taylor.</name></respStmt><respStmt><resp>
+						<hi rend="bold">Computer Consultants and Programmers</hi></resp><name>Robert Bingler, Shayne Brandon, Cynthia Girard, Chris Jessee, Daniel Pitti, David Seaman,
+						and John Unsworth.</name></respStmt></titleStmt><publicationStmt><publisher>The Medieval Academy of America and <hi rend="bold">SEENET</hi> by Boydell and
+					Brewer, LTD</publisher><pubPlace>Woodbridge, Suffolk</pubPlace><idno type="ETC">ISBN: (Individual) 9781843840947 (Institutional): 9781843840930</idno><availability><p>Commercially available: </p><p>copyright 2011, by SEENET</p></availability><date>2006 </date></publicationStmt><sourceDesc><biblFull><titleStmt><title/></titleStmt><editionStmt><edition>Combined facsimile &amp; documentary edition.</edition><respStmt><resp>Identification of hands</resp><name>IRA = Robert Adams</name></respStmt></editionStmt><extent>1 computer optical disk : col. ; 4 3/4 in.</extent><publicationStmt><publisher>The Medieval Academy of America and <hi rend="bold">SEENET</hi>, by Boydell and
+							Brewer, LTD.</publisher><pubPlace>Woodbridge, Suffolk</pubPlace><date> </date><idno type="callNo">Source copy consulted: London, British Library, MS Lansdowne 398 and
+							Oxford, Bodleian Library, MS Rawlinson Poetry 38</idno></publicationStmt><seriesStmt><p>SEENET, A.9 </p></seriesStmt></biblFull></sourceDesc></fileDesc><encodingDesc><editorialDecl><p>
+					<list><head>Attribute Values</head><item>
+							<label>br</label>
+							<term>brown ink</term></item><item>
+							<label>ab</label>
+							<term>anglicana bastarda</term></item><item>
+							<label>it</label>
+							<term>italic</term></item><item>
+							<label>lc</label>
+							<term>Lombard Cap</term></item><item>
+							<label>o[number]</label>
+							<term>ornamented capital, N lines high</term></item><item>
+							<label>rb</label>
+							<term>rubricated</term></item><item>
+							<label>tr</label>
+							<term>touched in red</term></item><item>
+							<label>tx</label>
+							<term>textura</term></item><item>
+							<label>ul</label>
+							<term>underlined</term></item><item>
+							<label>ur</label>
+							<term>underlined in red</term></item><item>
+							<label>gr</label>
+							<term>green ink</term></item><item>
+							<label>bl</label>
+							<term>blue ink</term></item></list></p></editorialDecl></encodingDesc><profileDesc><langUsage><language id="lat">Latin</language><language id="fre">French</language><language id="ger">German</language></langUsage><handList><hand id="hand1"/><hand id="hand2"/><hand id="handsecx"/><hand id="handx"/><hand id="hand15x"/><hand id="handrub2"/><hand id="handrub3"/><hand id="handitalx"/><hand id="hand16x"/><hand id="handmodx"/></handList></profileDesc><revisionDesc><change><date>November 2005 </date><respStmt><resp>revise header, update DTD and ent files </resp><name>Hoyt N. Duggan </name></respStmt><item>New header created </item></change></revisionDesc></teiHeader><!-- 2012/12/04 PAB converted line numbers and ids to new format. Source text was SVN; COR uncertain. Will need to be rechecked. --><text><body><!--
+	Transcribed Sean Taylor, 1996
+	Proofed against MS:  IRA  1998
+
+	Notes completely revised:  IRA  2004- Feb2005
+	COR transferred to Janice McCoy to have notes inserted  24 March 2005 
+	Revised notes from IRA inserted: JM April 5, 2005
+	Revised notes based on "More Corrections to R Notes.doc" from IRA: JM June 14, 2005
+	Changed marginal adds to marginalia: June 17 2005 JM
+Partial proof entry 1 March 2006 EKK MGD
+
+20060306 HND MGD PRB proof entry finished.
+
+20060405 alpha vs. beta app tagging completed EKK MGD
+
+20060417 app tags proofed except omitted lines HND MGD PRB EKK
+
+20060622 notes checked and corrected for spelling of L EKK
+
+20060626 final app proof MGD PRB EKK
+
+20101012 All shadow hyphen markup entered and proofed.  HND
+--><!--
+	Transcribed Sean Taylor, 1996
+	Proofed against MS:  IRA  1998?
+	Notes supplied by IRA entered by HND   15, 17 Dec 03
+
+	Notes completely revised:  IRA  2004- Feb2005
+	COR transferred to Janice McCoy to have notes inserted  24 March 2005 
+	Revised notes from IRA inserted: JM April 5, 2005
+	Changed marginal adds to marginalia: June 17 2005 JM
+Partial proof entry 1 March 2006 EKK MGD
+
+20060306  HND MGD PRB proof entry finished.
+
+App tagged 15 March 2006 EKK MGD
+
+20060405 alpha vs. beta app tagging completed EKK MGD
+
+20060417 app proofing completed except line omissions HND MGD PRB EKK
+
+20060622 notes checked and corrected for spelling of L EKK
+
+20060626 final app proof MGD PRB EKK
+
+
+
+--><!--
+	Transcribed Sean Taylor, 1996
+	Proofed against MS:  IRA  1998?
+	Notes supplied by IRA entered by HND   15, 17 Dec 03
+
+	Notes completely revised:  IRA  2004- Feb2005
+	COR transferred to Janice McCoy to have notes inserted  24 March 2005 
+	Revised notes from IRA inserted: JM April 12, 2005
+	Revised notes based on "More Corrections to R Notes.doc" from IRA: JM June 14, 2005
+	Changed marginal adds to marginalia: June 17 2005 JM
+Partial proof entry 1 March 2006 EKK MGD
+
+20060306 HND MGD PRB finished proof entry.
+
+RESUME APP TAG AT R3.221
+
+App tagging complete 03202006 EKK MGD
+
+20060405 alpha vs. beta app tagging completed EKK MGD
+
+200604018 HND MGD PRB app poroofed to KD3.203.
+
+20060419 app proofing finished HND MGD EKK
+
+20060622 notes checked and corrected for spelling of L EKK
+
+20060626 final app proof completed EKK MGD PRB
+
+--><!--
+	Transcribed Sean Taylor, 1996
+	Proofed against MS:  IRA  1998?
+	Notes supplied by IRA entered by HND   15, 17 Dec 03
+
+	Notes completely revised:  IRA  2004- Feb2005
+	COR transferred to Janice McCoy to have notes inserted  24 March 2005 
+	Revised notes from IRA inserted: JM April 14, 2005
+	Changed marginal adds to marginalia: June 17 2005 JM
+
+20060307 HND MGD PRB Proof entry finished.
+
+App tags entered 03202006 EKK MGD
+
+20060405 alpha vs. beta app tagging completed EKK MGD
+
+20060622 notes checked and corrected for spelling of L EKK
+
+20060626 final app proof completed EKK PRB Resume at passus 5
+
+
+--><!--
+	Transcribed Sean Taylor, 1996
+	Proofed against MS:  IRA  1998?
+	Notes supplied by IRA entered by HND   15, 17 Dec 03
+
+	Notes completely revised:  IRA  2004-Feb2005
+	COR transferred to Janice McCoy to have notes inserted  24 March 2005 
+	Revised notes from IRA inserted: JM April 19, 2005
+	Revised notes based on "More Corrections to R Notes.doc" from IRA: JM June 14, 2005
+	Changed marginal adds to marginalia: June 17 2005 JM
+
+20060307 HND MGD PRB Proof entry finished.
+
+App tags partially completed 03202006 EKK MGD PRB
+
+20060321 App tagging completed MGD PRB
+
+20060405 alpha vs. beta app tagging completed EKK MGD
+
+20060419 app proofing to R5.33 EKK MGD
+
+20060424 HND MGD PRB EKK app tagging completed.
+
+20060622 notes checked and corrected for spelling of L
+
+20060628 final app proof PRB MGD EKK completed.
+
+--><!--
+	Transcribed Sean Taylor, 1996
+	Proofed against MS:  IRA  1998?
+	Notes supplied by IRA entered by HND   15, 17 Dec 03
+
+	Notes completely revised:  IRA  2004- Feb2005
+	COR transferred to Janice McCoy to have notes inserted  24 March 2005 
+	Revised notes from IRA inserted: JM April 19, 2005
+	Revised notes based on "More Corrections to R Notes.doc" from IRA: JM June 14, 2005
+	Changed marginal adds to marginalia: June 17 2005 JM
+
+20060313 HND MGD PRB Proof entry finished.
+
+20060321 MGD PRB finished app tagging.
+
+20060405 alpha vs. beta app tagging completed EKK MGD
+
+20060425 MGD PRB preliminary app tag proof completed.  HND needs to review pink items on Rob's lists.
+
+20060425 HND MGD PRB app proof finished.
+
+20060627 notes checked and corrected for spelling of L EKK
+
+20060703 MGD PRB final app proof completed.
+
+--><!--
+	Transcribed Sean Taylor, 1996
+	Proofed against MS:  IRA  1998?
+	Notes supplied by IRA entered by HND   15, 17 Dec 03
+
+	Notes completely revised:  IRA  2004- Feb2005
+	COR transferred to Janice McCoy to have notes inserted  24 March 2005 
+	Revised notes from IRA inserted: JM April 22, 2005
+	Revised notes based on "More Corrections to R Notes.doc" from IRA: JM June 14, 2005
+	Changed marginal adds to marginalia: June 17 2005 JM
+
+20060313 HND MGD PRB Proof entry finished.
+
+20060321 MGD PRB app tagging finished.
+
+20060410 MGD EKK alpha vs. beta app tagging completed
+
+20060425 MGD PRB partially proofed app tagging, to R7.69
+
+20060426 HND MGD PRB finished app tag proof.
+
+20060627 notes checked and corrected for spelling of L EKK
+
+20060703 MGD PRB final app proof completed.
+
+--><!--
+	Transcribed Sean Taylor, 1996
+	Proofed against MS:  IRA  1998?
+	Notes supplied by IRA entered by HND   15, 17 Dec 03
+
+	Notes completely revised:  IRA  2004- Feb2005
+	COR transferred to Janice McCoy to have notes inserted  24 March 2005 
+	Revised notes from IRA inserted: JM April 22, 2005
+	Revised notes based on "More Corrections to R Notes.doc" from IRA: JM June 14, 2005
+	Changed marginal adds to marginalia: June 17 2005 JM
+
+20060313 HND MGD PRB Proof entry finished.
+
+20060321 MGD PRB app tagging finished.
+
+20060410 MGD EKK alpha vs. beta app tagging finished.
+
+20060426 HND MGD PRB app proofed to R8.51.
+
+20060501 MGD PRB preliminary app proof finished.  Awaits HND session.
+
+20060502 MGD PRB HND finished app proofing session with HND.
+
+20060627 notes checked and corrected for spelling of L EKK
+
+20060703 MGD PRB begun; MGD PRB EKK finished final app proof 20060705
+
+--><!--
+	Transcribed Sean Taylor, 1996
+	Proofed against MS:  IRA  1998?
+	Notes supplied by IRA entered by HND   15, 17 Dec 03
+
+	Notes completely revised:  IRA  2004- Feb2005
+	COR transferred to Janice McCoy to have notes inserted  24 March 2005 
+	Revised notes from IRA inserted: JM April 28, 2005
+	Revised notes based on "More Corrections to R Notes.doc" from IRA: JM June 14, 2005
+	Changed marginal adds to marginalia: June 17 2005 JM
+	Changed note to 8.186 added for ROB:  Nov 25 2005  HND
+
+20060313 HND MGD PRB Proof entry finished.
+
+03272006 App tagging completed EKK MGD PRB
+
+20060410	alpha vs. beta app tagging finished MGD EKK
+
+20060501 HND MGD PRB app proofing finished.
+
+20060627 notes checked and corrected for spelling of L EKK
+
+20060705 final app proof MGD PRB EKK
+
+--><!--
+	Transcribed Sean Taylor, 1996
+	Proofed against MS:  IRA  1998?
+	Notes supplied by IRA entered by HND   15, 17 Dec 03
+
+	Notes completely revised:  IRA  2004- Feb2005
+	COR transferred to Janice McCoy to have notes inserted  24 March 2005 
+	Revised notes from IRA inserted: JM April 28, 2005
+	Revised notes based on "More Corrections to R Notes.doc" from IRA: JM June 14, 2005
+	Changed marginal adds to marginalia: June 17 2005 JM
+
+20060313 HND MGD PRB Proof entry finished.
+
+03272006 App tagged EKK MGD (see section from KD297-308 for line omission issue)
+
+20060410 alpha vs. beta app tagging finished MGD EKK
+
+20060502 MGD PRB app proof through to R10.328, resume at R10.329
+
+20060502 HND MGD PRB finished app proofing.
+
+20060621 PRB started corrected to spelling of L in notes here at passus 10.  EKK started at Prologue.
+
+20060629 notes checked and corrected for spelling of L EKK
+
+20060705 final app proof completed MGD PRB EKK
+
+--><!--
+	Transcribed Sean Taylor, 1996
+	Proofed against MS:  IRA  1998?
+	Notes supplied by IRA entered by HND   15, 17 Dec 03
+
+	Notes completely revised:  IRA  2004- Feb2005
+	COR transferred to Janice McCoy to have notes inserted  24 March 2005 
+	Revised notes from IRA inserted: JM June 1, 2005
+	Revised notes based on "More Corrections to R Notes.doc" from IRA: JM June 14, 2005
+	Changed marginal adds to marginalia: June 17 2005 JM
+
+03273006 partial app tagging EKK MGD PRB
+
+20060328 app tagging completed, some not entered (such as omitted lines and questionable lemmata), none proofed, MGD, EKK, PRB.
+
+	20060410 alpha vs. beta app tagging finished MGD EKK
+
+20060503 partial app proofing completed MGD HND EKK
+
+20060510 app proofing completed MGD EKK
+
+20060516 final app proofing HND MGD PRB finished.
+
+20060629 notes checked and corrected for spelling of L EKK
+
+20060705 final app proof completed MGD PRB EKK
+
+--><!--
+	Transcribed Sean Taylor, 1996
+	Proofed against MS:  IRA  1998?
+	Notes supplied by IRA entered by HND   15, 17 Dec 03
+
+	Notes completely revised:  IRA  2004- Feb2005
+	COR transferred to Janice McCoy to have notes inserted  24 March 2005 
+	Revisions entered May 23, 2005 JM
+	Revised notes based on "More Corrections to R Notes.doc" from IRA: JM June 14, 2005
+	Changed marginal adds to marginalia: June 17 2005 JM
+
+20060328 App tagging begun MGD, PRB
+
+20060328 MGD PRB app tagging completed, but ommitted lines and some odd or questionable instances not tagged, and none proofed.
+
+20060410 alpha vs. beta app tagging finished MGD EKK
+
+20060511 partial app proofing MGD HND EKK
+
+20060516 MGD PRB finished app proof, and HND proof entry finished
+
+20060629 notes checked and corrected for spelling of L EKK
+
+20060705 final app proof completed MGD PRB EKK
+
+--><div1 n="R.12" type="passus"><fw type="guideWords" place="marginRight" id="R.12.0.f.1"><foreign lang="lat">pass<expan>us</expan>
+							xj<expan>us</expan></foreign></fw><head id="R.12.0.h.1"><foreign lang="lat"><hi rend="rb">Passus
+										<orig><sic>xj<expan>us</expan></sic><corr>x[i]j<expan>us</expan></corr></orig><reg><sic>undecim<expan>us</expan></sic><corr>[duo]decim<expan>us</expan></corr></reg>
+							de visione vt s<expan>upra</expan>
+							<seg type="lineFiller">â</seg>
+							<seg type="lineFiller">â</seg>
+							<seg type="lineFiller">â</seg></hi></foreign></head><lb/><lg type="strophe"><l id="R.12.1" n="KD.12.1">
+						<hi rend="o12"><hi rend="bl">I</hi></hi> am ymaginatif q<expan>uo</expan>d he ï¡ Idel
+						was I neu<expan>er</expan>e .</l><l id="R.12.2" n="KD.12.2"> ÃouÈ I sit be my<seg type="shadowHyphen">-</seg>selue ï¡
+						in seknesse ne in helthe .</l><l id="R.12.3" n="KD.12.3"> I haue folewed Ã¾e in faith ï¡ Ã¾is fyue and forty
+							wynt<expan>er</expan> .</l><l id="R.12.4" n="KD.12.4"> And many tymes haue meued Ã¾e ï¡ to Ã¾enke on Ã¾in ende .</l><l id="R.12.5" n="KD.12.5"> And howe fele <app loc="R.12.5"><lem wit="R">ferneres be</lem><rdg wit="Most beta mss">fernÈeres are</rdg></app><note type="textual" id="R.12.5.n.1"><ref>R.12.5:</ref>
+							Beta has <hi rend="it">fernÈeres are</hi>; F omits the line.</note> faren ï¡ and
+						so fewe to come<expan>n</expan> .</l><l id="R.12.6" n="KD.12.6"> And of Ã¾i wilde wantou<expan>n</expan>esse ï¡ Ã¾o Ã¾ow
+							Èong<expan>e</expan> wer<expan>e</expan> .</l><l id="R.12.7" n="KD.12.7"> To amenden it in Ã¾i myddel age ï¡ lest miÈt Ã¾e faile .</l><milestone n="54v" unit="fol." entity="B.R54v"/><l id="R.12.8" n="KD.12.8"> In Ã¾in olde eelde ï¡ Ã¾at euel can suffre .</l><l id="R.12.9" n="KD.12.9"> Pouerte or penaunce ï¡ or preieres bidde .</l><l id="R.12.10" n="KD.12.9Î±">
+						<hi rend="BinR"><foreign lang="lat">Si non in prima vigilia nec in secu<expan>n</expan>da .
+									&amp;c<expan>etera</expan> .</foreign></hi></l><l id="R.12.11" n="KD.12.10"> Amende Ã¾e <app loc="R.12.11"><lem wit="R"><sic>ye</sic><corr>[]</corr></lem><rdg wit="All other mss">nil</rdg></app><note type="textual" id="R.12.11.n.1"><ref>R.12.11:</ref>
+							R's <hi rend="it">ye</hi> is a unique addition to the text of <hi rend="bold">Bx</hi>.</note>
+						while Ã¾ow miÈt ï¡ Ã¾ow hast ben warned ofte .</l><l id="R.12.12" n="KD.12.11"> With powstes of <app loc="R.12.12"><lem wit="R">penaunce</lem><rdg wit="Most beta mss">pestilences</rdg></app><note type="textual" id="R.12.12.n.1"><ref>R.12.12:</ref>
+							F shows a plural, <hi rend="it">penances</hi>. Beta reads <hi rend="it">pestilences</hi>.</note> ï¡ with pou<expan>er</expan>te &amp; with angres .<note type="codicological" id="R.12.12.n.2"><ref>R.12.12:</ref> The
+							page is split horizontally for a space of about 3.8 cm. here, along the length of the
+							b-verse.</note></l><l id="R.12.13" n="KD.12.12"> And with Ã¾is bitter<expan>e</expan> baleyses ï¡ god beteth
+						his dere children .</l><l id="R.12.14" n="KD.12.12Î±">
+						<hi rend="BinR"><foreign lang="lat">Que<expan>m</expan> diligo castigo ï¡</foreign></hi>
+						<seg type="lineFiller">â</seg>
+						<note type="textual" id="R.12.14.n.1"><ref>R.12.14:</ref> Alpha
+							omits two lines attested in beta at this point (KD12.13-13Î±): <lb/>
+							<hi rend="it">And dauid in Ã¾e sauter seith of suche Ã¾at loueth Ihesus <lb/>
+								<foreign lang="lat">Virga tua &amp; baculus tuus ipsa me consolata sunt
+								&amp;c.</foreign></hi></note></l><l id="R.12.15" n="KD.12.14"> Al<seg type="shadowHyphen">-</seg>Ã¾ouÈ Ã¾ow strike me with Ã¾i
+						staf ï¡ with stikke or with Èerde .</l><l id="R.12.16" n="KD.12.15"> It is but murth as for me ï¡ to amende my soule .</l><l id="R.12.17" n="KD.12.16"> And Ã¾ow medlest Ã¾e with <app loc="R.12.17"><lem wit="R M F">makyng<expan>e</expan></lem><rdg wit="Most beta mss">makynges</rdg></app><note type="textual" id="R.12.17.n.1"><ref>R.12.17:</ref>
+							Though M supports alpha's singular, the other beta copies read <hi rend="it">makynges</hi> or
+								<hi rend="it">mastryes</hi>.</note> ï¡ and miÈtest go sey Ã¾i
+							saut<expan>er</expan> .</l><l id="R.12.18" n="KD.12.17"> And bidde for hem Ã¾<expan>a</expan>t Èiueth Ã¾e brede ï¡
+						for Ã¾ere are bokes Inowe .</l><l id="R.12.19" n="KD.12.18"> To telle me<expan>n</expan> what dowel is ï¡ dobet and dobest
+						bothe .</l><l id="R.12.20" n="KD.12.19"> And p<expan>re</expan>choures to p<expan>re</expan>ue what it is
+						ï¡ of many a peir<expan>e</expan> freres .</l></lg><lb/><lg type="strophe"><l id="R.12.21" n="KD.12.20"> Â¶ I seiÈ wel he seide me soth ï¡ <app loc="R.12.21"><lem wit="R">ac</lem><rdg wit="All other mss">and</rdg></app><note type="textual" id="R.12.21.n.1"><ref>R.12.21:</ref>
+							This is a unique reading in R; all the other manuscripts have <hi rend="it">and</hi>.</note>
+						somwhat me to excuse .</l><l id="R.12.22" n="KD.12.21">
+						<app loc="R.12.22"><lem wit="R F">And</lem><rdg wit="Most beta mss">nil</rdg></app><note type="textual" id="R.12.22.n.1"><ref>R.12.22:</ref>
+							Alpha seems to have been uncomfortable with the enjambment of <hi rend="bold">Bx</hi> here,
+							but alpha's extra conjunction (<hi rend="it">And</hi>), instead of smoothing, actually breaks
+							the syntactic pattern of the statement.</note> seide catou<expan>n</expan> conforted his sone
+						ï¡ Ã¾at clerk Ã¾ouÈ he wer<expan>e</expan></l><l id="R.12.23" n="KD.12.22"> To solasen hym su<expan>m</expan><seg type="shadowHyphen">-</seg>tyme ï¡ <app loc="R.12.23"><lem wit="R F">and</lem><rdg wit="All beta mss">as</rdg></app><note type="textual" id="R.12.23.n.1"><ref>R.12.23:</ref>
+							R's <hi rend="it">and</hi> is shared uniquely with F, but F rewrites the following half-line
+							completely; beta has <hi rend="it">as</hi>.</note> I do whan ich make .</l><l id="R.12.24" n="KD.12.22Î±">
+						<hi rend="BinR"><foreign lang="lat">Int<expan>er</expan>pone tuis
+									int<expan>er</expan>du<expan>m</expan> gaudia curis .</foreign></hi></l><l id="R.12.25" n="KD.12.23"> And<note type="textual" id="R.12.25.n.1"><ref>R.12.25:</ref> Most other <hi rend="bold">B</hi> manuscripts here read, <hi rend="it"><hi rend="bold">of</hi> holy men</hi>; R shares the omission of the preposition
+							with Hm (and, originally, with C) by convergence.</note> holy men I <app loc="R.12.25"><lem wit="R F">her<expan>e</expan></lem><rdg wit="All beta mss">herde</rdg></app> q<expan>uo</expan>d I ï¡ how Ã¾ei otherwile .</l><l id="R.12.26" n="KD.12.24"> Pleiden Ã¾e parfiter ï¡ to be in many <app loc="R.12.26"><lem wit="R">a place</lem><rdg wit="All beta mss">places</rdg></app> .<note type="textual" id="R.12.26.n.1"><ref>R.12.26:</ref> For R's <hi rend="it">a place</hi>, beta has <hi rend="it">places</hi>. Both
+							versions of the b-verse are obviously corrupt, causing F to rewrite it totally: <hi rend="it">in here prayeres after</hi>.</note></l><l id="R.12.27" n="KD.12.25">
+						<app loc="R.12.27"><lem wit="R">Èif</lem><rdg wit="Most beta mss">Ac if</rdg></app><note type="textual" id="R.12.27.n.1"><ref>R.12.27:</ref>
+							The evidence of both beta and F indicates that R has here dropped a word; F begins the line
+								<hi rend="it">Nou if</hi>, while beta begins it <hi rend="it">Ac if</hi>.</note>
+							Ã¾er<expan>e</expan> were any <app loc="R.12.27"><lem wit="R">wit</lem><rdg wit="Most other mss">wight</rdg></app><note type="textual" id="R.12.27.n.2"><ref>R.12.27:</ref>
+							This is a unique form in R; most of the other manuscripts have <hi rend="it">wight</hi>.
+							However, R's <hi rend="it">wit</hi> probably does not represent a substantive difference from
+							the majority reading. <title>OED2</title>, <hi rend="it">s. v.</hi>
+							<hi rend="it">wight</hi>, documents <hi rend="it">wyt(e)</hi> for the fifteenth century and
+								<hi rend="it">wite</hi> for the fourteenth century as variant spellings of <hi rend="it">wight</hi>. <title>MED</title>, <hi rend="it">s. v.</hi>
+							<hi rend="it">wight</hi>, also lists <hi rend="it">wit(e)</hi> as a variant spelling but
+							offers only one example, from the thirteenth century.</note> ï¡ Ã¾at wolde me telle
+						.</l><l id="R.12.28" n="KD.12.26"> What were dowel and do<seg type="shadowHyphen">-</seg>bet ï¡
+						and dobest atte laste .</l><l id="R.12.29" n="KD.12.27"> Wold I neu<expan>er</expan> do werke ï¡ but wende to holy
+						cherche .</l><l id="R.12.30" n="KD.12.28"> And Ã¾er<expan>e</expan> bidde my bedes ï¡ but whan ich eet or
+						slepe .</l></lg><lb/><lg type="strophe"><l id="R.12.31" n="KD.12.29"> Â¶ <app loc="R.12.31"><lem wit="R">With</lem><rdg wit="All beta mss">nil</rdg></app> poule in his <app loc="R.12.31"><lem wit="R">pistles</lem><rdg wit="Most other mss">pistle</rdg></app><note type="textual" id="R.12.31.n.1"><ref>R.12.31:</ref>
+							R is unique in reading the plural <hi rend="it">pistles</hi>, but the serious error of this
+							line, the addition of the preposition <hi rend="it">With</hi> at line head, must reflect a
+							problem in alpha, since F's <hi rend="it">See Poulis</hi> also reads Paul's name as the
+							line's second word.</note> q<expan>uo</expan>d he ï¡ p<expan>re</expan>ueth what is
+						dowel .</l><l id="R.12.32" n="KD.12.29Î±">
+						<hi rend="BinR"><foreign lang="lat">Fides . spes . <app loc="R.12.32"><lem wit="R Cr2 Cr3 F">caritas</lem><rdg wit="Most beta mss">caritas &amp;</rdg></app><note type="textual" id="R.12.32.n.1"><ref>R.12.32:</ref> Beta adds <foreign lang="lat">&amp;</foreign> before <foreign lang="lat">maior</foreign>.</note>
+								<app loc="R.12.32"><lem wit="R">maior</lem><rdg wit="Most other mss">maior horum</rdg></app><note type="textual" id="R.12.32.n.2"><ref>R.12.32:</ref> R uniquely omits a final word from this tag: <foreign lang="lat">horum</foreign>.</note> &amp;c<expan>etera</expan> .</foreign></hi></l><l id="R.12.33" n="KD.12.30"> Feith hope and charite ï¡ <note type="textual" id="R.12.33.n.1"><ref>R.12.33:</ref> Reflecting the difference
+							with alpha in the Latin citation from the previous line, beta has <hi rend="it">and</hi>
+							before <hi rend="it">alle</hi>.</note>
+						<app loc="R.12.33"><lem wit="R F">alle</lem><rdg wit="All beta mss">and alle</rdg></app> ben goed .</l><l id="R.12.34" n="KD.12.31"> And sauen men sundri tymes ï¡ ac non so sone as charite .</l><l id="R.12.35" n="KD.12.32"> For he doth wel with<seg type="shadowHyphen">-</seg>outen doute
+						ï¡ Ã¾<expan>a</expan>t doth as leute techeth .</l><l id="R.12.36" n="KD.12.33"> Ãat is if Ã¾ow be man maried ï¡ Ã¾i make Ã¾ow louye .</l><l id="R.12.37" n="KD.12.34">
+						<note type="textual" id="R.12.37.n.1"><ref>R.12.37:</ref> R
+							uniquely omits the conjunction <hi rend="it">And</hi> at line head.</note>
+						<app loc="R.12.37"><lem wit="R">Liue</lem><rdg wit="Most other mss">And lyue</rdg></app> forth as lawe wole ï¡ <app loc="R.12.37"><lem wit="R F">Ã¾e</lem><rdg wit="Most beta mss">nil</rdg></app><note type="textual" id="R.12.37.n.2"><ref>R.12.37:</ref>
+							R's <hi rend="it">Ã¾e</hi> is shared exclusively with F and omitted by beta.</note> while
+						Èe lyue bothe .</l><l id="R.12.38" n="KD.12.35"> RiÈt so if Ã¾ow be religiouse ï¡ ren Ã¾ow
+							neu<expan>er</expan>e ferther .</l><l id="R.12.39" n="KD.12.36"> To rome ne to roche<seg type="shadowHyphen">-</seg>madour ï¡
+						but as Ã¾i reule techeth .</l><l id="R.12.40" n="KD.12.37"> And holde Ã¾e vnder obedience ï¡ Ã¾at heiÈ waye is to
+						heuene .<note type="codicological" id="R.12.40.n.1"><ref>R.12.40:</ref> A new strophe is marked by the usual <hi rend="it">cc</hi> in the margin next
+							to R12.41, but the scribe did not skip a line between 12.40 and 41. This is frequently his
+							habit when the last line of a page begins a new paragraph.</note></l></lg><lg type="strophe"><l id="R.12.41" n="KD.12.38"> Â¶ And if <del rend="alteration" hand="hand1" status="unremarkable">È</del><add place="inline" hand="hand1">Ã¾</add>ow be <app loc="R.12.41"><lem wit="R">mayde &amp;</lem><rdg wit="All beta mss">mayden</rdg></app> to<note type="textual" id="R.12.41.n.1"><ref>R.12.41:</ref>: Beta reads <hi rend="it">maiden to</hi> for
+							R's <hi rend="it">mayde &amp; to</hi>; F's <hi rend="it"> Mayde meeke &amp;</hi> confirms
+							that alpha also read <hi rend="it">mayde</hi>.</note> marie ï¡ and miÈt wel
+							co<expan>n</expan>tynewe .</l><milestone n="55r" unit="fol." entity="B.R55r"/><l id="R.12.42" n="KD.12.39"> Seke Ã¾ow ner<expan>e</expan> seynt forther ï¡ for no soule
+						helthe .</l><l id="R.12.43" n="KD.12.40"> For what made lucifer ï¡ to lese Ã¾e heiÈ heuene .</l><l id="R.12.44" n="KD.12.41"> Or salomon his sapience ï¡ <app loc="R.12.44"><lem wit="R">other</lem><rdg wit="All other mss">or</rdg></app><note type="textual" id="R.12.44.n.1"><ref>R.12.44:</ref>
+							R's <hi rend="it">other</hi> is unique; F and beta read <hi rend="it">or</hi>.</note> sampson
+						his strengthe .</l><l id="R.12.45" n="KD.12.42"> Iob Ã¾e iewe his ioye ï¡ der<expan>e</expan> he it
+						abouÈte .</l><l id="R.12.46" n="KD.12.43"> Aristotel and other mo ï¡ Ipocras and virgil .</l><l id="R.12.47" n="KD.12.44"> Alisandre Ã¾at alle wan ï¡ elengeliche ended .</l><l id="R.12.48" n="KD.12.45"> Catel and kende wit ï¡ was co<expan>m</expan>braunce to hem
+						alle .</l><l id="R.12.49" n="KD.12.46"> Felice hir<expan>e</expan> fair<expan>e</expan>nesse ï¡ fel
+							hir<expan>e</expan> alle to sclaundre .</l><l id="R.12.50" n="KD.12.47"> And rosamound riÈt so ï¡ reufulliche besette .</l><l id="R.12.51" n="KD.12.48"> Ãe beaute of hir<expan>e</expan> body ï¡ in <app loc="R.12.51"><lem wit="R F">badd vse</lem><rdg wit="All beta mss">badnesse</rdg></app><note type="textual" id="R.12.51.n.1"><ref>R.12.51:</ref>
+							For alpha's <hi rend="it">badd vse</hi>, beta has <hi rend="it">badnesse she</hi>.</note>
+						<app loc="R.12.51"><lem wit="R F">despended</lem><rdg wit="Most beta mss">she dispended</rdg></app> .</l><l id="R.12.52" n="KD.12.49"> Of many suche <app loc="R.12.52"><lem wit="R">men</lem><rdg wit="All other mss">nil</rdg></app>
+						<app loc="R.12.52"><lem wit="R">may I</lem><rdg wit="Beta (L M Cr W Hm)">I may</rdg></app><note type="textual" id="R.12.52.n.1"><ref>R.12.52:</ref>
+							R's <hi rend="it">men</hi> is a unique addition to the text of <hi rend="bold">Bx</hi>. Beta
+							transposes alpha's phrase, <hi rend="it">may I</hi>, to <hi rend="it">I may /
+							myght</hi>.</note> rede ï¡ of men &amp; of wo<expan>m</expan>men</l><l id="R.12.53" n="KD.12.50"> Ãat wise wordes wolde schewe ï¡ and werchen Ã¾e contrarie</l><l id="R.12.54" n="KD.12.50Î±">
+						<hi rend="BinR"><foreign lang="lat">Sunt ho<expan>m</expan>i<expan>n</expan>es
+									neq<expan>ua</expan>m bene de virtute loquentes .</foreign></hi></l><l id="R.12.55" n="KD.12.51"> And riche renkes riÈt so ï¡ gaderen and sparen .</l><l id="R.12.56" n="KD.12.52"> And Ã¾o men Ã¾at Ã¾ei moste haten ï¡ mi<expan>n</expan>stren it
+						atte laste .</l><l id="R.12.57" n="KD.12.53"> And for Ã¾ei soffren and see ï¡ so many nedy folkes .</l><l id="R.12.58" n="KD.12.54"> And loue hem nauÈt as our<expan>e</expan> lorde bit ï¡
+						lesen <app loc="R.12.58"><lem wit="R">Èour<expan>e</expan></lem><rdg wit="All beta mss">her</rdg></app><note type="textual" id="R.12.58.n.1"><ref>R.12.58:</ref>
+							For R's <hi rend="it">Èoure</hi> (a unique reading), F reads <hi rend="it">here
+								owen</hi> and beta has <hi rend="it">her</hi>.</note> soules .</l><l id="R.12.59" n="KD.12.54Î±">
+						<hi rend="BinR"><foreign lang="lat">Date et dabit<expan>ur</expan> vobis ï¡
+							.</foreign></hi></l><l id="R.12.60" n="KD.12.55">
+						<app loc="R.12.60"><lem wit="R">So</lem><rdg wit="F (Beta omits)">&amp; Ã¾erfore</rdg></app> catel and <app loc="R.12.60"><lem wit="R">kende</lem><rdg wit="F (Beta omits)">vnkynde</rdg></app> wit ï¡ acombreth ful many .<note type="textual" id="R.12.60.n.1"><ref/> The first half-line in R (12.60a) differs
+							considerably from the text of F, which reads <hi rend="it">&amp; Ã¾erfore catel &amp; vnkynde
+								wit</hi>. The beta manuscripts entirely omit R12.60 (= KD12.55) and the four following
+							lines. The <hi rend="bold">C</hi> manuscripts include the first three of these alpha
+							lines.</note></l><l id="R.12.61" n="KD.12.56"> Wo is hym Ã¾at hem weldeth ï¡ but <app loc="R.12.61"><lem wit="R">if</lem><rdg wit="F (Beta omits)">nil</rdg></app> he hem <app loc="R.12.61"><lem wit="R">wil</lem><rdg wit="F (Beta omits)">wel</rdg></app><note type="lexical" id="R.12.61.n.1"><ref>R.12.61:</ref>
+							R's <hi rend="it">wil</hi> probably signifies the same adverbial here as F's <hi rend="it">wel</hi>. Cf. <ref target="R.11.136">R.11.136:</ref>.</note> despende .</l><l id="R.12.62" n="KD.12.56Î±">
+						<hi rend="BinR"><foreign lang="lat"><app loc="R.12.62"><lem wit="R">Scienti</lem><rdg wit="F (Beta omits)">Cienti</rdg></app>
+								<app loc="R.12.62"><lem wit="R">&amp;</lem><rdg wit="F (Beta omits)">bonum &amp;</rdg></app> no<expan>n</expan> facienti varijs flagellis vapulabit .</foreign></hi></l><l id="R.12.63" n="KD.12.57">
+						<app loc="R.12.63"><lem wit="R">Sapience seith Ã¾e boke</lem><rdg wit="F (Beta omits)">Ã¾e book seiÃ¾ Ã¾at sapyence</rdg></app><note type="textual" id="R.12.63.n.1"><ref>R.12.63:</ref>
+							R's a-verse phrasing differs markedly from F's, which reads <hi rend="it">Ãe book seiÃ¾ Ã¾at
+								sapyence</hi>.</note> ï¡ swelleth a mannes soule .</l><l id="R.12.64" n="KD.12.57Î±">
+						<foreign lang="lat"><app loc="R.12.64"><lem wit="R">Sapiencia</lem><rdg wit="F (Beta omits)">apiencia</rdg></app> inflat . <app loc="R.12.64"><lem wit="R">&amp;c<expan>etera</expan></lem><rdg wit="F (Beta omits)">nil</rdg></app> .</foreign></l><l id="R.12.65" n="KD.12.58"> And richesse riÈt so ï¡ but if Ã¾e rote be trewe .</l><l id="R.12.66" n="KD.12.59"> Ac grace is a <app loc="R.12.66"><lem wit="R">grace</lem><rdg wit="Most beta mss">grasse</rdg></app><note type="textual" id="R.12.66.n.1"><ref>R.12.66:</ref>
+							R's redundancy appears to derive from alpha; F notices the problem but his <hi rend="it">grate</hi> simply substitutes nonsense for the original error. Beta agrees with <hi rend="bold">Cx</hi>, reading <hi rend="it">grasse</hi>.</note>
+						<app loc="R.12.66"><lem wit="R F">Ã¾er<expan>e</expan>fore</lem><rdg wit="All beta mss">Ã¾er-of</rdg></app><note type="textual" id="R.12.66.n.2"><ref>R.12.66:</ref>
+							R's <hi rend="it">Ã¾erefore</hi> is shared exclusively with F; beta has <hi rend="it">Ã¾erof</hi>. <hi rend="bold">Cx</hi> agrees with alpha.</note> ï¡ Ã¾o greuaunces to
+						abate .</l><marginalia place="marginRight" hand="hand2" id="R.12.67.m.1"><add place="marginRight" hand="hand2">g<expan>ro</expan>w<expan>ith</expan></add></marginalia><l id="R.12.67" n="KD.12.60"> Ac grace ne greueth<note type="textual" id="R.12.67.n.1"><ref>R.12.67:</ref> Hand2 has supplied the appropriate reading in
+							the right margin, implying that <hi rend="it">greueth</hi> should be cancelled, but the
+							original reading was never marked as cancelled, either by striking through or by
+							subpuncting.</note> nauÈt ï¡ but amonges lowe .</l><l id="R.12.68" n="KD.12.61">
+						<app loc="R.12.68"><lem wit="R">Of</lem><rdg wit="All beta mss">nil</rdg></app> pacience<note type="textual" id="R.12.68.n.1"><ref>R.12.68:</ref>
+							<hi rend="it">Of</hi> is a unique reading in R; F omits the entire line, and beta begins the
+							line with <hi rend="it">Pacience</hi>.</note> and pou<expan>er</expan>te ï¡ Ã¾e place is
+						Ã¾ere it groweth .</l><l id="R.12.69" n="KD.12.62"> And in lele lyuynge men ï¡ and in lif<seg type="shadowHyphen">-</seg>holy .</l><l id="R.12.70" n="KD.12.63"> And Ã¾urÈ <app loc="R.12.70"><lem wit="R">gifte</lem><rdg wit="All beta mss">Ã¾e gyfte</rdg></app><note type="textual" id="R.12.70.n.1"><ref>R.12.70:</ref>
+							Before <hi rend="it">gifte</hi>, R uniquely omits a determiner; F has <hi rend="it">Ã¾at</hi>
+							while beta has <hi rend="it">Ã¾e</hi>.</note> of Ã¾e holy goste ï¡ as Ã¾e gospel telleth
+						.</l><l id="R.12.71" n="KD.12.63Î±">
+						<hi rend="BinR"><foreign lang="lat">Spiritus vbi wlt spirat . &amp;c<expan>etera</expan>
+								.</foreign></hi></l><l id="R.12.72" n="KD.12.64"> Clergie and kende wit ï¡ cometh of siÈte and techynge
+						.</l><l id="R.12.73" n="KD.12.65"> As Ã¾e boke bereth witnesse ï¡ to barnes Ã¾at can rede .</l><l id="R.12.74" n="KD.12.65Î±">
+						<hi rend="BinR"><foreign lang="lat">Quod scim<expan>us</expan> loquim<expan>ur</expan> quod
+									vidim<expan>us</expan> testam<expan>ur</expan> .</foreign></hi></l><l id="R.12.75" n="KD.12.66"> Of <foreign lang="lat">quod scim<expan>us</expan></foreign> cometh
+						clergie ï¡ <app loc="R.12.75"><lem wit="R F">a</lem><rdg wit="All beta mss">and</rdg></app> cu<expan>n</expan>nynge of heuene .</l><l id="R.12.76" n="KD.12.67"> And of <foreign lang="lat">quod vidim<expan>us</expan></foreign>
+						cometh kende wit ï¡ of siÈte of diu<expan>er</expan>se poeple .</l><l id="R.12.77" n="KD.12.68"> Ac grace is a gifte of god ï¡ &amp; of grete loue springeth
+						.</l><milestone n="55v" unit="fol." entity="B.R55v"/><l id="R.12.78" n="KD.12.69"> Knewe neu<expan>er</expan>e clerke how it cometh forth ï¡ ne
+						kend <app loc="R.12.78"><lem wit="R">wit his</lem><rdg wit="All beta mss">witte Ã¾e</rdg></app><note type="textual" id="R.12.78.n.1"><ref>R.12.78:</ref>
+							F reads the possessive as <hi rend="it">witys</hi> for R's <hi rend="it">wit his</hi>. Beta
+							has <hi rend="it">witte Ã¾e</hi>.</note> weyes .</l><l id="R.12.79" n="KD.12.69Î±">
+						<hi rend="BinR"><foreign lang="lat">Nescit aliquis vnde venit aut quo <app loc="R.12.79"><lem wit="R Cr C B F">vadit</lem><rdg wit="Most beta mss">vadit &amp;c</rdg></app> ï¡</foreign></hi></l><l id="R.12.80" n="KD.12.70"> Ac Èet is clergie to comende ï¡ and kende wit bothe
+						.</l><l id="R.12.81" n="KD.12.71"> And nameliche clergie for cristes loue ï¡ Ã¾at of clergie is
+						rote .</l><l id="R.12.82" n="KD.12.72"> For moyses witnesseth Ã¾at god wrote ï¡ for to wise Ã¾e poeple
+						.</l><l id="R.12.83" n="KD.12.73"> In Ã¾e olde lawe as Ã¾e l<expan>ett</expan>re telleth ï¡ <note type="textual" id="R.12.83.n.1"><ref>R.12.83:</ref> Manuscript
+							G reads the opening of the b-verse exactly as R does, but beta shows <hi rend="it">Ã¾at
+								was</hi> at the head of the b-verse; F rewrites the entire b-verse, reading <hi rend="it">Ã¾e
+								lawe so was to Ã¾e Iewis</hi>.</note> was Ã¾e lawe of iewes .</l><l id="R.12.84" n="KD.12.74"> Ãat what wo<expan>m</expan>man were in <app loc="R.12.84"><lem wit="R">deuoutrie</lem><rdg wit="All other mss">auoutrie</rdg></app><note type="textual" id="R.12.84.n.1"><ref>R.12.84:</ref>
+							R's form is unique here (beta and F attest <hi rend="it">auoutrie</hi>). But cf. KD 2.176,
+							where R's <hi rend="it">deuoutrie</hi> is accepted for alliterative reasons over the beta
+							reading, <hi rend="it">auoutrie</hi>. Since F agrees with R at this point, and since the same
+							base form shows as archetypal at <hi rend="bold">C</hi>2.187 (<hi rend="it">deuoutours</hi>),
+							there seems no reason to doubt that it represents an example of contemporary usage.
+								<title>MED</title>, <hi rend="it">s. v.</hi>
+							<hi rend="it">devoutrie</hi>, and <title>OED2</title>, <hi rend="it">s. v.</hi>
+							<hi rend="it">devoutour</hi>, both cite only <title>Piers Plowman</title>, labelling the form
+							as a variation / corruption of <hi rend="it">auoutrie</hi>.</note> taken ï¡
+							wer<expan>e</expan>
+						<app loc="R.12.84"><lem wit="R">he</lem><rdg wit="Beta (L M W Hm)">she</rdg></app><note type="lexical" id="R.12.84.n.2"><ref>R.12.84:</ref>
+							R's form for the third-person singular feminine pronoun here is the one commonly preferred by
+							this scribe and is, as usual, unique. F and beta agree on <hi rend="it">she</hi>.</note>
+						riche or pore .</l><l id="R.12.85" n="KD.12.75"> With stones men schulde hire striken ï¡ and stonen
+							hir<expan>e</expan> to <app loc="R.12.85"><lem wit="R">dede</lem><rdg wit="All other mss">deth</rdg></app> .<note type="textual" id="R.12.85.n.1"><ref>R.12.85:</ref> R's <hi rend="it">to dede</hi> is unique but not ungrammatical or
+							substantially different in meaning from the other <hi rend="bold">B</hi> manuscripts, which
+							read <hi rend="it">to deth</hi>. Cf. <ref target="R.3.262">R.3.262:</ref>
+							(KD3.267), where R's phrasing is paralleled by many beta manuscripts: <hi rend="it">brenne
+								hem to dede</hi>. Alpha omits the following line from <hi rend="bold">Bx</hi>:<lb/>
+							<hi rend="it">A womman as we fynden was gulty of Ã¾at dede</hi>.</note></l><l id="R.12.86" n="KD.12.77"> Ac crist of his curteisie ï¡ <app loc="R.12.86"><lem wit="R">and</lem><rdg wit="All beta mss">nil</rdg></app><note type="textual" id="R.12.86.n.1"><ref>R.12.86:</ref>
+							R's <hi rend="it">and</hi> is unique; beta omits the conjunction while F completely rewrites
+							the b-verse.</note> Ã¾oruÈ clergie hir<expan>e</expan> saued .</l><l id="R.12.87" n="KD.12.78"> For Ã¾oruÈ <app loc="R.12.87"><lem wit="R F">cristes carectus</lem><rdg wit="Most beta mss">carectus Ã¾at cryst wrot</rdg></app><note type="textual" id="R.12.87.n.1"><ref>R.12.87:</ref>
+							For alpha's <hi rend="it">cristes carectus</hi>, beta reads <hi rend="it">carectus Ã¾at cryst
+								wrot </hi>.</note> ï¡ Ã¾e iewes knewe hem<seg type="shadowHyphen">-</seg>seluen .</l><l id="R.12.88" n="KD.12.79"> Gultier as afor god ï¡ and gretter in synne .</l><l id="R.12.89" n="KD.12.80"> Ãanne Ã¾e wo<expan>m</expan>man Ã¾<expan>a</expan>t
+							Ã¾er<expan>e</expan> was ï¡ and wenten aweye for schame .</l><l id="R.12.90" n="KD.12.81"> Ãe clergie Ã¾at Ã¾er<expan>e</expan> was ï¡ conforted Ã¾e womman
+						.</l><l id="R.12.91" n="KD.12.82"> Holi <app loc="R.12.91"><lem wit="R Hm B F">cherche</lem><rdg wit="Most beta mss">kirke</rdg></app><note type="textual" id="R.12.91.n.1"><ref>R.12.91:</ref>
+							Though Hm and B agree with alpha's <hi rend="it">cherche</hi>, beta itself here reads <hi rend="it">kirke</hi>.</note> knoweth Ã¾is ï¡ Ã¾at cristes writyng<expan>e</expan> saued
+						.</l><l id="R.12.92" n="KD.12.83"> So clergie is confort<expan>e</expan> ï¡ to creatures Ã¾at
+						repenten .</l><l id="R.12.93" n="KD.12.84"> And to mansed men ï¡ mischief at here ende .</l></lg><lb/><lg type="strophe"><l id="R.12.94" n="KD.12.85"> Â¶ For godes body miÈte nouÈt be of brede ï¡
+						withoute clergie .</l><l id="R.12.95" n="KD.12.86"> Ãe whiche body is bothe ï¡ bote to Ã¾e riÈtful .</l><l id="R.12.96" n="KD.12.87"> And deth and dampnac<expan>i</expan>ou<expan>n</expan> ï¡ to
+						hem Ã¾at deyeth euele .</l><l id="R.12.97" n="KD.12.88">
+						<app loc="R.12.97"><lem wit="R">Ac</lem><rdg wit="Most beta mss">As</rdg></app><note type="textual" id="R.12.97.n.1"><ref>R.12.97:</ref>
+							R's <hi rend="it">Ac</hi> is unique; cf. F's <hi rend="it">But</hi> and beta's <hi rend="it">As</hi>.</note> cristes carette co<expan>n</expan>forted ï¡ and bothe coupable
+						schewed .</l><l id="R.12.98" n="KD.12.89"> Ãe wo<expan>m</expan>man Ã¾at iewes <app loc="R.12.98"><lem wit="R"><sic>bouÈte</sic><corr>b[r]ouÈte</corr></lem><rdg wit="All other mss">brouÈte</rdg></app> ï¡ Ã¾at ih<expan>es</expan>us Ã¾ouÈte to saue .</l><l id="R.12.99" n="KD.12.89Î±">
+						<hi rend="BinR"><foreign lang="lat">Nolite iudicar<expan>e</expan> &amp; no<expan>n</expan>
+								iudicabimini . &amp;c<expan>etera</expan> .</foreign></hi></l><l id="R.12.100" n="KD.12.90"> RiÈt so godes body bretheren ï¡ but it be worthily
+						taken .</l><l id="R.12.101" n="KD.12.91"> Dampned<note type="textual" id="R.12.101.n.1"><ref>R.12.101:</ref> Although Y supports R's preterite, F and beta attest <hi rend="it">Dampneth</hi>. But the Introduction <xref doc="RFront" from="id (III.2.2)">III.2.2.10</xref> on the R scribe's anomalous tense marking.</note> vs at Ã¾e day of dome
+						ï¡ as <app loc="R.12.101"><lem wit="R F">dede Ã¾e carette</lem><rdg wit="Most beta mss">Ã¾e carectes dide(n)</rdg></app><note type="textual" id="R.12.101.n.2"><ref>R.12.101:</ref> Beta transposes alpha's phrase and pluralizes the noun: <hi rend="it">Ã¾e
+								carectes dede</hi>.</note> Ã¾e iewes .</l><l id="R.12.102" n="KD.12.92"> For<seg type="shadowHyphen">-</seg>Ã¾i I co<expan>n</expan>seile Ã¾e
+						for cristes sake ï¡ clergie Ã¾at Ã¾ow louye .</l><l id="R.12.103" n="KD.12.93"> For kende wit is of his kyn ï¡ and neyÈ cosynes bothe
+						.</l><l id="R.12.104" n="KD.12.94"> To oure lorde leue me ï¡ for<seg type="shadowHyphen">-</seg>Ã¾i loue hem I rede .</l><l id="R.12.105" n="KD.12.95"> For bothe beth as miroures ï¡ to amenden our<expan>e</expan>
+						defautes .</l><l id="R.12.106" n="KD.12.96"> And lederes for lewed men ï¡ and for
+						lett<expan>er</expan>red bothe .</l><l id="R.12.107" n="KD.12.97"> For<seg type="shadowHyphen">-</seg>thi lakke Ã¾ow
+							neu<expan>er</expan>e logike lawe ï¡ ne his custumes .</l><l id="R.12.108" n="KD.12.98"> Ne countreplede clerkes ï¡ I conseile Ã¾e for euere .</l><l id="R.12.109" n="KD.12.99"> For as a man may nauÈt se ï¡ Ã¾at misseth his <app loc="R.12.109"><lem wit="R">siÈtes</lem><rdg wit="F">syghte</rdg><rdg wit="All beta mss">eyghen</rdg></app> .<note type="textual" id="R.12.109.n.1"><ref>R.12.109:</ref> Beta reads <hi rend="it">eyghen</hi>, which is also the reading of <hi rend="bold">Cx</hi>; F has the singular <hi rend="it">syghte</hi>.</note><note type="paleographic" id="R.12.109.n.2"><ref>R.12.109:</ref> The final &lt;s&gt; of <hi rend="it">siÈtes</hi>
+							appears to have been written over an erasure; it is, moreover, the tall &lt;s&gt;, which this
+							scribe almost never deploys in word terminal position (cf. the same word at R12.146). Its
+							form also seems abbreviated, with the descender entirely absent. Nevertheless, the ink
+							appears indistinguishable from that used by the scribal hand.</note></l><l id="R.12.110" n="KD.12.100"> Na more can no clerke ï¡ but if he cauÈte it furst
+						Ã¾orÈ bokes .</l><l id="R.12.111" n="KD.12.101"> Al<seg type="shadowHyphen">-</seg>Ã¾ouÈ men made bokes
+						ï¡ god was Ã¾e mayster</l><l id="R.12.112" n="KD.12.102"> And seynt spiriÈt Ã¾e saumplarie ï¡ &amp; seyde what
+							<app loc="R.12.112"><lem wit="R O C2 F">ma<expan>n</expan></lem><rdg wit="Most beta mss">men</rdg></app><note type="textual" id="R.12.112.n.1"><ref>R.12.112:</ref> With the exception of OC<hi rend="sup">2</hi>, which agree with alpha, the
+							beta manuscripts here show <hi rend="it">men</hi>. <hi rend="bold">Cx</hi> agrees with
+							beta.</note> scholde write .</l><milestone n="56r" unit="fol." entity="B.R56r"/><l id="R.12.113" n="KD.12.103"> And riÈt as siÈt serueth a man ï¡ to se Ã¾e heye
+						strete .</l><l id="R.12.114" n="KD.12.104"> RiÈt so <app loc="R.12.114"><lem wit="R F">lereth</lem><rdg wit="All beta mss">ledeth</rdg></app><note type="textual" id="R.12.114.n.1"><ref>R.12.114:</ref> Beta has <hi rend="it">ledeth</hi> at this point. <hi rend="bold">Cx</hi>,
+							however, agrees with alpha.</note> letterur<expan>e</expan> ï¡ lewed men to reson .</l><l id="R.12.115" n="KD.12.105"> And as a blinde man in bataile ï¡ <app loc="R.12.115"><lem wit="R">ber<expan>e</expan></lem><rdg wit="All other mss">bereth</rdg></app><note type="textual" id="R.12.115.n.1"><ref>R.12.115:</ref> R's verb form is unique; <hi rend="bold">Bx</hi> and <hi rend="bold">Cx</hi>
+							read <hi rend="it">bereth</hi>.</note> wepne to fiÈte .</l><l id="R.12.116" n="KD.12.106"> And hath no happ<expan>e</expan> with his ax ï¡ his enemy
+						to hitte .</l><l id="R.12.117" n="KD.12.107"> Na more can a kende <app loc="R.12.117"><lem wit="R">wedded</lem><rdg wit="Most beta mss">witted</rdg></app> man<note type="textual" id="R.12.117.n.1"><ref>R.12.117:</ref> R's almost nonsensical <hi rend="it">kende wedded man</hi> (in place of
+							beta's <hi rend="it">kyndewitted man</hi>) reflects alpha corruption, while F's omitting <hi rend="it">kynde</hi> and substituting <hi rend="it">lewid man</hi> represents an attempt to
+							make sense of the half-line.</note> ï¡ but clerkes hym teche .</l><l id="R.12.118" n="KD.12.108"> Come for al his kende wit ï¡ to c<expan>r</expan>istendom
+						and be saued .</l><l id="R.12.119" n="KD.12.109"> Whiche is Ã¾e coffre of cristes tresor ï¡ and clerkes ke<del rend="alteration" status="unremarkable">n</del><add place="inline" hand="hand1">p</add>e<note type="paleographic" id="R.12.119.n.1"><ref>R.12.119:</ref> Either the scribe or an
+							early reader caught an error here (<hi rend="it">kene</hi> for <hi rend="it">kepe</hi>) and
+							added a light descender in the same ink as that of the scribe. The shape of the descender
+							matches that of the scribe's authentic &lt;p&gt;.</note> Ã¾e keyes .</l><l id="R.12.120" n="KD.12.110"> To vnlouken it at her likyng<expan>e</expan> ï¡ and to Ã¾e
+						lewed poeple .</l><l id="R.12.121" n="KD.12.111">
+						<app loc="R.12.121"><lem wit="R">For</lem><rdg wit="Most beta mss">Èyue</rdg></app><note type="textual" id="R.12.121.n.1"><ref>R.12.121:</ref> R is clearly defective here syntactically; but F's grammar seems equally
+							elliptical, and one must conclude that both are responding to some confusion in alpha. Once
+							again, the source of confusion may lie in the fact that this line is enjambed from the
+							previous one. Cf. R's <hi rend="it">For</hi> and F's completely different <hi rend="it">&amp;
+								graunteÃ¾</hi> to beta's <hi rend="it">Èyue</hi>. At this point <hi rend="bold">C</hi>
+							supports beta, reading <hi rend="it">To Èeue</hi>.</note> m<expan>er</expan>cy for her
+						mysdedes ï¡ if men it wole aske .</l><l id="R.12.122" n="KD.12.112"> Buxu<expan>m</expan>liche &amp; benigneliche ï¡ and bidden
+						it <app loc="R.12.122"><lem wit="R">as</lem><rdg wit="All other mss">of</rdg></app><note type="textual" id="R.12.122.n.1"><ref>R.12.122:</ref> R's <hi rend="it">as</hi> is unique; <hi rend="bold">Bx</hi> and <hi rend="bold">Cx</hi> have <hi rend="it">of</hi>.</note> grace .</l></lg><lb/><lg type="strophe"><l id="R.12.123" n="KD.12.113"> Â¶ <foreign lang="lat">Archa dei</foreign> in Ã¾e holde lawe
+						ï¡ leuites it kepten .</l><l id="R.12.124" n="KD.12.114"> Hadde neu<expan>er</expan>e lewed man leue ï¡ to leggen
+						honde on Ã¾at cheste .</l><l id="R.12.125" n="KD.12.115"> But he wer<expan>e</expan> preste or p<expan>re</expan>stes sone
+						ï¡ pat<expan>ri</expan>ark or p<expan>ro</expan>phete .</l></lg><lb/><lg type="strophe"><l id="R.12.126" n="KD.12.116"> Â¶ Saul for <app loc="R.12.126"><lem wit="R">he sacrifised</lem><rdg wit="F (Beta omits)">his mys-sacrifyse</rdg></app> ï¡ sorwe hym be<seg type="shadowHyphen">-</seg>tydde .<note type="textual" id="R.12.126.n.1"><ref/> These lines are
+							omitted by the beta manuscripts. F's rendering of these lines is sufficiently different from
+							R's that F's lines should be cited here in their entirety (cf. Appendix 1, R12.126-36, for
+							details and any cross-references to the <hi rend="bold">C</hi> version): <lb/>
+							<hi rend="it">Saul for his mys-sacrifyse / sorwe hym by-tydde. <lb/> &amp; hise sones also /
+								for Ã¾at synne myschevedyn <lb/> &amp; manye mo oÃ¾ire men / Ã¾at weryn none levites. <lb/> Ã¾at
+								with archa dei wentyn / with worchepeful reuerencis. <lb/> &amp; leyde on hond / &amp; lyfte
+								it vp / &amp; lurn here lyf after. <lb/> For<seg type="shadowHyphen">-</seg>Ã¾y ; y conseyle
+								alle creatures / no clergye Èee dispise. <lb/> Ne settiÃ¾ lyght be here scyence / what
+								so Ã¾ei do hem<seg type="shadowHyphen">-</seg>selue. <lb/> Tak here wordis at worÃ¾ / here
+								wytnesses be trewe. <lb/> &amp; medle not meche with hem / to meve hem to wratthe. <lb/>
+								Leest Charyte be chased owt / Ã¾an ech man choppeth oÃ¾ir. <lb/>
+								<foreign lang="lat">[N]olite tangere Cristos meos</foreign>.</hi></note></l><l id="R.12.127" n="KD.12.117"> And his sones al<seg type="shadowHyphen">-</seg>so ï¡ for
+						Ã¾at synne myscheued .</l><l id="R.12.128" n="KD.12.118"> And many mo other men ï¡ Ã¾at wer<expan>e</expan> no leuites
+						.</l><l id="R.12.129" n="KD.12.119"> Ãat with <foreign lang="lat">archa dei</foreign>
+						<app loc="R.12.129"><lem wit="R">Èeden</lem><rdg wit="F (Beta omits)">wentyn</rdg></app> ï¡ <app loc="R.12.129"><lem wit="R">in reu<expan>er</expan>ence and in worchipp<expan>e</expan></lem><rdg wit="F (Beta omits)">with worchepeful reuerencis</rdg></app> .</l><l id="R.12.130" n="KD.12.120"> And <app loc="R.12.130"><lem wit="R">leyden honde Ã¾<expan>er</expan><seg type="shadowHyphen">-</seg>on to
+								liften</lem><rdg wit="F (Beta omits)">leyde on hond &amp; lyfte</rdg></app> it vp ï¡ and loren her lif after .</l><l id="R.12.131" n="KD.12.121"> For<seg type="shadowHyphen">-</seg>Ã¾i I conseil alle creatures
+						ï¡ no clergie <app loc="R.12.131"><lem wit="R">to</lem><rdg wit="F (Beta omits)">Èee</rdg></app> dispise .</l><marginalia place="marginRight" hand="handx" id="R.12.132.m.1">n<expan>ot</expan>a</marginalia><l id="R.12.132" n="KD.12.122"> Ne <app loc="R.12.132"><lem wit="R">sette schort<expan>e</expan></lem><rdg wit="F (Beta omits)">settiÃ¾ lyght</rdg></app> be her<expan>e</expan> science ï¡ what<seg type="shadowHyphen">-</seg>so Ã¾ei don
+							hem<seg type="shadowHyphen">-</seg>selue .</l><l id="R.12.133" n="KD.12.123"> Take <app loc="R.12.133"><lem wit="R">we</lem><rdg wit="F (Beta omits)">nil</rdg></app> her wordes at worthe ï¡ <app loc="R.12.133"><lem wit="R">for</lem><rdg wit="F (Beta omits)">nil</rdg></app> her<expan>e</expan>
+						<app loc="R.12.133"><lem wit="R">witnesse</lem><rdg wit="F (Beta omits)">wytnesses</rdg></app> be trewe .</l><l id="R.12.134" n="KD.12.124"> And <app loc="R.12.134"><lem wit="R">ne medle we</lem><rdg wit="F (Beta omits)">medle</rdg></app> nauÈt muche with hem ï¡ to <app loc="R.12.134"><lem wit="R">meuen any</lem><rdg wit="F (Beta omits)">neve hen to</rdg></app> wrathe .</l><l id="R.12.135" n="KD.12.125"> Lest <app loc="R.12.135"><lem wit="R">cheste</lem><rdg wit="F (Beta omits)">Charyte</rdg></app>
+						<app loc="R.12.135"><lem wit="R">chasen vs</lem><rdg wit="F (Beta omits)">be chased owt</rdg></app> ï¡ <app loc="R.12.135"><lem wit="R">to choppe vche man</lem><rdg wit="F (Beta omits)">Ã¾an ech man choppith</rdg></app> other .</l><l id="R.12.136" n="KD.12.125Î±">
+						<hi rend="BinR"><foreign lang="lat"><app loc="R.12.136"><lem wit="R">Nolite</lem><rdg wit="F (Beta omits)">Olite</rdg></app> tangere <expan>christos</expan> meos ï¡ <app loc="R.12.136"><lem wit="R">&amp;c<expan>etera</expan></lem><rdg wit="F (Beta omits)">nil</rdg></app> .</foreign></hi></l></lg><lb/><lg type="strophe"><l id="R.12.137" n="KD.12.126"> Â¶ For clergie is <app loc="R.12.137"><lem wit="R">kynge and</lem><rdg wit="Most beta mss">nil</rdg></app> keper<expan>e</expan><note type="textual" id="R.12.137.n.1"><ref>R.12.137:</ref> For alpha's compounded phrase, beta reads simply <hi rend="it">kepere</hi>. Alpha's exact reading here is uncertain; cf. F's <hi rend="it">keye &amp;
+								kepere</hi>.</note> ï¡ vnder crist of heuene .</l><l id="R.12.138" n="KD.12.127"> Was Ã¾<expan>er</expan> neu<expan>er</expan>e no kniÈt
+						ï¡ but clergie hym made .</l><l id="R.12.139" n="KD.12.128"> Ac kende wit cometh ï¡ of al kynnes siÈtes .</l><l id="R.12.140" n="KD.12.129"> Of <sic>brriddes</sic><corr>briddes</corr> &amp; of bestes
+						ï¡ of tastes of treuthe ï¡ &amp; of deseytes .</l></lg><lb/><lg type="strophe"><l id="R.12.141" n="KD.12.130"> Â¶ Liueres to<seg type="shadowHyphen">-</seg>foren vs ï¡
+						vsede to <app loc="R.12.141"><lem wit="R Cr F">make</lem><rdg wit="Most beta mss">marke</rdg></app> .<note type="textual" id="R.12.141.n.1"><ref>R.12.141:</ref> Alpha and Cr read <hi rend="it">make</hi>, which makes no sense; cf. beta's
+								<hi rend="it">marke</hi>.</note></l><l id="R.12.142" n="KD.12.131"> Ãe selcouÃ¾es Ã¾at Ã¾ei seye ï¡ her<expan>e</expan> sones for
+						to teche .</l><l id="R.12.143" n="KD.12.132"> And helden it an heiÈ science ï¡ her<expan>e</expan>
+						wittes to knowe .</l><l id="R.12.144" n="KD.12.133"> Ac Ã¾oruÈ her<expan>e</expan> science sothely ï¡ was
+							neu<expan>er</expan>e no soule saued .</l><milestone n="56v" unit="fol." entity="B.R56v"/><l id="R.12.145" n="KD.12.134"> Ne <app loc="R.12.145"><lem wit="R F">bouÈte</lem><rdg wit="All beta mss">brouÈte</rdg></app><note type="textual" id="R.12.145.n.1"><ref>R.12.145:</ref> The error here, <hi rend="it">bouÈte</hi> for <hi rend="it">brouÈte</hi>, is found in both R and F and derives from alpha.</note> be
+							her<expan>e</expan> bokes ï¡ to blisse ne to ioye .</l><l id="R.12.146" n="KD.12.135"> For alle her kende knowynges ï¡ cam but of
+							diu<expan>er</expan>se siÈtes ï¡</l><l id="R.12.147" n="KD.12.136"> Patriarkes and p<expan>ro</expan>phetes ï¡ <app loc="R.12.147"><lem wit="R B F">repreueth</lem><rdg wit="Most beta mss">repreued</rdg></app><note type="textual" id="R.12.147.n.1"><ref>R.12.147:</ref> R's <hi rend="it">repreueth</hi> is unique; F has a different form of the
+							plural with <hi rend="it">repreven</hi>, while beta reads <hi rend="it">repreued(en)</hi>.
+							Though two <hi rend="bold">C</hi> copies affirm a present-tense verb here, it is obvious that
+								<hi rend="bold">Cx</hi> agrees with beta's preterite. R's tense marking may not, however,
+							represent a difference of intention from beta's. Cf. the Introduction <xref doc="RFront" from="id (III.2.2)">III.2.2.10</xref>.</note> her<expan>e</expan> science .</l><l id="R.12.148" n="KD.12.137"> And seide here wordes ne her<expan>e</expan>
+						<app loc="R.12.148"><lem wit="R">wisdome</lem><rdg wit="Most beta mss">wisdomes</rdg></app><note type="textual" id="R.12.148.n.1"><ref>R.12.148:</ref> Beta has the plural <hi rend="it">wisdomes</hi>; F reads <hi rend="it">scyence</hi>. Though four <hi rend="bold">C</hi> copies support R's singular, the vast
+							majority of <hi rend="bold">C</hi> manuscripts agrees with beta.</note> ï¡ <app loc="R.12.148"><lem wit="R Cr">was</lem><rdg wit="Most beta mss">nas</rdg></app> but a folie .</l><l id="R.12.149" n="KD.12.138"> As to Ã¾e clergie of criste ï¡ counted it but a trefle .</l><l id="R.12.150" n="KD.12.138Î±">
+						<hi rend="BinR"><foreign lang="lat">Sapiencia hui<expan>us</expan> mu<expan>n</expan>di
+								stulticia ap<expan>ud</expan> .<note type="textual" id="R.12.150.n.1"><ref>R.12.150:</ref> One might construe R's script at the end of this citation as
+									agreeing with the other witnesses if &lt;ap&gt; were taken as <foreign lang="lat">ap(ud)</foreign> and &lt;d&gt;+backslash were seen as an abbreviation for <foreign lang="lat">d(eum)</foreign>. Neither Kane-Donaldson nor I read it that way, however. The R
+									scribe never elsewhere uses such an abbreviation for <foreign lang="lat">deum</foreign>
+									and, in fact, no such abbreviation is recognized by Capelli (<title>Dizionario di
+										Abbreviature latine ed italiane</title>) nor by Walther (<title><foreign lang="lat">Lexicon Diplomaticum</foreign></title>). Instead R customarily spells the form as
+										<foreign lang="lat">deu(m)</foreign> (six times out of sevenâthe seventh form is
+										<foreign lang="lat">d(eu)m</foreign>). Moreover, Capelli recognizes the actual form
+									written by R, <foreign lang="lat">ap<hi rend="sup">d</hi></foreign>, as a late
+									fourteenth-century form for <foreign lang="lat">apud</foreign>.</note>
+									&amp;c<expan>etera</expan> .</foreign></hi><note type="textual" id="R.12.150.n.2"><ref>R.12.150:</ref> Here alpha omits eleven lines present in
+							beta (and also found in a revised form in <hi rend="bold">Cx</hi>):<lb/>
+							<hi rend="it">For Ã¾e heihe holigoste heuene shal to-cleue <lb/> And loue shal lepe out after
+								into Ã¾is lowe erthe <lb/> And clennesse shal cacchen it and clerkes shullen it fynde <lb/>
+								Pastores loquebantur ad inuicem <lb/> He speketh Ã¾ere of riche men riÈt nouÈt ne
+								of riÈt witty <lb/> Ne of lordes Ã¾at were lewed men but of Ã¾e hexte lettred oute <lb/>
+								<foreign lang="lat">Ibant magi ab oriente &amp;c.</foreign>
+								<lb/> If any frere were founde Ã¾ere Ich Èif Ã¾e fyue shillynges <lb/> Ne in none
+								beggares cote was Ã¾at barne borne <lb/> But in a burgeys place of bethlem Ã¾e best <lb/>
+								<foreign lang="lat">Set non erat ei locus in diuersorio &amp; pauper non habet
+									diuersorium</foreign>.</hi></note></l></lg><lb/><lg type="strophe"><l id="R.12.151" n="KD.12.148">Â¶ To pastoures and to poetes ï¡ appered <app loc="R.12.151"><lem wit="R F">an</lem><rdg wit="Most beta mss">Ã¾e</rdg></app><note type="textual" id="R.12.151.n.1"><ref>R.12.151:</ref> Beta has <hi rend="it">Ã¾e</hi> in place of alpha's <hi rend="it">an</hi>.
+								<hi rend="bold">Cx</hi> agrees with beta.</note> angel .</l><l id="R.12.152" n="KD.12.149"> And bad hem go to <app loc="R.12.152"><lem wit="R"><sic>bthlem</sic><corr>b[e]thlem</corr></lem><rdg wit="All other mss">bethlem</rdg></app> ï¡ godes burthe to honoure .</l><l id="R.12.153" n="KD.12.150"> And <app loc="R.12.153"><lem wit="R">syngen</lem><rdg wit="Most other mss">songe(n)</rdg></app><note type="textual" id="R.12.153.n.1"><ref>R.12.153:</ref> R's infinitive (or present tense) <hi rend="it">syngen</hi> is unique among
+							the <hi rend="bold">B</hi> copies; F and beta have <hi rend="it">song(en)</hi>. However, the
+								<hi rend="bold">C</hi> manuscripts are divided by major groups on this reading, with the X
+							family supporting F/beta while the P family agrees with R.</note> a songe of solace ï¡
+							<foreign lang="lat">gl<expan>or</expan>ia in excelsis deo .</foreign></l></lg><lb/><lg type="strophe"><l id="R.12.154" n="KD.12.151"> Â¶ Riche men <app loc="R.12.154"><lem wit="R">rutte</lem><rdg wit="F (Beta omits)">rowhted</rdg></app> Ã¾o ï¡ <app loc="R.12.154"><lem wit="R">and</lem><rdg wit="F (Beta omits)">Ã¾at</rdg></app> in here reste were .<note type="textual" id="R.12.154.n.1"><ref/> These lines are not found in beta.</note></l><l id="R.12.155" n="KD.12.152">
+						<app loc="R.12.155"><lem wit="R">Ão it schon to schepherdes</lem><rdg wit="F (Beta omits)">whan to shepperdis a sterre shon</rdg></app><note type="textual" id="R.12.155.n.1"><ref>R.12.155:</ref> R and F differ here (F = <hi rend="it">Whan to shepperdis a sterre
+							shon</hi>), but R's version of this phrase agrees with that found in the <hi rend="bold">C</hi> manuscripts.</note> ï¡ a schewer of blisse .</l><l id="R.12.156" n="KD.12.153">
+						<app loc="R.12.156"><lem wit="R F">And</lem><rdg wit="All beta mss">nil</rdg></app><note type="textual" id="R.12.156.n.1"><ref>R.12.156:</ref> Beta omits <hi rend="it">And</hi>. <hi rend="bold">Cx</hi> agrees with
+							beta.</note> clerkes knewe it wel ï¡ and comen with her<expan>e</expan>
+							p<expan>re</expan>sentes .</l><l id="R.12.157" n="KD.12.154"> And deden here homage hon<expan>our</expan>abely ï¡ to hym
+						Ã¾at was almiÈti .<note type="codicological" id="R.12.157.n.1"><ref>R.12.157:</ref> There is red offset from R12.91 (fol. 57r) partially covering
+							the last word of this line.</note>
+					</l><l id="R.12.158" n="KD.12.155"> Whi I haue tolde Ã¾e al Ã¾is ï¡ I toke ful gode hede .</l><l id="R.12.159" n="KD.12.156"> How Ã¾ow contrariedest clergie ï¡ with crabbed wordes .</l><l id="R.12.160" n="KD.12.157"> How Ã¾at lewed men liÈtloker ï¡ Ã¾an lettred
+							wer<expan>e</expan>
+						<app loc="R.12.160"><lem wit="R">Isaued</lem><rdg wit="All other mss">saued</rdg></app> .</l><l id="R.12.161" n="KD.12.158"> Ãan clerkes or kende witted men ï¡ of
+							criste<expan>n</expan> poeple .</l></lg><lb/><lg type="strophe"><l id="R.12.162" n="KD.12.159"> Â¶ And Ã¾ow seydest soth of som<expan>m</expan>e ï¡ ac se in
+							<app loc="R.12.162"><lem wit="R">whaner<expan>e</expan></lem><rdg wit="All beta mss">what manere</rdg></app> .<note type="textual" id="R.12.162.n.1"><ref>R.12.162:</ref> The correct reading is beta's <hi rend="it">what manere</hi>; R here
+							presumably mirrors a loss of text in alpha while F (<hi rend="it">an ensample</hi>) attempts
+							to guess at a suitable correction.</note></l><l id="R.12.163" n="KD.12.160"> Take to stronge men ï¡ and in temese caste hem .</l><l id="R.12.164" n="KD.12.161"> And bothe naked as a nedele ï¡ her non siker<note type="textual" id="R.12.164.n.1"><ref>R.12.164:</ref> Most beta
+							witnesses read <hi rend="it">sikerer</hi>, but L agrees with R's form (as did M until
+							"corrected" into conformity with the CrW family).</note> Ã¾an other .</l><l id="R.12.165" n="KD.12.162"> Ãat on hath cu<expan>n</expan>nyng<expan>e</expan> and can
+						ï¡ swy<expan>m</expan>men and <app loc="R.12.165"><lem wit="R"><sic>driuen</sic><corr>diuen</corr></lem><rdg wit="All other mss">dyue(n)</rdg></app> .</l><l id="R.12.166" n="KD.12.163"> Ãat other is lewed of Ã¾at labour ï¡ lerned
+							neu<expan>er</expan>e swymme .</l><l id="R.12.167" n="KD.12.164"> Which trowest Ã¾ow of Ã¾o to ï¡ in temese is in moste drede
+						.</l><l id="R.12.168" n="KD.12.165"> He Ã¾at neu<expan>er</expan>e dyued ï¡ ne nauÈt can of
+							swymmy<expan>n</expan>g<expan>e</expan> .</l><l id="R.12.169" n="KD.12.166"> Or Ã¾e swymmer Ã¾at is saf ï¡ be so hym<seg type="shadowHyphen">-</seg>self like .</l><l id="R.12.170" n="KD.12.167"> Ãere his felawe flet forth ï¡ as Ã¾e flode liketh .</l><l id="R.12.171" n="KD.12.168"> And is in drede to drenche ï¡ Ã¾at neu<expan>er</expan>e
+						dede swymme .<note type="textual" id="R.12.171.n.1"><ref>R.12.171:</ref> Immediately hereafter, alpha omitted a line found in beta:<lb/>
+							<hi rend="it">Ãat swymme can nouÈt I seide it semeth to my wittes</hi>.</note></l></lg><lb/><lg type="strophe"><l id="R.12.172" n="KD.12.170"> Â¶ RiÈt so q<expan>uo</expan>d Ã¾e renke ï¡ reson it
+						scheweth .</l><l id="R.12.173" n="KD.12.171"> Ãat he Ã¾at knoweth clergie ï¡ can <app loc="R.12.173"><lem wit="R">sannore</lem><rdg wit="All other mss">sonner</rdg></app><note type="lexical" id="R.12.173.n.1"><ref>R.12.173:</ref>
+							<hi rend="it">Sannore</hi>, "sooner," &lt;OE <hi rend="it">sÄna</hi>. This form appears
+							in the Z text and it, <hi rend="it">sanere</hi>, and <hi rend="it">sannour</hi> appear in the
+								<hi rend="bold">C</hi> version. See Joseph S. Wittig, <title>Piers Plowman: Concordance.
+								Will's Visions of Piers Plowman, Do-Well, do-better and do-best: A Lemmatized Analysis of
+								the English Vocabulary of the A, B and C Versions as Presented in the Athlone Editions, with
+								Supplementary Concordances of the Latin and French Macaronics.</title> (London and New York:
+							Athlone Press, 2001), <hi rend="it">s. v.</hi>
+							<hi rend="it">soone</hi>, p. 609.</note> arise .</l><l id="R.12.174" n="KD.12.172"> Out of synne and he<note type="textual" id="R.12.174.n.1"><ref>R.12.174:</ref> Though Cr agrees with R's reading, beta
+							omits <hi rend="it">he</hi> (F rewrites the entire phrase as <hi rend="it">to be saf</hi>).
+								<hi rend="bold">Cx</hi> agrees with beta.</note> be safe ï¡ Ã¾ouÈ he <app loc="R.12.174"><lem wit="R">senege</lem><rdg wit="All other mss">synne</rdg></app><note type="lexical" id="R.12.174.n.2"><ref>R.12.174:</ref> R's unique <hi rend="it">senege</hi> is not an error but, according to
+								<title>OED2</title>, <hi rend="it">s. v.</hi>
+							<hi rend="it">sin</hi> and <title>MED</title>, <hi rend="it">s. v.</hi>
+							<hi rend="it">sinnen</hi>, a legitimate thirteenth and fourteenth-century variant for <hi rend="bold">sin</hi>. <hi rend="bold">Cx</hi> shows the same form as R at this point. Cf.
+							similar forms at <ref target="R.17.242">R.17.242:</ref> and <ref target="R.17.254"/>.</note> ofte .</l><l id="R.12.175" n="KD.12.173"> If hym liketh and leste ï¡ Ã¾an any lewed lelly .</l><l id="R.12.176" n="KD.12.174"> For if Ã¾e clerke be cu<expan>n</expan>nyng<expan>e</expan>
+						ï¡ he knoweth what is synne .</l><l id="R.12.177" n="KD.12.175"> And how contric<expan>i</expan>on with<seg type="shadowHyphen">-</seg>outen co<expan>n</expan>fession ï¡ co<expan>n</expan>forteth Ã¾e soule .</l><fw type="catch" place="bottomRight" id="R.12.177.f.1"><hi rend="boxed">As Ã¾ow seest i<expan>n</expan> Ã¾e
+								saut<expan>er</expan></hi><note type="codicological" id="R.12.177.f.1.n.1"><ref>R.12.177:</ref> A black ink stain partially obscures the &lt;s&gt; of <hi rend="it">sauter</hi>.</note></fw><milestone n="57r" unit="fol." entity="B.R57r"/><l id="R.12.178" n="KD.12.176"> As Ã¾ow seest in Ã¾e saut<expan>er</expan> ï¡ in <app loc="R.12.178"><lem wit="R L F">psalme</lem><rdg wit="Most beta mss">psalmes</rdg></app> on or tweyne .<note type="codicological" id="R.12.178.n.1"><ref>R.12.178:</ref> At the top right margin of this page, there is a smudged word
+							written in black, beginning with what may be a &lt;D&gt;.</note></l><l id="R.12.179" n="KD.12.177"> How contric<expan>i</expan>on is comended ï¡ for it
+						caccheth a<seg type="shadowHyphen">-</seg>weye synne .</l><l id="R.12.180" n="KD.12.177Î±">
+						<hi rend="BinR"><foreign lang="lat">Beati quor<expan>um</expan> remisse sunt iniquitates
+								ï¡ &amp; quor<expan>um</expan> tecta sunt <app loc="R.12.180"><lem wit="R Hm F">p<expan>ec</expan>cat<expan>a</expan></lem><rdg wit="Most beta mss">nil</rdg></app> .</foreign><note type="textual" id="R.12.180.n.1"><ref>R.12.180:</ref> Though Hm supports alpha, beta itself omits the last word of this citation,
+									<foreign lang="lat">peccata</foreign>.</note></hi></l><l id="R.12.181" n="KD.12.178"> And Ã¾is conforteth vch a clerke ï¡ and <app loc="R.12.181"><lem wit="R F">kenneth</lem><rdg wit="All beta mss">keuereth</rdg></app><note type="textual" id="R.12.181.n.1"><ref>R.12.181:</ref> The beta reading is also that of <hi rend="bold">Cx</hi>.</note> hym fram wanhope .</l><l id="R.12.182" n="KD.12.179"> In which floed Ã¾e fende ï¡ fondeth a man hardest .</l><l id="R.12.183" n="KD.12.180"> Ãere Ã¾e lewed lith stille ï¡ and loketh after lente .</l><l id="R.12.184" n="KD.12.181"> And hath no contric<expan>i</expan>on ar he come to schrifte
+						ï¡ <app loc="R.12.184"><lem wit="R">and can</lem><rdg wit="Most beta mss">&amp; Ã¾anne can</rdg></app><note type="textual" id="R.12.184.n.1"><ref>R.12.184:</ref> R's phrase manifests a unique omission; cf. F's <hi rend="it">for Ã¾ereof ne
+								can</hi> and beta's <hi rend="it">&amp; Ã¾anne can</hi>. Although the <hi rend="bold">C</hi>
+							copies show a number of variations here, the predominant reading is that of beta.</note> he
+						litel telle .</l><l id="R.12.185" n="KD.12.182"> And as his lores<seg type="shadowHyphen">-</seg>man ï¡
+						lereth hym ï¡ byleueth and troweth .</l><l id="R.12.186" n="KD.12.183"> And Ã¾at is after p<expan>er</expan>son or parisch preste ï¡
+						and par<seg type="shadowHyphen">-</seg>auenter <app loc="R.12.186"><lem wit="R F">bothe</lem><rdg wit="Most beta mss">nil</rdg></app> .<note type="textual" id="R.12.186.n.1"><ref>R.12.186:</ref> Beta omits <hi rend="it">bothe</hi>. There appears to have been a
+							line-division problem at this point in <hi rend="bold">Bx</hi>, and Kane-Donaldson recast the
+							first word of the next line of <hi rend="bold">Bx</hi> (<hi rend="it">Vnconnynge</hi>) as the
+							final stave word of this line.</note></l><l id="R.12.187" n="KD.12.184"> Vnkunnyng<expan>e</expan> to lere lewed men ï¡ as luk
+						bereth witnesse .</l><l id="R.12.188" n="KD.12.185">
+						<hi rend="BinR"><foreign lang="lat">Du<expan>m</expan> cecus ducit cecu<expan>m</expan>
+								ï¡ &amp;c<expan>etera</expan> .</foreign></hi><note type="textual" id="R.12.188.n.1"><ref>R.12.188:</ref> Hereafter alpha omits a line found in beta:<lb/>
+							<hi rend="it">Wo was hym marked Ã¾at wade mote with Ã¾e lewed</hi>.</note></l></lg><lb/><lg type="strophe"><marginalia place="marginRight" hand="handx" id="R.12.189.m.1"><foreign lang="lat">not<expan>a</expan></foreign>
+						/</marginalia><l id="R.12.189" n="KD.12.187"> Â¶ Wel may Ã¾e barne blisse ï¡ Ã¾at hym <app loc="R.12.189"><lem wit="R">sette to scole</lem><rdg wit="All beta mss">to boke sette</rdg></app> .<note type="textual" id="R.12.189.n.1"><ref>R.12.189:</ref> F reads this b-verse as <hi rend="it">Ã¾at sette hym fyrst to skole</hi>.
+							Beta has <hi rend="it">Ã¾at hym to boke sette</hi>. The beta reading, which alliterates
+							correctly, is also that of <hi rend="bold">Cx</hi>.</note></l><l id="R.12.190" n="KD.12.188"> Ãat lyuynge after lettrur<expan>e</expan> ï¡ saued hym lif
+						and soule .</l><l id="R.12.191" n="KD.12.189">
+						<hi rend="BinR"><foreign lang="lat">D<expan>omi</expan>n<expan>u</expan>s pars hereditatis mee
+							</foreign> ï¡ is a mery v<expan>er</expan>seit .</hi></l><l id="R.12.192" n="KD.12.190"> Ãat hath take fro tyburne ï¡ twenty stronge theues .</l><l id="R.12.193" n="KD.12.191"> Ãere lewed theues ben lolled vp ï¡ loke how Ã¾ei ben saued
+						.</l><l id="R.12.194" n="KD.12.192"> Ãe thef Ã¾at hadde g<expan>ra</expan>ce of god ï¡ a gode
+						friday as Ã¾u speke .<note type="codicological" id="R.12.194.n.1"><ref>R.12.194:</ref> A black ink blot intervenes between the final word of this line
+							and the punctus.</note></l><l id="R.12.195" n="KD.12.193"> Was for he Èelde hym recreant<note type="textual" id="R.12.195.n.1"><ref>R.12.195:</ref> M here agrees with R on
+							the stave word (<hi rend="it">recreant</hi>), but the beta majority's reading, supported by
+								<hi rend="bold">Cx</hi>, is <hi rend="it">creaunt</hi>. F omits the term entirely.</note> to
+						crist ï¡ <app loc="R.12.195"><lem wit="R">&amp; vpon a cros</lem><rdg wit="Most beta mss">on Ã¾e crosse &amp;</rdg></app><note type="textual" id="R.12.195.n.2"><ref>R.12.195:</ref> In place of R's <hi rend="it">vpon a cros</hi>, beta has <hi rend="it">on Ã¾e
+								crosse &amp;</hi>. F omits the entire phrase. Though the end of the b-verse is different in
+								<hi rend="bold">C</hi>, its version of this line parallels <hi rend="bold">B</hi> up to this
+							point and reads <hi rend="it">Was for A Èeld hym creaunt to crist</hi>.</note>
+						<app loc="R.12.195"><lem wit="R">knowleched</lem><rdg wit="Most other mss">knewleched hym</rdg></app><note type="textual" id="R.12.195.n.3"><ref>R.12.195:</ref> R uniquely omits <hi rend="it">hym</hi> before <hi rend="it">gulty</hi>.</note> gulty .<note type="textual" id="R.12.195.n.4"><ref>R.12.195:</ref> Hereafter alpha omits a line preserved in beta:<lb/>
+							<hi rend="it">And grace axed of god and he is euer redy</hi>.</note></l><l id="R.12.196" n="KD.12.195"> Ãat buxu<expan>m</expan>liche biddeth it ï¡ and ben in
+						wille to amenden hem .</l></lg><lb/><lg type="strophe"><l id="R.12.197" n="KD.12.196"> Â¶ Ac Ã¾ouÈ Ã¾at thef hadde heuene ï¡ he hadde non
+							heiÈ<note type="codicological" id="R.12.197.n.1"><ref>R.12.197:</ref> A red smudge partially covers <hi rend="it">heiÈ</hi>; the same red
+							smudge appears on the facing page, partially obscuring the <hi rend="it">to</hi> of R12.163.
+							No boxing occurs nearby either, so the probable cause is mere spillage of a drop of the
+							rubricator's ink.</note> blisse .</l><l id="R.12.198" n="KD.12.197"> As Seint Ioh<expan>a</expan>n and other seintes ï¡ Ã¾at
+							ass<expan>er</expan>ued<note type="textual" id="R.12.198.n.1"><ref>R.12.198:</ref> R shares this form with L alone; F and beta agree on <hi rend="it">deserued</hi>. The <hi rend="bold">C</hi> tradition is divided, but the surviving
+							evidence suggests that that P subarchetype read as RL while the X subarchetype had either <hi rend="it">serued</hi> or <hi rend="it">deserued</hi>.</note> hadde bett<expan>er</expan>e
+						.</l><l id="R.12.199" n="KD.12.198"> RiÈt as so<expan>m</expan> man Èeue me<note type="paleographic" id="R.12.199.n.1"><ref>R.12.199:</ref>
+							There is a superfluous loop above the &lt;m&gt; of <hi rend="it">me</hi>, in a darker ink
+							than the text hand.</note> mete ï¡ and sette me amydde Ã¾e flore .</l><l id="R.12.200" n="KD.12.199"> Ich haue mete more Ã¾an I<seg type="shadowHyphen">-</seg>now
+						ï¡ ac nauÈt so muche worchipe</l><l id="R.12.201" n="KD.12.200"> As Ã¾o Ã¾at sitten at Ã¾e side table ï¡ or with Ã¾e
+							sou<expan>er</expan>eynes of Ã¾e halle .</l><l id="R.12.202" n="KD.12.201"> But sitte as a beggere bordeles ï¡ by my<seg type="shadowHyphen">-</seg>self on Ã¾e grounde .</l><l id="R.12.203" n="KD.12.202"> So it fareth be Ã¾at feloun ï¡ Ã¾at a god friday was saued
+						ï¡</l><l id="R.12.204" n="KD.12.203"> He sitt noither with <app loc="R.12.204"><lem wit="R F">Ioh<expan>a</expan>n</lem><rdg wit="All beta mss">Seynt Iohan</rdg></app> ï¡ <app loc="R.12.204"><lem wit="R">ne</lem><rdg wit="Most other mss">nil</rdg></app><note type="textual" id="R.12.204.n.1"><ref>R.12.204:</ref> R's <hi rend="it">ne</hi>(1) is unique among the <hi rend="bold">B</hi>
+							copies; beta omits the word, while F rewrites the line completely. The <hi rend="bold">C</hi>
+							manuscripts are split, the X family agreeing with R while the P family supports beta's
+							omission.</note> Symond ne Iude .</l><l id="R.12.205" n="KD.12.204"> Ne with maidenes ne with martires ï¡ <app loc="R.12.205"><lem wit="R F">ne</lem><rdg wit="Most other mss">nil</rdg></app><note type="textual" id="R.12.205.n.1"><ref>R.12.205:</ref> R's <hi rend="it">ne confessoures</hi> is a unique reading, the negative
+							being omitted by beta (F has <hi rend="it">ne with Maydenys</hi>). The b-verse of the cognate
+								<hi rend="bold">C</hi> line has been revised, but it still begins with <hi rend="it">ne</hi>, as with alpha.</note> confessoures ne widewes .</l><l id="R.12.206" n="KD.12.205"> But be hym<seg type="shadowHyphen">-</seg>self as a soleine
+						ï¡ and s<expan>er</expan>ued on Ã¾e erthe .</l><l id="R.12.207" n="KD.12.206"> For he Ã¾at is ones a thef ï¡ is euermore in daunger .</l><l id="R.12.208" n="KD.12.207"> And as lawe liketh ï¡ to lyue or to deye<note type="codicological" id="R.12.208.n.1"><ref>R.12.208:</ref>
+							Immediately below this line, and above R12.209, there is a scribally cancelled line which
+							reads <hi rend="it">And <foreign lang="lat">reddite vnicuiq<expan>ue</expan> iuxta
+										op<expan>er</expan>a sua</foreign></hi>.</note> . <lb/><del rend="linedThrough" hand="handx" status="unremarkable">And <foreign lang="lat">reddite vnicuiq<expan>ue</expan> iuxta
+									op<expan>er</expan>a sua</foreign></del></l><l id="R.12.209" n="KD.12.207Î±">
+						<hi rend="BinR"><foreign lang="lat">De peccato p<expan>ro</expan>piciato noli
+									e<expan>ss</expan>e sine metu .</foreign></hi></l><l id="R.12.210" n="KD.12.208"> And forto s<expan>er</expan>uen a seynt ï¡ and suche a thef
+							to<seg type="shadowHyphen">-</seg>gyderes .</l><l id="R.12.211" n="KD.12.209"> It were nother reson ne riÈt ï¡ to <app loc="R.12.211"><lem wit="R">rewarde</lem><rdg wit="Most other mss">rewarde hem</rdg></app><note type="textual" id="R.12.211.n.1"><ref>R.12.211:</ref> Nearly all the other <hi rend="bold">B</hi> copies (including F) attest <hi rend="it">rewarde hem</hi> at this point, but <hi rend="bold">Cx</hi> agrees with R in
+							omitting <hi rend="it">hem</hi>.</note> bothe I<seg type="shadowHyphen">-</seg>liche .</l><fw type="sig" place="bottomRight" id="R.12.211.f.1">j i<expan>us</expan></fw><milestone n="57v" unit="fol." entity="B.R57v"/><l id="R.12.212" n="KD.12.210"> And riÈt as <foreign lang="lat">troianus</foreign> Ã¾e trewe
+						kniÈt ï¡ tilde nauÈt depe i<expan>n</expan> helle</l><l id="R.12.213" n="KD.12.211"> Ãat our<expan>e</expan> lorde ne hadde hym liÈtliche oute
+						ï¡ so leue I <app loc="R.12.213"><lem wit="R">Ã¾e</lem><rdg wit="Most beta mss">Ã¾e thef</rdg></app> be i<expan>n</expan> heuene .<note type="textual" id="R.12.213.n.1"><ref>R.12.213:</ref> Alpha was clearly missing the key word of the b-verse,
+								<hi rend="it">thef</hi>, a fact which F, as is his custom, attempts to cover over (<hi rend="it">so leve y it be in hevene</hi>). Beta reads this b-verse precisely as does R, with
+							one addition: <hi rend="it">so leue I Ã¾e thef be in heuene</hi>.</note></l><l id="R.12.214" n="KD.12.212"> For he is in Ã¾e lowest of heuene ï¡ if our<expan>e</expan>
+							be<seg type="shadowHyphen">-</seg>leue be trewe .</l><l id="R.12.215" n="KD.12.213"> And <orig>wollosliche</orig><reg>wol losliche</reg> he lolleth
+							Ã¾er<expan>e</expan> ï¡ be Ã¾e lawe of holy cherche .</l><l id="R.12.216" n="KD.12.213Î±">
+						<hi rend="BinR"><app loc="R.12.216"><lem wit="R">And</lem><rdg wit="Beta (L M (before erasure) C O C2 Y)">Quia</rdg></app><note type="textual" id="R.12.216.n.1"><ref>R.12.216:</ref> R's <hi rend="it">And</hi> is unique (but <hi rend="bold">Cx</hi> attests
+								the Latin equivalent, <foreign lang="lat">Et</foreign>). Beta reads <foreign lang="lat">quia</foreign> (or <foreign lang="lat">Qui</foreign>), while F begins the line with the
+								phrase <hi rend="it">Ãere Ã¾e byble seyÃ¾</hi>.</note>
+							<foreign lang="lat"><app loc="R.12.216"><lem wit="R F">reddite</lem><rdg wit="All beta mss">reddit</rdg></app><note type="textual" id="R.12.216.n.2"><ref>R.12.216:</ref> Beta has <foreign lang="lat">reddit</foreign>. <hi rend="bold">Cx</hi>
+									witnesses <foreign lang="lat">reddet</foreign>.</note> vnicuiq<expan>ue</expan> iuxta opera
+								sua .</foreign></hi></l></lg><lb/><lg type="strophe"><l id="R.12.217" n="KD.12.214"> Â¶ <app loc="R.12.217"><lem wit="R">Ac</lem><rdg wit="All beta mss">And</rdg></app> whi Ã¾<expan>a</expan>t on thef <app loc="R.12.217"><lem wit="R">vpon</lem><rdg wit="All other mss">on</rdg></app><note type="textual" id="R.12.217.n.1"><ref>R.12.217:</ref> In this a-verse, R's <hi rend="it">Ac</hi> and <hi rend="it">vpon</hi> are
+							unique among the <hi rend="bold">B</hi> copies. For the former, F has <hi rend="it">But</hi>
+							while beta reads <hi rend="it">And</hi>. For the latter, F and beta concur in reading <hi rend="it">on</hi>. Though eight <hi rend="bold">C</hi> manuscripts support the latter
+							reading, it seems likely that <hi rend="bold">Cx</hi> agreed on both variants with R.</note>
+						Ã¾e cros ï¡ creaunt hym Èelde .</l><l id="R.12.218" n="KD.12.215"> Rather Ã¾an Ã¾at other thef ï¡ Ã¾ouÈ Ã¾ow woldest apose
+						.</l><l id="R.12.219" n="KD.12.216"> Alle Ã¾e clerkes vnder criste ï¡ ne couthe <app loc="R.12.219"><lem wit="R">skile</lem><rdg wit="Most other mss">Ã¾e skil</rdg></app><note type="textual" id="R.12.219.n.1"><ref>R.12.219:</ref> R uniquely omits <hi rend="it">Ã¾e</hi> before <hi rend="it">skile</hi>.</note>
+						<app loc="R.12.219"><lem wit="R F">telle</lem><rdg wit="All beta mss">assoille</rdg></app> .<note type="textual" id="R.12.219.n.2"><ref>R.12.219:</ref> R's <hi rend="it">telle</hi> is an alpha reading; beta and <hi rend="bold">Cx</hi> show <hi rend="it">assoille</hi>.</note></l><l id="R.12.220" n="KD.12.216Î±">
+						<hi rend="BinR"><foreign lang="lat">Quare placuit quia voluit .</foreign></hi></l></lg><lb/><lg type="strophe"><l id="R.12.221" n="KD.12.217"> Â¶ And so I seye be Ã¾e ï¡ Ã¾at sekest after Ã¾e whies .</l><l id="R.12.222" n="KD.12.218"> And aresonedest resou<expan>n</expan> ï¡ a
+							rebukyng<expan>e</expan> as it were .</l><l id="R.12.223" n="KD.12.219"> And willest of briddes and of bestes ï¡ &amp; of
+							her<expan>e</expan> bredyng<expan>e</expan> to knowe .</l><l id="R.12.224" n="KD.12.220"> Whi so<expan>m</expan>me be <app loc="R.12.224"><lem wit="R C B F">low</lem><rdg wit="Most beta mss">alowe</rdg></app> and so<expan>m</expan>me a<seg type="shadowHyphen">-</seg>lofte ï¡ Ã¾i
+							likyng<expan>e</expan> it were .</l><l id="R.12.225" n="KD.12.221"> And of Ã¾e floures in Ã¾e frith ï¡ and of her<expan>e</expan>
+						faire hewes .</l><l id="R.12.226" n="KD.12.222"> Where<seg type="shadowHyphen">-</seg>of Ã¾ei cacche here <app loc="R.12.226"><lem wit="R F">colour</lem><rdg wit="All beta mss">coloures</rdg></app><note type="textual" id="R.12.226.n.1"><ref>R.12.226:</ref> Beta has <hi rend="it">coloures</hi>.</note> ï¡ so clere and so
+						briÈte .</l><l id="R.12.227" n="KD.12.223"> And of <app loc="R.12.227"><lem wit="R">stones</lem><rdg wit="All other mss">Ã¾e stones</rdg></app><note type="textual" id="R.12.227.n.1"><ref>R.12.227:</ref> R uniquely omits <hi rend="it">Ã¾e</hi> before <hi rend="it">stones</hi>.</note> and of Ã¾e sterres ï¡ Ã¾ow studiest as I leue .</l><l id="R.12.228" n="KD.12.224"> How ever best other bridde ï¡ hath so breme wittes .</l></lg><lb/><lg type="strophe"><l id="R.12.229" n="KD.12.225"> Â¶ Clergie ne kende wit ï¡ ne knewe neu<expan>er</expan>e Ã¾e
+						cause .</l><l id="R.12.230" n="KD.12.226"> Ac kende knoweth Ã¾e cause hym<seg type="shadowHyphen">-</seg>selue ï¡ no creatur<expan>e</expan> elles .</l><l id="R.12.231" n="KD.12.227"> He is Ã¾e <app loc="R.12.231"><lem wit="R">pye</lem><rdg wit="All other mss">pyes</rdg></app><note type="textual" id="R.12.231.n.1"><ref>R.12.231:</ref> R's <hi rend="it">pye</hi> is a unique, unmarked genitive. All the other <hi rend="bold">B</hi> manuscripts read <hi rend="it">pyes</hi>.</note> patroen ï¡ and
+							<app loc="R.12.231"><lem wit="R Cr Hm F">put</lem><rdg wit="Most beta mss">putteth</rdg></app><note type="linguistic" id="R.12.231.n.2"><ref>R.12.231:</ref>
+							<hi rend="it">put</hi>, 3rd sg. pres. ind., "puts." Though Hm and Cr support this alpha form,
+							most beta witnesses read <hi rend="it">putteth</hi>.</note> it in her<expan>e</expan> ere
+						.</l><l id="R.12.232" n="KD.12.228"> Ãat Ã¾ere Ã¾e thorne is thikkest ï¡ <app loc="R.12.232"><lem wit="R F">Ã¾er<expan>e</expan></lem><rdg wit="All beta mss">nil</rdg></app><note type="textual" id="R.12.232.n.1"><ref>R.12.232:</ref> Beta omits alpha's <hi rend="it">Ã¾ere</hi>(2).</note> to buylde and brede
+						.</l><l id="R.12.233" n="KD.12.229"> And kende kenned Ã¾e pecok ï¡ to cauken in suche a kende
+						.</l><l id="R.12.234" n="KD.12.230"> And <app loc="R.12.234"><lem wit="R F">kende</lem><rdg wit="All beta mss">nil</rdg></app><note type="textual" id="R.12.234.n.1"><ref>R.12.234:</ref> Beta omits <hi rend="it">kende</hi>.</note> kenned Adam ï¡ to knowen
+						his p<expan>ri</expan>ue membres .</l><l id="R.12.235" n="KD.12.231"> And tauÈte hym and eue ï¡ to helyen hem with leues
+						.</l></lg><lb/><lg type="strophe"><l id="R.12.236" n="KD.12.232"> Â¶ Lewed men many tymes ï¡ maistres Ã¾ei apposen .</l><l id="R.12.237" n="KD.12.233"> Whi adam ne huled nauÈt furst ï¡ his mouth Ã¾at ete Ã¾e
+						appel .</l><l id="R.12.238" n="KD.12.234"> Rather Ã¾an his lik<del rend="alteration" status="unremarkable">k</del><add place="inline" hand="hand1">h</add><expan>a</expan>m alowe ï¡ lewed asken Ã¾us clerkes
+						.</l></lg><lb/><lg type="strophe"><l id="R.12.239" n="KD.12.235"> Â¶ Kende knoweth whi he dede so ï¡ ac no clerke elles .</l><l id="R.12.240" n="KD.12.236"> Ac of briddes and of bestes ï¡ men be olde tyme .</l><l id="R.12.241" n="KD.12.237"> Ensaumples toke and termes ï¡ as telleth Ã¾is poetes .</l><l id="R.12.242" n="KD.12.238"> And Ã¾at Ã¾e fairest foule ï¡ foulest engendreth .</l><l id="R.12.243" n="KD.12.239"> And febelest foule of fliÈt is ï¡ Ã¾at fleth or
+						swymmeth .</l><milestone n="58r" unit="fol." entity="B.R58r"/><l id="R.12.244" n="KD.12.240-KD.12.241"> And Ã¾at is Ã¾e pecok and Ã¾e po<seg type="shadowHyphen">-</seg>hen proude ï¡ riche men Ã¾ei betokeneth .</l><l id="R.12.245" n="KD.12.242-KD.12.243"> For Ã¾e pecok and men pursuen hym ï¡ <app loc="R.12.245"><lem wit="R">ne</lem><rdg wit="Most beta mss">nil</rdg></app><note type="textual" id="R.12.245.n.1"><ref>R.12.245:</ref> R's <hi rend="it">ne</hi> seems to be a unique addition to the text
+							witnessed by the other <hi rend="bold">B</hi> manuscripts, but it may in fact be the alpha
+							lection, if F misread his exemplar's <hi rend="it">ne</hi> as <hi rend="it">he</hi>.</note>
+						may nouÈt fle heye .</l><l id="R.12.246" n="KD.12.244"> For Ã¾e trailyng<expan>e</expan> of his taile ï¡ ouertaken
+						is he sone .</l><l id="R.12.247" n="KD.12.245"> And his flesche is foule flesch ï¡ and his fete bothe .</l><l id="R.12.248" n="KD.12.246"> And vnloueliche of ledene ï¡ and laithe for to here .</l></lg><lb/><lg type="strophe"><l id="R.12.249" n="KD.12.247"> Â¶ RiÈt so Ã¾e riche ï¡ if he his ricchesse <app loc="R.12.249"><lem wit="R F">kepeth</lem><rdg wit="All beta mss">kepe</rdg></app> .<note type="textual" id="R.12.249.n.1"><ref>R.12.249:</ref> R's <hi rend="it">kepeth</hi> is an alpha form (F = <hi rend="it">kepiÃ¾</hi>); cf. beta's <hi rend="it">kepe</hi>.</note></l><l id="R.12.250" n="KD.12.248"> And deleth it nauÈt til his deth day ï¡ Ã¾e taile of
+						alle sorwe .</l><l id="R.12.251" n="KD.12.249"> RiÈt as Ã¾e pennes of Ã¾e pecok ï¡ payned hym in his
+						fliÈte .</l><l id="R.12.252" n="KD.12.250"> So is posession payne ï¡ of pans and of nobles .</l><l id="R.12.253" n="KD.12.251"> To alle hem Ã¾at it holdeth ï¡ til here taile be plokked
+						.</l><l id="R.12.254" n="KD.12.252"> And Ã¾ouÈ Ã¾e riche repente Ã¾anne ï¡ and be<seg type="shadowHyphen">-</seg>rewe Ã¾e tyme .</l><l id="R.12.255" n="KD.12.253"> Ãat eu<expan>er</expan>e he gadered so grete ï¡ and gaf
+							Ã¾er<expan>e</expan><seg type="shadowHyphen">-</seg>of so litel .</l><l id="R.12.256" n="KD.12.254"> ÃouÈ he crie to criste Ã¾anne ï¡ with kene wille I leue
+						.</l><l id="R.12.257" n="KD.12.255"> His ledene be in our<expan>e</expan> lordes ere ï¡ <app loc="R.12.257"><lem wit="R"><sic>lyl</sic><corr>ly[k]</corr></lem><rdg wit="Most beta mss">lyke</rdg></app>
+						<orig>apyes</orig><reg>a pyes</reg> .</l><l id="R.12.258" n="KD.12.256"> And whanne his caroyne schal come ï¡ in caue to be buried
+						.</l><l id="R.12.259" n="KD.12.257"> I leue it flaume ful foule ï¡ Ã¾e folde al aboute .</l><l id="R.12.260" n="KD.12.258"> And alle Ã¾e othere Ã¾ere it lith ï¡ enuenymed<note type="textual" id="R.12.260.n.1"><ref>R.12.260:</ref> Both L
+							and Cr concur in this verb form; F and most beta manuscripts read <hi rend="it">enuenymeÃ¾</hi>.</note> Ã¾oruÈ his atter .</l><l id="R.12.261" n="KD.12.259"> By Ã¾e po feet is <app loc="R.12.261"><lem wit="R">vnderstonded</lem><rdg wit="All other mss">vnderstonde(n)</rdg></app><note type="textual" id="R.12.261.n.1"><ref>R.12.261:</ref> R's <hi rend="it">vnderstonded</hi> is a unique form. Most of the other <hi rend="bold">B</hi> manuscripts have <hi rend="it">vnderstonde</hi>.</note> ï¡ as I
+						haue lerned in auynet .</l><l id="R.12.262" n="KD.12.260"> Executores fals frendes ï¡ Ã¾at fulfille nauÈt his
+						wille .</l><l id="R.12.263" n="KD.12.261"> Ãat was writen and Ã¾ei <app loc="R.12.263"><lem wit="R">witnesses</lem><rdg wit="Most other mss">witnesse</rdg></app><note type="textual" id="R.12.263.n.1"><ref>R.12.263:</ref> R's explicit plural marking here is unique, but the other B manuscripts,
+							attesting "witnesse," are presumably intending the same meaning as R, using an unmarked
+							plural of the noun, as is found at R2.108.</note> ï¡ to werche riÈt as <app loc="R.12.263"><lem wit="R F">he</lem><rdg wit="All beta mss">it</rdg></app><note type="textual" id="R.12.263.n.2"><ref>R.12.263:</ref> Beta reads <hi rend="it">it</hi>.</note> wolde .</l><l id="R.12.264" n="KD.12.262"> Ãus Ã¾e poet p<expan>re</expan>ueth ï¡ Ã¾at Ã¾e pecok for his
+						federes is reu<expan>er</expan>enced .</l><l id="R.12.265" n="KD.12.263"> RiÈt so is Ã¾e riche ï¡ be reson of his godes .</l></lg><lb/><lg type="strophe"><l id="R.12.266" n="KD.12.264"> Â¶ Ãe larke Ã¾at is a lasse foule ï¡ is more loueliche of
+						ledene .</l><l id="R.12.267" n="KD.12.265"> And wel a<seg type="shadowHyphen">-</seg>way of wenge ï¡
+						swifter Ã¾en Ã¾e<note type="codicological" id="R.12.267.n.1"><ref/> There is a diagonal tear in the parchment running from this point to the
+							end of <hi rend="it">swettere</hi> in the next line. The scribe has left a gap of
+							approximately 5 spaces between <hi rend="it">Ã¾e</hi> and <hi rend="it">pecok</hi> to
+							accommodate this pre-existing imperfection.</note> pecok .</l><l id="R.12.268" n="KD.12.266"> And of flesche be fele folde ï¡ fatter<expan>e</expan> and
+							swett<expan>er</expan>e .</l><l id="R.12.269" n="KD.12.267"> To lowe libynge men ï¡ Ã¾e larke is resembled .</l></lg><lb/><lg type="strophe"><l id="R.12.270" n="KD.12.268"> Â¶ <app loc="R.12.270"><lem wit="R F">For</lem><rdg wit="Most beta mss">nil</rdg></app><note type="textual" id="R.12.270.n.1"><ref>R.12.270:</ref> Beta omits <hi rend="it">For</hi>.</note> aristotel Ã¾e grete clerk ï¡
+						suche tales he telleth .</l><l id="R.12.271" n="KD.12.269"> Ãus he likeneth in his <app loc="R.12.271"><lem wit="R">glosing<expan>e</expan></lem><rdg wit="All beta mss">logyk</rdg></app><note type="textual" id="R.12.271.n.1"><ref>R.12.271:</ref> R's non-alliterating stave, <hi rend="it">glosinge</hi>, is descended from
+							alpha. Cf. F's <hi rend="it">glose</hi> and beta's <hi rend="it">logyk</hi>. Although the
+							line is partially revised in the <hi rend="bold">C</hi> version, the key term, <hi rend="it">logyk</hi>, agrees with beta's stave word.</note> ï¡ Ã¾e lest foule oute .</l><l id="R.12.272" n="KD.12.270"> And wher<expan>e</expan> he be saf or nouÈt saf ï¡ Ã¾e
+						sothe wote no clergie .</l><l id="R.12.273" n="KD.12.271"> Ne of sortes ne of salomon ï¡ no scriptur<expan>e</expan>
+						can telle .</l><l id="R.12.274" n="KD.12.272"> Ac god is so god I hope ï¡ Ã¾<expan>a</expan>t sitth he gaf
+						hem wittes .</l><l id="R.12.275" n="KD.12.273"> To wissen vs weyes Ã¾ere<seg type="shadowHyphen">-</seg>with
+						ï¡ Ã¾at wissen vs to be saued .</l><l id="R.12.276" n="KD.12.274"> And Ã¾e better<expan>e</expan> for here bokes ï¡ to bidden
+						we ben holden .</l><l id="R.12.277" n="KD.12.275"> Ãat god for his grace ï¡ gyue her<expan>e</expan>
+						<app loc="R.12.277"><lem wit="R F">soule</lem><rdg wit="All beta mss">soules</rdg></app><note type="textual" id="R.12.277.n.1"><ref>R.12.277:</ref> R's <hi rend="it">soule</hi> is an alpha variant (cf. F's <hi rend="it">sowle</hi>). Beta reads a plural, <hi rend="it">soules</hi>, the same reading found in <hi rend="bold">Cx</hi>.</note> reste .</l><fw type="sig" place="bottomRight" id="R.12.277.f.1">j ij<expan>us</expan></fw><milestone n="58v" unit="fol." entity="B.R58v"/><l id="R.12.278" n="KD.12.276"> For lettred men were lewed men Èut ï¡ ne
+							wer<expan>e</expan> lore of <app loc="R.12.278"><lem wit="R">Ã¾e</lem><rdg wit="All beta mss">her</rdg></app><note type="textual" id="R.12.278.n.1"><ref>R.12.278:</ref> Beta has <hi rend="it">her</hi> for R's <hi rend="it">Ã¾e</hi>. F omits all
+							determiners.</note> bokes .<note type="codicological" id="R.12.278.n.2"><ref>R.12.278:</ref> Here the scribe fails to skip a line, even though he marks the
+							next line as beginning a new verse paragraph.</note></l></lg><lg type="strophe"><l id="R.12.279" n="KD.12.277"> Â¶ Alle Ã¾ise clerkes q<expan>uo</expan>d I Ã¾o ï¡ Ã¾at on
+						criste leuen ï¡ .</l><l id="R.12.280" n="KD.12.278"> Seggen in here sarmons ï¡ Ã¾at nother sarasynes ne iewes
+						.</l><l id="R.12.281" n="KD.12.279"> Ne no creature of cristes liknesse ï¡ with<seg type="shadowHyphen">-</seg>oute cristendom worth saued .</l></lg><lb/><lg type="strophe"><l id="R.12.282" n="KD.12.280"> Â¶ <foreign lang="lat">Contra</foreign>
+						<app loc="R.12.282"><lem wit="R"><sic>q<expan>uo</expan>d I</sic><corr>q<expan>uo</expan>d</corr></lem><rdg wit="All other mss">quod</rdg></app> ymaginatif Ã¾o ï¡ and cumsed for to loure .</l><l id="R.12.283" n="KD.12.281">
+						<hi rend="BinR">And seyde <foreign lang="lat">saluabitur vix iustus in die iudicij
+							.</foreign></hi><note type="codicological" id="R.12.283.n.1"><ref>R.12.283:</ref> The left side of this boxed line is left open,
+							unconnected.</note></l></lg><lb/><lg type="strophe"><l id="R.12.284" n="KD.12.282"> Â¶ <foreign lang="lat">Ergo saluabitur</foreign>
+							q<expan>uo</expan>d he ï¡ and seyde namore latyn .</l><l id="R.12.285" n="KD.12.283">
+						<foreign lang="lat">Troian<expan>us</expan></foreign> was a trewe kniÈt ï¡ and toke
+							neu<expan>er</expan>e cristendome .</l><l id="R.12.286" n="KD.12.284"> And he sauf so seyth Ã¾e boke ï¡ and his soule in heuene
+						.</l><l id="R.12.287" n="KD.12.285">
+						<app loc="R.12.287"><lem wit="R">Ac</lem><rdg wit="All beta mss">For</rdg></app><note type="textual" id="R.12.287.n.1"><ref>R.12.287:</ref> Cf. F's <hi rend="it">But</hi> and beta's <hi rend="it">For</hi>. Among the
+								<hi rend="bold">C</hi> copies, UcTChNc agree with F's reading and most the of the P family
+							simply omit the opening conjunction, but most of the X family manuscripts support R's <hi rend="it">Ac</hi>.</note> Ã¾ere is fullyng<expan>e</expan> of fonte ï¡ and
+							fullyng<expan>e</expan> in blode schedyng<expan>e</expan> .</l><l id="R.12.288" n="KD.12.286"> And Ã¾oruÈ fuir is fullyng<expan>e</expan> ï¡ and Ã¾at
+						is ferme byleue .</l><l id="R.12.289" n="KD.12.286Î±">
+						<hi rend="BinR"><foreign lang="lat"> Aduenit ignis diuinus no<expan>n</expan>
+									co<expan>m</expan>burens s<expan>ed</expan>
+								<app loc="R.12.289"><lem wit="R O C2 Cot F">illuminans</lem><rdg wit="Most beta mss">illuminans &amp;c</rdg></app> .</foreign></hi></l></lg><lb/><lg type="strophe"><l id="R.12.290" n="KD.12.287"> Â¶ Ac <app loc="R.12.290"><lem wit="R F">treuthe</lem><rdg wit="All beta mss">trewth Ã¾at</rdg></app><note type="textual" id="R.12.290.n.1"><ref>R.12.290:</ref> Here alpha omitted an essential relative pronoun; cf. beta's <hi rend="it">trewth <hi rend="bold">Ã¾at</hi> trespassed</hi>. Beta's reading is also that of <hi rend="bold">C</hi>.</note> trespased neu<expan>er</expan>e ï¡ ne
+							transu<expan>er</expan>sed aÈen his lawe .</l><l id="R.12.291" n="KD.12.288"> But <app loc="R.12.291"><lem wit="R">lyued</lem><rdg wit="All beta mss">lyueth</rdg></app> as his lawe <app loc="R.12.291"><lem wit="R F">tauÈte</lem><rdg wit="All beta mss">techeth</rdg></app><note type="textual" id="R.12.291.n.1"><ref>R.12.291:</ref> Beta's version of this a-verse shows present-tense verb forms: <hi rend="it">lyueth</hi> and <hi rend="it">techeth</hi>. Though a few copies of <hi rend="bold">C</hi>
+							agree with beta on these tenses, the preponderance of evidence from the <hi rend="bold">C</hi> manuscripts supports the originality of R's readings.</note> ï¡ and leueth
+							Ã¾er<expan>e</expan> be no bettere .</l><l id="R.12.292" n="KD.12.289"> And if Ã¾er<expan>e</expan> were he walde amende ï¡ and in
+						suche wille deyeth .</l><l id="R.12.293" n="KD.12.290"> Ne wolde neu<expan>er</expan>e trewe god ï¡ but <app loc="R.12.293"><lem wit="R">trewe</lem><rdg wit="All beta mss">nil</rdg></app><note type="textual" id="R.12.293.n.1"><ref>R.12.293:</ref> Beta omits <hi rend="it">trewe</hi>, presumably because it was sensed as
+							redundant with the following noun. F strikes the entire phrase (i.e., <hi rend="it">trewe
+								treuthe</hi>) and replaces it with <hi rend="it">his wil</hi>. <hi rend="bold">Cx</hi>
+							agrees with R.</note> treuthe wer<expan>e</expan> alowed .</l><l id="R.12.294" n="KD.12.291"> And wer<expan>e</expan> it worth or worth nauÈte ï¡ Ã¾e
+						byleue is grete of treuthe .</l><l id="R.12.295" n="KD.12.292"> And an hope hangynge Ã¾er<expan>e</expan><seg type="shadowHyphen">-</seg>in ï¡ to haue a mede for his treuthe .</l><l id="R.12.296" n="KD.12.293">
+						<hi rend="BinR">For <foreign lang="lat">d<expan>eu</expan>s dicit<expan>ur</expan>
+									q<expan>uas</expan>i dans vitam et<expan>er</expan>na<expan>m</expan> suis . hoc
+									e<expan>st</expan> fidelib<expan>us</expan> .</foreign></hi></l><l id="R.12.297" n="KD.12.293Î±">
+						<hi rend="BinR"><foreign lang="lat">Et alibi si ambulauero in medio vmbre mortis .
+									&amp;c<expan>etera</expan></foreign></hi> .</l></lg><lb/><lg type="strophe"><l id="R.12.298" n="KD.12.294"> Â¶ Ãe glose graunteth vpon Ã¾at verse ï¡ a grete mede to <app loc="R.12.298"><lem wit="R"><sic>trewe</sic><corr>trew[Ã¾]e</corr></lem><rdg wit="All other mss">treuthe</rdg></app> .</l><l id="R.12.299" n="KD.12.295"> And wit<note type="codicological" id="R.12.299.n.1"><ref/> The scribe has skipped approximately
+							five spaces here to allow for a diagonal tear in the parchment; it extends down into the next
+							line, where extra spaces are allowed between <hi rend="it">kepe</hi> and <hi rend="it">with</hi>. Cf. note at <ref target="R.12.267"/>, which
+							describes the textual position of the same imperfection on the opposite side of this
+							sheet.</note> and wisdom q<expan>uo</expan>d Ã¾<expan>a</expan>t weye<note type="textual" id="R.12.299.n.2"><ref>R.12.299:</ref>
+							<hi rend="it">Weye</hi>, "person, being, man."</note> ï¡ was su<expan>m</expan><seg type="shadowHyphen">-</seg>tyme tresor .</l><l id="R.12.300" n="KD.12.296"> To kepe with a comune ï¡ no catel was holde
+							bet<expan>er</expan>e .</l><l id="R.12.301" n="KD.12.297"> And muche murthe and manhede ï¡ &amp; riÈt <app loc="R.12.301"><lem wit="R">myd</lem><rdg wit="All other mss">with</rdg></app><note type="textual" id="R.12.301.n.1"><ref>R.12.301:</ref> Both F and beta have <hi rend="it">with</hi>.</note> Ã¾at he vanesched .</l></lg></div1><!--
+	Transcribed Sean Taylor, 1996
+	Proofed against MS:  IRA  1998?
+	Notes supplied by IRA entered by HND   15, 17 Dec 03
+
+	Notes completely revised:  IRA  2004- Feb2005
+	COR transferred to Janice McCoy to have notes inserted  24 March 2005 
+	Revised notes from IRA inserted: JM June 1, 2005
+	Changed marginal adds to marginalia: June 17 2005 JM
+
+20060328 MGD PRB to resume app tagging at R13.443
+
+
+03392006 EKK MGD completed app tagging except for line omissions which will be tagged later.
+
+20060410 alpha vs. beta app tagging finished MGD EKK
+
+20060516 MGD PRB app proof begun.
+
+20060525 MGD PRB finished app proof, pending HND entry (resume at KD13.200).
+
+20060531 HND MGD PRB finished app proof entry.
+
+20060705 final app proof started
+
+20060710 final app proof completed PRB EKK
+
+20060706 notes checked and corrected for spelling of L EKK
+
+--><!--
+	Transcribed Sean Taylor, 1996
+	Proofed against MS:  IRA  1998?
+	Notes supplied by IRA entered by HND   15, 17 Dec 03
+
+	Notes completely revised:  IRA  2004- Feb2005
+	COR transferred to Janice McCoy to have notes inserted  24 March 2005 
+	Revised notes from IRA inserted: JM June 3, 2005
+	Revised notes based on "More Corrections to R Notes.doc" from IRA: JM June 15, 2005
+	Changed marginal adds to marginalia: June 17 2005 JM
+
+03292006 EKK MGD app tagging completed except tags where lines are deleted in beta.
+
+20060410 alpha vs. beta app tagging finished MGD EKK
+
+20060531 MGD PRB app proof begun.
+
+20060605 MGD PDG PRB finished app proof, pending HND proof entry.
+
+20060621 MGD HND PRB EKK finished pinks proof entry.
+
+20060705 notes checked and corrected for spelling of L EKK
+
+20060710 final app proof completed PRB EKK
+
+--><!--
+
+	Transcribed Sean Taylor, 1996
+	Proofed against MS:  IRA  1998?
+	Notes supplied by IRA entered by HND   15, 17 Dec 03
+
+	Notes completely revised:  IRA  2004- Feb2005
+	COR transferred to Janice McCoy to have notes inserted  24 March 2005 
+	Revised notes from IRA inserted: JM April 28, 2005
+	Revised notes based on "More Corrections to R Notes.doc" from IRA: JM June 15, 2005
+	Changed marginal adds to marginalia: June 17 2005 JM
+
+04032006 EKK MGD partial app tagging complete (not lines omitted in beta)
+
+20060410 alpha vs. beta app tagging finished MGD EKK
+
+20060605 PDG PRB app proof.
+20060606 PDG PRB app proof complete pending HND proof entry.
+
+20060621 MGD, HND, PRB, EKK pinks proof entry finished.
+
+20060706 notes checked and corrected for spelling of L EKK
+
+20060710 final app proof started  PRB EKK
+
+20060711 final app proof finished MGD PRB
+
+--><!--
+	
+
+Transcribed Sean Taylor, 1996
+	Proofed against MS:  IRA  1998?
+	Notes supplied by IRA entered by HND   15, 17 Dec 03
+
+	Notes completely revised:  IRA  2004- Feb2005
+	COR transferred to Janice McCoy to have notes inserted  24 March 2005 
+	Corrected notes from IRA inserted: JM 07 June 2005
+	Revised notes based on "More Corrections to R Notes.doc" from IRA: JM June 15, 2005
+	Changed marginal adds to marginalia: June 17 2005 JM
+
+04032006 Partial app tagging EKK MGD PRB (except lines omitted in beta)
+
+20060410 alpha vs. beta app tagging finished MGD EKK
+
+20060612 PDG PRB app proof complete pending HND proof entry.
+
+20060707 notes checked and corrected for spelling of L EKK
+
+20060711 final app proof completed MGD PRB
+
+--><!--
+	Transcribed Sean Taylor, 1996
+	Proofed against MS:  IRA  1998?
+	Notes supplied by IRA entered by HND   15, 17 Dec 03
+
+	Notes completely revised:  IRA  2004- Feb2005
+	COR transferred to Janice McCoy to have notes inserted  24 March 2005 
+	Notes inserted: JM 07 June 2005
+	Revised notes based on "More Corrections to R Notes.doc" from IRA: JM June 15, 2005
+	Changed marginal adds to marginalia: June 17 2005 JM
+
+04032006 EKK PRB partial app tagging RESUME at R17.179
+
+20060404 MGD PRB finished app tagging, but line omissions and other large lacunae not tagged, and proofing is yet to come.  Especially important to proof is Rob's "beta manuscripts," which can mean "All beta," "Most beta," "Some beta," etc.  We caught most of these, but probably not all. (PRB)
+
+20060410 alpha vs. beta app tagging finished MGD EKK
+
+20060613 PDG PRB app proof complete pending HND proof entry.
+
+20060707 notes checked and corrected for spelling of L EKK
+
+20060711 final app proof begun MGD PRB
+
+20060711 final app proof finished MGD PRB
+
+--><!--
+	Transcribed Sean Taylor, 1996
+	Proofed against MS:  IRA  1998?
+	Notes supplied by IRA entered by HND   15, 17 Dec 03
+
+	Notes completely revised:  IRA  2004- Feb2005
+	COR transferred to Janice McCoy to have notes inserted  24 March 2005 
+	Notes from IRA inserted: JM 14 June 2005
+	Revised notes based on "More Corrections to R Notes.doc" from IRA: JM June 15, 2005
+	Changed marginal adds to marginalia: June 17 2005 JM
+
+20060410 alpha vs. beta app tagging finished MGD EKK
+
+20060613 PDG PRB partial app proof to KD 18.256
+
+20060619 MGD PRB EKK finished app proof pending pinks check by HND.
+
+20060619 MGD PRB EKK HND pinks check finnished.
+
+20060707 notes checked and corrected for spelling of L EKK
+
+20060711 final app proof begun MGD PRB RESUME AT 18.155.
+
+20060717 final app proof completed EKK PRB
+
+--><!--
+	Transcribed Sean Taylor, 1996
+	Proofed against MS:  IRA  1998?
+	Notes supplied by IRA entered by HND   15, 17 Dec 03
+
+	Notes completely revised:  IRA  2004- Feb2005
+	COR transferred to Janice McCoy to have notes inserted  24 March 2005 
+	Notes inserted: JM 14 June 2005
+	Revised notes based on "More Corrections to R Notes.doc" from IRA: JM June 15, 2005
+
+20060410 alpha vs. beta app tagging finished MGD EKK
+
+20060619 MGD PRB EKK app proofs begun.
+
+20060621 MGD PRB EKK finished app prppf pending proof entry with HND.
+
+20060621 MGD HND PRB EKK finished pinks proof entry.
+
+20060710 notes checked and corrected for spelling of L EKK
+
+
+--></body></text></TEI.2>
