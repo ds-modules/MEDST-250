@@ -1,0 +1,609 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="Lydgatefull">
+<teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title/>
+ </titleStmt>
+ <publicationStmt>
+ <publisher/>
+ </publicationStmt>
+ <sourceDesc>
+ <p/>
+ </sourceDesc>
+ </fileDesc>
+ </teiHeader>
+ <text>
+ <body>
+<div type="part" n="2">
+<div type="book" n="3">
+<div type="prologue">
+<lg type="stanza" subtype="rhyme royal" rhyme="ababbcc">
+<l n="1"><decoNote type="rubrication" subtype="blue">L</decoNote>yk A pilgreme which þ[at] goth on ffote</l>
+<l n="2">And hath non hors to releue his t[ra]uaile</l>
+<l n="3"><w type="adjective">Hote</w> <w type="adjective">drye</w> <w type="adjective">werey</w> I ffynde may no bote</l>
+<lg type="couplet">
+<l n="4">Off well <w type="adjective">colde</w> whan þrust hym doth assaile</l>
+<l n="5">Wyn nor lico[ur] thatt may to hym auaile</l>
+</lg>
+<lg type="couplet">
+<l n="6"><w type="adjective">Right</w> so ffaire I which in my busynesse</l>
+<l n="7">No socoure ffynde my rudenesse to redresse</l>
+</lg>
+</lg>
+<lg type="stanza" subtype="rhyme royal" rhyme="ababbcc">
+<l n="8"><decoNote type="capital" subtype="red">¶</decoNote> I mene as thus I haue no <w type="adjective">ffreysh</w> lico[ur]</l>
+<l n="9">Oute off the conduitis off <name type="mythology">caliope</name></l>
+<l n="10">Nor þrough <name type="mythology">clieo</name> in retorik no ffloure</l>
+<lg type="couplet">
+<l n="11">In my laboure ffor to reffreysh me</l>
+<l n="12">Nor off <sic>the the</sic> sustren in no[um]bre þries thre</l>
+</lg>
+<lg type="couplet">
+<l n="13">Which w[ith] cithera on <name type="place">pernaso</name> duell</l>
+<l n="14">They neuer I me gaue drynke onys off the[r] well</l>
+</lg>
+</lg>
+<lg type="stanza" subtype="rhyme royal" rhyme="ababbcc">
+<link target="#clere.1 #cristallyne.1"/>
+<l n="15"><decoNote type="capital" subtype="blue">¶</decoNote> Nor off þe[r] sprynges <w ana="adjective" xml:id="clere.1">clere</w> and <w ana="adjective" xml:id="cristallyne.1">cristallyne</w></l>
+<l n="16">Thatt sprange by touchyng off the <name type="mythology">pegasie</name></l>
+<l n="17">Theire ffauo[ur] lakkith my makyng <choice>to enlimyne</choice></l>
+<lg type="couplet">
+<l n="18">I ffynde þe[r] baume off so <w type="adjective">grete</w> scarcite</l>
+<l n="19">To tame þe[r] tonnes w[ith] soume drope of plente</l>
+</lg>
+<lg type="couplet">
+<link target="#blyndnesse.1 #brightnesse.1"/>
+<l n="20">Ffor <name type="mythology">poliphemus</name> þrough his <w type="adjective">grete</w> <w ana="adjective" xml:id="blyndnesse.1">blyndenesse</w></l>
+<l n="21">Hath in me derked off <name type="mythology">argus</name> the <w ana="adjective" xml:id="brightnesse.1">brightnesse</w></l>
+</lg>
+</lg>
+<lg type="stanza" subtype="rhyme royal" rhyme="ababbcc">
+<l n="22"><decoNote type="capital" subtype="red">¶</decoNote> Oure liff here <w type="adjective">shortt</w> off witt the <w type="adjective">grete</w> dulnesse</l>
+<l n="23">The <w type="adjective">heuy</w> soule <w type="adjective">troubled</w> w[ith] t[ra]uaile</l>
+<l n="24">And off memorie the <w type="adjective">glacyng</w> brotelnesse</l>
+<lg type="couplet">
+<l n="25">Drede and onkounnyng haue made a <w type="adjective">strong</w> bataile</l>
+<l n="26">W[ith] werinesse my spirite to assaile</l>
+</lg>
+<lg type="couplet">
+<l n="27">And w[ith] their <w type="adjective">subtill</w> crepyng in most <w type="adjective">queyntt</w></l>
+<l n="28">Haue made my sprite in my makyng ffor to feyntt</l>
+</lg>
+</lg>
+<lg type="stanza" subtype="rhyme royal" rhyme="ababbcc">
+<l n="29"><decoNote type="capital" subtype="blue">¶</decoNote> And ou[er]more the <w type="adjective">ffereffull</w> ffrowardnesse</l>
+<l n="30">Off my stepmodir callid oblyuyoun</l>
+<l n="31">Hath made a bastile off fforyetilnesse</l>
+<lg type="couplet">
+<l n="32">To stoppe the passage and shadowe my resoun</l>
+<l n="33">Thatt I my[ght] haue no <w type="adjective">clere</w> direccioun</l>
+</lg>
+<lg type="couplet">
+<l n="34">In t[ra]nslatyng off <w type="adjective">newe</w> to quyk me</l>
+<l n="35">Stories to write off <w type="adjective">olde</w> antiquite</l>
+</lg>
+</lg>
+<lg type="stanza" subtype="rhyme royal" rhyme="ababbcc">
+<l n="36"><decoNote type="capital" subtype="red">¶</decoNote> Thus was I sett and stode in <w type="adjective">double</w> were</l>
+<l n="37">Att the metyng off <w type="adjective">ffereffull</w> weyis</l>
+<l n="38">The ton was this who eu[er] list to lere</l>
+<lg type="couplet">
+<l n="39">Wher as god will gan me constreyne</l>
+<l n="40"><name type="surname">Bochas</name> to accomplish ffor to do my peyne</l>
+</lg>
+<lg type="couplet">
+<l n="41">Came <name type="personification">ignorance</name> w[ith] a mase off drede</l>
+<l n="42">My penne <choice>to arest</choice> I du[r]st nott procede</l>
+</lg>
+</lg>
+<lg type="stanza" subtype="rhyme royal" rhyme="ababbcc">
+<l n="43"><decoNote type="capital" subtype="blue">¶</decoNote> Thus by my selff reme[m]bring on this boke</l>
+<l n="44">I to translate hou I had undirtake</l>
+<l n="45">Ffull <w type="adjective">pale</w> off chere <w type="adjective">astonyd</w> in my loke</l>
+<lg type="couplet">
+<l n="46">Myn hande gan tremble my pen I feltt quake</l>
+<l n="47">Thatt dispeirid I had almost fforsake</l>
+</lg>
+<lg type="couplet">
+<link target="#dredefull.1 #inportabill.1"/>
+<l n="48">So <w type="adjective">grete</w> a laboure <w ana="adjective" xml:id="dredefull.1">dredefull</w> [and] <w ana="adjective" xml:id="inportabill.1">inportabill</w></l>
+<l n="49">Itt to p[ar]forme I ffounde my selff so <w type="adjective">onabill</w></l>
+</lg>
+</lg>
+<lg type="stanza" subtype="rhyme royal" rhyme="ababbcc">
+<l n="50"><decoNote type="capital" subtype="red">¶</decoNote> Twene the residue off this <w type="adjective">grete</w> iourne</l>
+<l n="51">And <w type="adjective">litill</w> partt þ[er] off was begoun</l>
+<l n="52">I stode chek mate ffor ffere whan I gan se</l>
+<lg type="couplet">
+<l n="53">In my wey how <w type="adjective">litill</w> I had ronne</l>
+<link target="#day.1 #sonne.1"/>
+<l n="54">Like to aman þ[at] ffailid <w ana="adjective" xml:id="day.1">day</w> and <w ana="adjective" xml:id="sonne.1">sonne</w></l>
+</lg>
+<lg type="couplet">
+<l n="55">And had no light to accomplish his viage</l>
+<l n="56">So ffe[re] I stode abak in my passage</l>
+</lg>
+</lg>
+<lg type="stanza" subtype="rhyme royal" rhyme="ababbcc">
+<l n="57"><decoNote type="capital" subtype="blue">¶</decoNote> The nyght came on dirkid w[ith] ignorance</l>
+<l n="58">My witt was <w type="adjective">dull</w> my clerenesse to discerne</l>
+<l n="59">In retorik ffor lak off sufficiaunce</l>
+<lg type="couplet">
+<l n="60">The torches <w type="adjective">oute</w> and <w type="adjective">queyntt</w> was the lat[er]ne</l>
+<l n="61">And in this caas my stile to gou[er]ne</l>
+</lg>
+<lg type="couplet">
+<l n="62">Me ffor to ffurther I ffounde non <w type="adjective">oþ[er]</w> muse</l>
+<l n="63">Butt <w type="adjective">hard</w> as stone <name type="mythology">periedese</name> [and] <name type="mythology">meduse</name></l>
+</lg>
+</lg>
+<lg type="stanza" subtype="rhyme royal" rhyme="ababbcc">
+<l n="64"><decoNote type="capital" subtype="red">¶</decoNote> Supportt was non my dulnesse ffor to guye</l>
+<l n="65"><name type="personification">Pou[er]tt</name> approchid in <w type="adjective">stale</w> <w type="adjective">crokid</w> age</l>
+<l n="66"><name type="mythology">Mercurie</name> <w type="adjective">absentt</w> and <name type="personification">philologie</name></l>
+<lg type="couplet">
+<l n="67">My purs ay <w type="adjective">light</w> and <w type="adjective">uoide</w> off all couinage</l>
+<l n="68"><name type="mythology">Bachus</name> ffe[re] off to gladde my corage</l>
+</lg>
+<lg type="couplet">
+<l n="69">An ebbe off plente skarcite att <w type="adjective">full</w></l>
+<l n="70">Which off an <w type="adjective">olde</w> man makith the spirite <w type="adjective">dull</w></l>
+</lg>
+</lg>
+<lg type="stanza" subtype="rhyme royal" rhyme="ababbcc">
+<link target="#hope.1 #trust.1"/>
+<l n="71"><decoNote type="capital" subtype="blue">¶</decoNote> Butt <w ana="adjective" xml:id="hope.1">hope</w> and <w ana="adjective" xml:id="trust.1">trust</w> to putt awey dispeire</l>
+<l n="72">In to my mynde off <w type="adjective">newe</w> gan hem dresse</l>
+<l n="73">And cheffe off all to make the wedir <w type="adjective">ffaire</w></l>
+<lg type="couplet">
+<l n="74">My lordis ffredome and <w type="adjective">bounteuous</w> largesse</l>
+<l n="75">In to my hertt brought in such gladnesse</l>
+</lg>
+<lg type="couplet">
+<l n="76">Thatt þrough releuyng off his <w type="adjective">benyngne</w> g[ra]ce</l>
+<l n="77"><w type="adjective">Ffals</w> <name type="personification">indigence</name> list me no mo[re] manace</l>
+</lg>
+</lg>
+<lg type="stanza" subtype="rhyme royal" rhyme="ababbcc">
+<l n="78"><decoNote type="capital" subtype="red">¶</decoNote> A hou it is an <w type="adjective">hertly</w> reioysyng</l>
+<l n="79">To s[er]ue a prince þ[at] list to adu[er]tise</l>
+<l n="80">Off þe[r] s[er]uauntes þ[e] feythfull iust menyng</l>
+<lg type="couplet">
+<l n="81">And list concidre to guerdon þe[r] s[er]uise</l>
+<l n="82">And att nede list hem nott dispise</l>
+</lg>
+<lg type="couplet">
+<l n="83">Butt ffrom all daunge[re] þ[at] should hem noye <sic>[...]</sic></l>
+<link target="#helpe.1 #releue.1"/>
+<l n="84">Ben eu[er] <w type="adjective">redy</w> to <w ana="adjective" xml:id="helpe.1">helpe</w> hem and <w ana="adjective" xml:id="releue.1">releue</w></l>
+</lg>
+</lg>
+</div>
+</div>
+</div>
+    <div>
+    <lg type="stanza" rhyme= "ababbcc">
+      <l n="85"> And thus releuyd by the goodlihede </l>
+      <l n="86"> And þrough the noblesse of th[i]s most knyghtly man </l>
+      <l n="87"> All mystes clerid off dispere and drede </l>
+      <l n="88"> Trust hope and ffaith in to <w type ="adjective"> myn </w> hertt ran </l>
+      <l n="89"> And on my labor anon ffurthw[i]t[h] I gan </l>
+      <l n="90"> Ffor by <w type ="adjective"> clere </w> supportt off my lordis gr[a]ce </l>
+      <l n="91"> All fforeyn lettyng ffro me I did enchase </l> </lg>
+    </div>
+    <div>
+    <lg type="stanza" rhyme="ababbcc">
+      <l n="92"> Ffolkes thatt ese to make <w type ="adjective"> grete </w> viages </l>
+      <l n="93"> Which endirffonge <w type ="adjective"> longe </w> traile <w ana="SYM" subtype="ampersand"> and </w> labor </l>
+      <l n="94"> Whan they gane haue done <w type ="adjective"> grete </w> part off ther passage </l>
+      <l n="95"> Off werinesse to asswagen ther rigor </l>
+      <l n="96"> Agayn ffeyntise to ffynde <w type ="adjective"> some </w> ffauor </l>
+      <l n="97"> Loke offte ageyn parcell to be releuyd </l>
+      <l n="98"> To sene how moch ther jorney [i]s achevid </l> </lg>
+    </div>
+    <div>
+    <lg type="stanza" rhyme="ababbcc">
+      <l n="99">Cause why they so offte loke ageyn </l>
+      <l n="100">Bakward <choice> <orig> tue </orig> </choice> loke and eke visage </l>
+      <l n="101">Is only this thatt itt may be seyn </l>
+      <l n="102">To them how moch is done off ther viage </l>
+      <l n="103">Eke weri ffolke th[a]t gone on pilgremage </l>
+      <l n="104">Rest hem sumwhile a ffull <w type="adjective"> large </w> space </l>
+      <l n="105"><w type ="adjective"> Laborous </w> <choice> <orig> swete </orig> </choice> to wype ffrom ther fface </l> </lg>
+    </div>
+    <div>
+    <lg type="stanza" rhyme="ababbcc">
+      <l n="106"> Ther <w type="adjective"> hevy </w> ffardell among thei cast adown </l>
+      <l n="107"> Att certen boundes to do ther bakkis ease </l>
+      <l n="108"> Att wellis colde eke offt entencion </l>
+      <l n="109"> Drinke freyth watis ther g[r]evous thurst to apese </l>
+      <l n="110"> Or holsom wynes ther appetite to plese </l>
+      <l n="111"> Rekenyng the myles by co[m]putacions </l>
+      <l n="112"> Which they haue passed off castell <w ana="SYM" subtype="ampersand"> and </w> off touns </l> </lg>
+    </div>
+    <div>
+    <lg type="stanza" rhyme="ababbcc">
+      <l n="113">Itt doth them ease the nombre ffor to knowe </l>
+      <l n="114">Sith they began off many grete jurneys </l>
+      <l n="115">Off high mountenys <w ana="SYM" subtype="ampersand"> and </w> off valis lowe </l>
+      <l n="116">And straunge sightts passyng by cout [crossed out] co[n]treis </l>
+      <l n="117">The <choice> <orig> bukouth </orig> </choice> bildyng off boroughis <w ana="SYM" subtype="ampersand"> and </w> citeis </l>
+      <l n="118">Countyng the distaunce ffro townes <w ana="SYM" subtype="ampersand"> and </w> the spaces </l>
+      <l n="119">This is ther talking att ther restyng places </l> </lg>
+    <lg>
+      <lg type="stanza">
+    <l n="127"> And semblably <name type="person"> Iohn Bochas </name> as I ffynde </l>
+    <l n="128"> Gan t[ur]ne his bak loke and countenance </l>
+    <l n="129"> And to remembre <choice> apoyntid </choice> in his mynde </l>
+    <l n="130"> To the stories rehersid in substance </l>
+      <link target="sorrow.1 displesaunce.1"/>
+    <l n="131"> In his <w type="adjective"> two </w> boks off <w type="noun" xml:id="sorrow.1"> sorow </w> [and] <w type="noun" xml:id="displesaunce"> displesaunce </w> </l>
+      <lg type="couplet">
+      <link target="astonyd.1 m[er]uelyng.1"/>
+    <l n="132"> Hym selff <w type="adjective" xml:id="astonyd.1"> astonyd </w> <w type="noun" xml:id="m[er]uelyng.1"> m[er]uelyng </w> a <w type="adjective"> grete </w> dele </l>
+    <l n="133"> The ffall off p[r]inc[is] ffro ffortune is whele </l>
+  </lg>
+  </lg>
+  </lg>
+
+    <lg>
+      <lg type="stanza">
+        <l n ="134"> Off þe[r] onhappe as he doth reherce </l>
+        <l n="135"> Toward hym selff the cause doth rebounde </l>
+        <l n="136"> Their clymbyng up the hevenys forr to p[er]ce </l>
+        <lg type="couplet">
+          <link target="encresyn.1 habounde.1"/>
+        <l n="137"> In <w type="adjective"> worldly </w> richesseis to <w type="verb" xml:id="encresyn.1"> encresyn </w> and <w type="verb" xml:id="habounde.1"> habounde </w> </l>
+        <l n="138"> Their <w type="adjective"> gredy </w> etik doth hem selff conffounde </l>
+      </lg>
+        <lg type="couplet">
+        <l n="139"> And theire <choice> <corr> thurst </corr> </choice> off hauyng onstauncheable </l>
+        <l n="140"> Causeth þe[r] noblesse to be so <w type="adjective"> variable </w> </l>
+      </lg>
+      </lg>
+    </lg>
+
+    <lg>
+      <lg type="stanza">
+        <l n="141"> <w type="adjective"> High </w> clymbyng up off reson who so can se </l>
+          <link target="Dulleth.1 Bluntith.1"/>
+        <l n="142"> <w type="verb" xml:id="Dulleth.1"> Dulleth </w> off brayins the memoriall </l>
+        <l n="143"> <w type="verb" xml:id="Bluntith.1"> Bluntith </w> the sight in <w type="adjective"> high </w> and <w type="adjective"> lowe </w> degre </l>
+        <lg type="couplet">
+        <l n="144"> Which ffrom a loffte makith he[m] to haue afall </l>
+        <l n="145"> Men seyn off olde who þ[at] coueyte all </l>
+      </lg>
+      <lg type="couplet">
+        <l n="146"> Att onsettt houre suche on[e] shall nott chese </l>
+        <l n="147"> Butt all his gaderyng atonys he shall lese </l>
+      </lg>
+      </lg>
+    </lg>
+
+    <lg>
+      <lg type="stanza">
+        <l n="148"> Ffor <w type="adjective"> worldly </w> ffolk which so <w type="adjective"> high </w> arise </l>
+        <l n="149"> W[ith] the <w type="adjective"> grete </w> peys off <w type="adjective"> worldly </w> habundaunce </l>
+        <l n="150"> And w[ith] the weight off ffroward covetise </l>
+        <lg type="couplet">
+        <l n="151"> Namely wher ffortune holdith the balaunce </l>
+        <l n="152"> W[ith] onware t[ur]ne off sum <w type="adjective"> onhappy </w> chaunce </l>
+      </lg>
+        <lg type="couplet">
+          <link target="double.1 ffals.1"/>
+        <l n="153"> This <w type="adjective"> stormy </w> quene this <w type="adjective" xml:id="double.1"> double </w> <w type="adjective" xml:id="ffals"> ffals </w> goddesse </l>
+        <l n="154"> Plungeth þem doun ffrom all þe[r] richesse </l>
+      </lg>
+      </lg>
+    </lg>
+
+    <lg>
+      <lg type="stanza">
+        <l n="155"> Whereffore <name type="person"> Bochas </name> here off <sic> here off </sic> to make a p[re]eff </l>
+        <l n="156"> <choice> Serchith </choice> to p[ur]pos a sentence ffull <w type="adjective"> notable </w> </l>
+        <l n="157"> A <w type="adjective"> clere </w> example off onware such my scheffe </l>
+        <lg type="couplet">
+        <l n="158"> Writt off an <choice> autor </choice> <choice> by </choice> man[er] off a ffable </l>
+        <l n="159"> Albe the menyng be ffull <w type="adjective"> comendable </w> </l>
+      </lg>
+        <lg type="couplet">
+        <l n="160"> And  wele <w type="adjective"> accordyng </w> in conclusion </l>
+        <l n="161"> To the <w type="adjective"> clere </w> p[ur]pos off <choice> his </choice> entencion </l>
+      </lg>
+      </lg>
+    </lg>
+    <lg n="1" type="stanza" rhyme="royal">
+      <l n="932"><decoNote type="capital" subtype="blue">Touching þis></decoNote><name type="person">tarquyn</name> of whom I now tolde</l>
+      <l n="933">As myn auctor makith mencioun</l>
+      <l n="934">he called was <name type="person">tarquynius</name> the <w type="adjective">olde</w></l>
+      <l n="935">Which longe in <name type="place">rome</name> had dominaciou[n]</l>
+      <l n="936">Till his kynrede and generaciou[n]</l>
+      <l n="937">For the offence done onto <name type="person">lucrece</name></l>
+      <l n="938">Causid off kyngis the name for to ceese</l>
+    </lg>
+
+    <lg n="2" type="stanza" rhyme="royal">
+      <l n="939">For his sonne which affter gan[n] succede</l>
+      <l n="940">For his outrages and his extorcions</l>
+      <l n="941">And for many anoþer <w type="adjective">cruell</w> dede</l>
+      <l n="942">For his <w type="adjective">hatefull</w> usurpacions</l>
+      <l n="943">His <w type="adjective">foward</w> liff and <w type="adjective">fals</w> condicions</l>
+      <link target="#still.1 #loude.1"/>
+      <l n="944">Among the people both <w type="adjective" xml:id = "still.1">still</w> and <w type="adjective" xml:id = "loude.1">loude</w></l>
+      <l n="945">He callid was <name type="person">tarquynyus</name> the <w type="adjective">proude</w></l>
+    </lg>
+
+    <lg n="3" type="stanza" rhyme="royal">
+      <l n="946">Full <w type="adjective">obstinatt</w> he was in his ententt</l>
+      <l n="947"><w type="adjective">Ambicious</w> to Acroche <w type="adjective">grete</w> riches</l>
+      <l n="948">Till that fortune wax <w type="adjective">inpacientt</w></l>
+      <l n="949">Agayns hym in all his <w type="adjective">grete</w> nobles</l>
+      <l n="950">Gan hir snares and his <w type="adjective">crokes</w> dresse</l>
+      <l n="951">Thought she wold butt he kepte hym wele</l>
+      <l n="952">All sodenly cast hym ffrom hir whele</l>
+    </lg>
+
+    <lg n="4" type="stanza" rhyme="royal">
+      <l n="953">A sonne he had <w type="adjective">vicious</w> as I ffynde</l>
+      <l n="954">To all virtue most <w type="adjective">contr[a]rious</w></l>
+      <l n="955">To be frowned it came to hym off kynde</l>
+      <link target="#proude.1 #dispetuous.1"/>
+      <l n="956">And off nature <w type="adjective" xml:id = "proude.1">proude</w> [and] <w type="adjective" xml:id = "dispetuous.1">dispetuous</w></l>
+      <link target="#fell.1 #malicious.1"/>
+      <l n="957">Agenys the peple <w type="adjective" xml:id = "fell.1">fell</w> and <w type="adjective" xml:id = "malicious.1">malicious</w></l>
+      <l n="958">Natt <w type="adjective">louyd</w> butt <w type="adjective">drad</w> for tyranye of right</l>
+      <l n="959">Is thing most hatid in the peple is sight</l>
+    </lg>
+
+    <lg n="5" type="stanza" rhyme="royal">
+      <l n="960">This <w type="adjective">proude</w> <name type="person">Tarquynu[s]</name> þe story is wele kouth</l>
+      <l n="961">Agenys <name type="person">lucrece</name> a <w type="adjective">grete</w> outrage</l>
+      <l n="962">Oppresid hir beaute in his <w type="adjective">unbridelid</w> youth</l>
+      <l n="963">Hir trouthe assailyng in a <w type="adjective">ffurious</w> rage</l>
+      <l n="964">For which his fadir he and his lenage</l>
+      <l n="965">Expilid wern and for this <w type="adjective">hatefull</w> þing</l>
+      <l n="966">Ther was neu[er] aft[er] in <name type="place">rome</name> <w type="adjective">crownyd</w> kyng</l>
+    </lg>
+
+    <lg n="6" type="stanza" rhyme="royal">
+      <l n="967">His body <w type="adjective">corupte</w> she clere off hert [and] þought</l>
+      <l n="968">By force assailid was hir Innocence</l>
+      <l n="969">Oppresid hir beaute butt her spirite nought</l>
+      <l n="970">Hir chast will did non offence</l>
+      <l n="971">Butt entred is into hir concience</l>
+      <l n="972">A <w type="adjective">grete</w> remors for all his <w type="adjective">wyfly</w> trouth</l>
+      <l n="973">To sleen hir selff which was to <w type="adjective">grete</w> a routh</l>
+    </lg>
+
+    <lg n="7" type="stanza" rhyme="royal">
+      <l n="974">And for that <name type="person">Bochas</name> remembreth petuously</l>
+      <l n="975">Hir <w type="adjective">dedely</w> sorwe and lamentaciou[n]</l>
+      <l n="976">Writt hir compleyntt in ordre ceriously</l>
+      <l n="977">Which that she made ffor his oppresioun</l>
+      <l n="978">I folwe must and make mencioun</l>
+      <l n="979">Afft[er] myne auto[r] parcell rehersyng</l>
+      <l n="980">Touchyng hir wordis seide in her dieyng</l>
+    </lg>
+
+    <lg n="8" type="stanza" rhyme="royal">
+      <l n="981">All be it so by byddyng off my lord</l>
+      <l n="982">Rehersid haue in my t[ra]nslacioun</l>
+      <l n="983">Afft[er] <name type="person">pierius</name> have and þ[ere] a word</l>
+      <l n="984">Off a full <w type="adjective">dolefull</w> declamaciou[n]</l>
+      <l n="985"><choice><sic>And þough I can nott folaw his entenciou[n]</sic><corr>Be hym remembred off entencioun</corr></choice></l>
+      <l n="986"><choice><sic>I shall swe the trouth off rehersyng</sic><corr>For his sake men mythe seen and rede</corr></choice></l>
+      <l n="987"><choice><sic>As in substaunce the effecte off his writyng</sic><corr>What wifli trouthe was in his womanheede</corr></choice></l>
+    </lg>
+
+    <lg n="9" type="stanza" rhyme="royal">
+      <l n="988">And <name type="person">Iohn Bochas</name> list nott sett a side</l>
+      <l n="989">Butt þ[at] he wolde rehersen in sentence</l>
+      <l n="990">Hir <w type="adjective">Wofull</w> co[m]pleyntt and þ[er] uppon abyde</l>
+      <l n="991">Off wrong[is] done to hir Innocence</l>
+      <l n="992">And though I can nott ffolow his eloquence</l>
+      <l n="993"><choice><sic>As in substance the effecte off this writyng</sic><corr>I shal sue the trouthe off rehersyng</corr></choice></l>
+      <l n="994"><choice><sic>To you I shall make full rehersyng</sic><corr>As in substaunce theffect off his writyng</corr></choice></l>
+    </lg>
+
+    <lg n="10" type="stanza" rhyme="royal">
+      <l n="995">The morwe <choice><sic>nextt</sic><corr>next afftir</corr></choice> þ[i]s <w type="adjective">ffoule</w> dede</l>
+      <l n="996"><name type="person">Lucrece</name> up roos w[i]t[h] a ffull <w type="adjective">dedely</w> chere</l>
+      <l n="997">Oute off his face goon was all the rede</l>
+      <l n="998">And dirked wern her <w type="adjective">hevenly</w> eyen <w type="adjective">clere</w></l>
+      <l n="999">All clad in blak afft[er] the manere</l>
+      <l n="1000">Off thilke ffolke which in especiall</l>
+      <l n="1001">Arn wont to goon to ffestis funerall</l>
+    </lg>
+    <lg type="stanza">
+    <l n="1002">All hir frendis beyng in p[re]sence</l>
+    <l n="1003">Housbonde fadre w[ith] oþ[er] eke also</l>
+    <l n="1004">By and by rehersyng in sentence</l>
+    <l n="1005">The c[ir]cumstaunce of hir <w type="adjective">hertly</w> wo</l>
+    <l n="1006">Vnder hope my lord will me support</l>
+    <l n="1007">What that she seide I will to you report</l>
+    </lg>
+    <lg type="stanza">
+    <l n="1008">[[F]]or as moch q[uo]d she as I <name type="person">Lucrece</name> </l>
+    <l n="1009">Am by the law ioyned in mariage</l>
+    <l n="1010">To the my lord who loue shall ay encrece</l>
+    <l n="1011">Towardis the w[ith] all the surplusage</l>
+    <l n="1012">Of <w type="adjective">wifly</w> trouth to enduren all myn age</l>
+    <l n="1013">As <w type="adjective">humble</w> subiet w[ith] <w type="adjective">feithfull</w> obeysaunce</l>
+    <l n="1014">Vndre thy lordship and thy gov[er]naunce</l>
+    </lg>
+    <lg type="stanza">
+    <l n="1015">O <name type="person">Collatyn</name> my lord and <w type="adjective">t[re]we</w> housbonde</l>
+    <l n="1016">Best <w type="adjective">belouyd</w> of <w type="adjective">hoole</w> affection</l>
+    <l n="1017">I will no more no quarell take on hande</l>
+    <l n="1018">Nor in no wise make non accion</l>
+    <l n="1019">W[ith]oute þ[at] þ[ou] list enclyne adown</l>
+    <l n="1020">Goodly thyn eeris to yeue me audience</l>
+    <l n="1021">To that I shall reherce in thy p[re]sence</l>
+    </lg>
+    <lg type="stanza">
+    <l n="1022">Iniurie done or any man[ner] wrong</l>
+    <l n="1023">Agayn my worship or myn honeste</l>
+    <l n="1024">By the lawe my sentence is made <w type="adjective">strong</w></l>
+    <l n="1025">It toucheth you as wele as me</l>
+    <l n="1026">I am so hooly yolden vnto the</l>
+    <l n="1027">Thou art my hede who cleerly can discerne</l>
+    <l n="1028">Lord and housbonde my body to gov[er]ne</l>
+    </lg>
+    <lg type="stanza">
+    <l n="1029"><w type="adjective">Parciall</w> causis in soth þ[er] may no[n] be</l>
+    <l n="1030">Atwene vs tweyne nor no disseu[er]aunce</l>
+    <l n="1031">For <w type="adjective">soote</w> and <w type="adjective">bitt[er]</w> ioye and adu[er]site</l>
+    <l n="1032">We must hem weye both in o balance</l>
+    <l n="1033">Count[er]peise our sorowis our plesaunce</l>
+    <l n="1034">Entermedele all þing þ[at] is in dowte</l>
+    <l n="1035">Receyve oure fortune as it comyth aboute</l>
+    </lg>
+    <lg type="stanza">
+    <l n="1036">Ther may atwene us be no menyng <w type="adjective">double</w></l>
+    <l n="1037">But on hert on will and o corage</l>
+    <l n="1038">And as a woman þ[at] stondeth now in trouble</l>
+    <l n="1039">W[ith]outen polishyng of any <w type="adjective">feire</w> langage</l>
+    <l n="1040">I mote disclosen to you the <w type="adjective">grete</w> out[ra]ge</l>
+    <l n="1041">Doon unto me and pleynly it discure</l>
+    <l n="1042">Which to redresse lyith hooly in yo[ur] cure</l>
+    </lg>
+    <lg type="stanza">
+    <l n="1043">For the mat[er] to speke in wordis <w type="adjective">pleyn</w></l>
+    <l n="1044">Aright oute serchid and the trouth oute founde</l>
+    <l n="1045">As a <w type="adjective">iust</w> cause <w type="adjective">indefferent</w> to tweyne</l>
+    <l n="1046">Toward vs both the quarell doth rebounde</l>
+    <l n="1047">And more strongly oure mat[er] for to grounde</l>
+    <l n="1048">Reherce I will so that ye <w type="adjective">sauff</w> it vouch</l>
+    <l n="1049">A <w type="adjective">mortal</w> wrong which þ[e] and me doth touch</l>
+    </lg>
+    <lg type="stanza">
+    <l n="1050">In a castell which callid is <name type="place">Collace</name></l>
+    <l n="1051">Of which my lord here hath the gov[er]naunce</l>
+    <l n="1052"><name type="person">Tarquyn</name> the <w type="adjective">young</w> came into þ[at] place</l>
+    <l n="1053">I full disware to make p[er]viaunce</l>
+    <l n="1054">Agayn his comyng or any ordenaunce</l>
+    <l n="1055">Toforn not warned of his officers</l>
+    <l n="1056">Sate <w type="adjective">vnp[er]ueyid</w> among my chamberers</l>
+    </lg>
+    <lg type="stanza">
+    <l n="1057">Of entent to eschwe[n] idilnes</l>
+    <l n="1058">We sate and span vpon wollis <w type="adjective">softe</w></l>
+    <l n="1059">For she of vices is a <w type="adjective">chefe</w> mastres</l>
+    <l n="1060">Wher she is <w type="adjective">cherished</w> and i set alofte</l>
+    <l n="1061">But of custome as I haue do full ofte</l>
+    <l n="1062">I and my women dwly as we oughte</l>
+    <l n="1063">To avoide slouth full besely wroughte</l>
+    </lg>
+    <lg type="stanza">
+    <l n="1064">His entering was <w type="adjective">meke</w> and <w type="adjective">debonaire</w></l>
+    <l n="1065"><w type="adjective">Benyugne</w> of port of loke [and] of visage</l>
+    <l n="1066">W[ith] a p[re]tence of many wordis <w type="adjective">faire</w></l>
+    <l n="1067">In whois menyng was full <w type="adjective">grete</w> out[ra]ge</l>
+    <l n="1068">his chere <w type="adjective">co[n]trarie</w> vnto his corage</l>
+    <l n="1069">In this wise þ[er] he was receyvid</l>
+    <l n="1070">Wherby alas i falsly was deceyvid</l>
+    </lg>
+    <lg type="stanza">
+    <l n="1071">At p[ri]me face as me þought it <w type="adjective">due</w></l>
+    <l n="1072">I hym receyvid at his in comyng</l>
+    <l n="1073">Roos vp mekely and gan hym to salue</l>
+    <l n="1074">As it aperteynyd in all man[er] þing</l>
+    <l n="1075">Vnto the soune of a <w type="adjective">worthy</w> kyng</l>
+    <l n="1076">And truly <name type="person">Tarquyn</name> for which I sey alas</l>
+    <l n="1077">Me to betraye stode in the <w type="adjective">same</w> caas</l>
+    </lg>
+    <lg type="stanza">
+    <l n="1078">A kyng[e]s soune should of duete</l>
+    <l n="1079">Bene to women wall and p[ro]teccion</l>
+    <l n="1080">P[re]s[er]ue and kepe hem in all suerte</l>
+    <l n="1081">That no man shoulde of no p[re]sumpcion</l>
+    <l n="1082">Doon hem no wronge nor opp[re]ssion</l>
+    <l n="1083">Rather deye þan see hem suffer vnright</l>
+    <l n="1084">Av[er]tisyng the office of a knyght</l>
+    </lg>
+<lg type="stanza">
+  <l n="1086">But in cont[ra]rie off knyghthode he hath wrought</l>
+  <l n="1087">By <w type="adjective">ffals</w> outrage done agayns me</l>
+  <l n="1088"><w type="adjective">Wrong</w> weyes [and] <w type="adjective">croked</w> menys sought</l>
+  <l n="1089">Off lawes <w type="adjective">tweyne</w> to breke the liberte</l>
+  <l n="1090">And difface the Autorite</l>
+  <l n="1091">Off lawe <w type="adjective">Cyuile</w> and <w type="adjective">naturall</w> also</l>
+  <l n="1092">In my p[er]sone offendyng both <choice><sic>two</sic><corr>too</corr></choice></l>
+</lg>
+<lg type="stanza">
+  <l n="1093">ffirst by <w type="adjective">fals</w> <w type="adjective">subtile</w> compassyng</l>
+  <l n="1094">He gan espie <choice><sic>the weyes</sic><corr>thestris</corr></choice> off the place</l>
+  <l n="1095">And whan abedde <w type="adjective">Alone</w> I laye slepyng</l>
+  <l n="1096">like A lion ffull <w type="adjective">sterne</w> off loke and fface</l>
+  <l n="1097">W[ith] his <sic>leffthonde</sic> my throte he did enbrace</l>
+  <l n="1098">And In his other helde agayn all lawe</l>
+  <l n="1099">Me ffor to opp[re]sse a <w type="adjective">nakid</w> swerd I drawe</l>
+    <l><sic>Thus afforcyng my <w type="adjective">wifly</w> chastite</sic></l>
+</lg>
+<lg type="stanza">
+  <l n="1100">Thus afforcyng my <w type="adjective">wifly</w> chastite</l>
+  <l n="1101">Ageyn knyghthode he did this <w type="adjective">grete</w> offence</l>
+  <l n="1102">My liff my worship putt in p[er]plexite</l>
+  <l n="1103">Hauyng no myght to make resistence</l>
+  <l n="1104">Me manasyng by <w type="adjective">dedely</w> violence</l>
+  <l n="1105">The toon off tweyne to deye in his ententt</l>
+  <l n="1106">Or to avoutry ffalsly to consentt</l>
+</lg>
+<lg type="stanza">
+  <l n="1107">Thus I stode soole Atwene deth [and] diffame</l>
+  <l n="1108">My body <w type="adjective">corupte</w> my spirite abode <w type="adjective">clene</w></l>
+  <l n="1109">My spousaile broke and my <w type="adjective">good</w> name</l>
+  <l n="1110">ffo[r] eu[er] disclaundrid �[at] whilom shone full shene</l>
+  <l n="1111"><w type="adjective">Evill</w> fame off custome will alwey wex <w type="adjective">grene</w></l>
+  <l n="1112">Neu[er] deye the peple so hem disportt</l>
+  <l n="1113">The <w type="adjective">werst</w> off �ings gladly to reportt</l>
+</lg>
+<lg type="stanza">
+  <l n="1114">This on the <w type="adjective">most</w> �[at] doth my hertt Agrise</l>
+  <l n="1115">I am nott <w type="adjective">worthy</w> �[at] men me should call</l>
+  <l n="1116">Or haue the name In no man[er] wise</l>
+  <l n="1117">For the offence which ye hane herd devise</l>
+  <l n="1118">To be callid in �is <w type="adjective">wrecchid</w> liff</l>
+  <l n="1119">Off <name type="person">Collatyn</name> ffrom hens furth �[e] wiff</l>
+</lg>
+<lg type="stanza">
+  <l n="1120">Myn eyen also be blyndid w[ith] derkenes</l>
+  <l n="1121">Only ffor shame to lefften vp �e[r] sight</l>
+  <l n="1122">Outher �e[r] stremys or bemys vp to dresse</l>
+  <l n="1123">Off the <w type="adjective">clere</w> heven to loke vppon the light</l>
+  <l n="1124">Nor I may neu[er] ben off the nombre <sic>A</sic> right</l>
+  <l n="1125">Off <w type="adjective">t[re]we</w> matrones Among hem <w type="adjective">ffe[er]</w> or <w type="adjective">ne[er]</w></l>
+  <l n="1126">ffor to be rekenyd in �e[r] kalende[er]</l>
+</lg>
+<lg type="stanza">
+  <l n="1127">Latt myn Iniurie and this <w type="adjective">mortall</w> cryme</l>
+  <l n="1128">Be so punyshyd off right and equyte</l>
+  <l n="1129">W[ith]oute delaye off <w type="adjective">any</w> <w type="adjective">leng[er]</w> tyme</l>
+  <l n="1130">Thatt eu[er] afft[er] itt may example be</l>
+  <l n="1131">Through all the world and eke in this cite</l>
+  <l n="1132">W[ith] such A peyne �[er] vppon devised</l>
+  <l n="1133">Thatt all avoutours may be �[er]by chastised</l>
+</lg>
+<lg type="stanza">
+  <l n="1134">And iff itt seme in yo[er] opynyon</l>
+  <l n="1135">In this caas I should ben <w type="adjective">vnpure</w></l>
+  <l n="1136">I will receyve <w type="adjective">Iust</w> punyssion</l>
+  <l n="1137">And the peyne paciently endure</l>
+  <l n="1138">Iff so stonde thatt p[er]aventure</l>
+  <l n="1139">Ye deme off reason �[at] be so <w type="adjective">Iust</w> [and] <w type="adjective">stable</w></l>
+  <l n="1140">In this mat[er] thatt I be <w type="adjective">culpable</w></l>
+</lg>
+<lg type="stanza">
+  <l n="1141">Hir tale told when they long had mused</l>
+  <l n="1142"><choice><sic>Unto hir</sic><corr>On this</corr></choice> compleyntt in �e[r] <w type="adjective">Inward</w> sight</l>
+  <l n="1143">Off trouth echon they helde hir full excusid</l>
+  <l n="1144">Made all behest w[ith] all �e[r] <w type="adjective">ffull</w> myght</l>
+  <l n="1145">To avenge hir wrong [and] <name type="person">lucrece</name> anon right</l>
+  <l n="1146">Toke A <w type="adjective">sharpe</w> knyff or they myghte adu[er]te</l>
+  <l n="1147">And rooff hir selff evyn �rough �[e] hertt</l>
+</lg>
+</div>
+</body>
+</text>
+</TEI.2>
